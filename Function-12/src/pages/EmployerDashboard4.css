@@ -1,0 +1,1536 @@
+.employer-dashboard-4 .close-btn {
+  border-radius: 8.1px;
+  background: #FC615C;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-dashboard-4 .restore-btn {
+  border-radius: 8.1px;
+  background: #FDBE40;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-dashboard-4 .minimize-btn {
+  border-radius: 8.1px;
+  background: #34CA49;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-dashboard-4 .action-bttn {
+  margin: 5.4px 17.5px 8.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 70.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .arrow {
+  width: 6.8px;
+  height: 13.5px;
+}
+.employer-dashboard-4 .prev-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 2.7px;
+  display: flex;
+  padding: 8.1px 13.5px 8.1px 12.2px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .arrow-1 {
+  width: 6.8px;
+  height: 13.5px;
+}
+.employer-dashboard-4 .prev-btn-2 {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 14.9px;
+  display: flex;
+  padding: 8.1px 12.1px 8.1px 13.5px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .option-btn {
+  width: 50px;
+  height: 29.7px;
+}
+.employer-dashboard-4 .container {
+  margin: 0px 0 9.4px 0;
+  display: flex;
+  flex-direction: row;
+  width: 220px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .safaribrowser {
+  margin: 3px 7px 0 0;
+  display: inline-block;
+  width: 583px;
+  overflow-wrap: break-word;
+  font-family: 'SF Compact Display', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.employer-dashboard-4 .refresh {
+  margin-bottom: 5px;
+  width: 10px;
+  height: 12px;
+}
+.employer-dashboard-4 .address-bar {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 7px 0 0;
+  width: 1143px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .share {
+  width: 13.5px;
+  height: 18.9px;
+}
+.employer-dashboard-4 .share-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 10.8px 9.4px 0;
+  display: flex;
+  padding: 4.7px 18.2px 6.1px 18.2px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .view {
+  width: 14.9px;
+  height: 14.9px;
+}
+.employer-dashboard-4 .view-search-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 17.5px 9.4px 0;
+  display: flex;
+  padding: 7.4px 17.6px 7.4px 17.5px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .add-btn {
+  margin-top: 6.7px;
+  width: 32.4px;
+  height: 32.4px;
+}
+.employer-dashboard-4 .container-1 {
+  margin-top: 0px;
+  display: flex;
+  flex-direction: row;
+  width: 160.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .web-bar {
+  box-shadow: 0px 1px 0px 0px #B5B4B5;
+  border-radius: 5px 5px 0 0;
+  background: linear-gradient(180deg, #EBEAEB, #D7D6D7);
+  position: relative;
+  margin-bottom: 33px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 42.8px 0px 0.1px 17.6px;
+  width: 1728px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .group-1010 {
+  width: 61px;
+  height: 60px;
+}
+.employer-dashboard-4 .sidebar {
+  margin: 414px 208px 714.5px 0;
+  display: flex;
+  width: 61px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .ph {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.333;
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .avatar {
+  border-radius: 999px;
+  background: #9CA3AF;
+  margin: 2px 12px 2px 0;
+  display: flex;
+  padding: 8px 7.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .job-ez {
+  overflow-wrap: break-word;
+  font-family: var(--text-2-xlfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-2-xlfont-semibold-font-weight, 600);
+  font-size: var(--text-2-xlfont-semibold-font-size, 24px);
+  line-height: var(--text-2-xlfont-semibold-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .logo {
+  margin: 1.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text {
+  margin-right: 12px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.employer-dashboard-4 .vector-2 {
+  width: 9.3px;
+  height: 9.3px;
+}
+.employer-dashboard-4 .plus-outline {
+  margin: 6.8px 0;
+  display: flex;
+  width: 9.3px;
+  height: 9.3px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .button {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  display: flex;
+  flex-direction: row;
+  padding: 8px 15.3px 8px 12px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .cta {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .navbar {
+  background: var(--white-4, #FFFFFF);
+  margin-bottom: 36px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 22px 18.5px;
+  width: 1220px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .recently-posted-jobs {
+  margin-right: 16.5px;
+  width: 1120.2px;
+  overflow-wrap: break-word;
+  font-family: 'Gothic A1';
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1.5;
+  color: #545454;
+}
+.employer-dashboard-4 .view-all {
+  overflow-wrap: break-word;
+  font-family: 'Gothic A1';
+  font-weight: 700;
+  font-size: 22px;
+  text-decoration-line: underline;
+  line-height: 1.5;
+  color: #1A56DB;
+}
+.employer-dashboard-4 .headers {
+  margin-bottom: 18.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1220px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .ph-1 {
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-xsfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-xsfont-medium-font-size, 12px);
+  line-height: var(--leading-nonetext-xsfont-medium-line-height, 1);
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .avatar-1 {
+  border-radius: 999px;
+  background: var(--gray-100, #F3F4F6);
+  margin: 0 12px 32px 0;
+  display: flex;
+  padding: 9px 6.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-2-xlfont-bold-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-2-xlfont-bold-font-weight, 700);
+  font-size: var(--leading-tighttext-2-xlfont-bold-font-size, 24px);
+  line-height: var(--leading-tighttext-2-xlfont-bold-line-height, 1.25);
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .text-4 {
+  margin-right: 3.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-dashboard-4 .heading-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .main-info {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-5 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #1A56DB;
+}
+.employer-dashboard-4 .button-1 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin: 6px 10.5px 0 0;
+  display: flex;
+  padding: 9px 19.8px 9px 19px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-7 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-dashboard-4 .button-2 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  position: relative;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .container {
+  position: absolute;
+  right: 7.2px;
+  bottom: 5px;
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-smfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-smfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-smfont-medium-font-size, 14px);
+  line-height: var(--leading-nonetext-smfont-medium-line-height, 1);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-dashboard-4 .indicators {
+  border-radius: 12px;
+  background: #31C48D;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 24px;
+  height: 24px;
+}
+.employer-dashboard-4 .indicator-examples {
+  position: relative;
+  padding: 6px 0.5px 0 0;
+  width: 148.5px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .buttons {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 961px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-2 {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .text-6 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-dashboard-4 .frame-1000004317 {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .frame-1030 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  margin-bottom: 2.5px;
+  display: flex;
+  padding: 2px 10.1px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .vector-3 {
+  width: 5.8px;
+  height: 11.7px;
+}
+.employer-dashboard-4 .dollar {
+  margin: 3.2px 8.4px 3.2px 0;
+  display: flex;
+  width: 5.8px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-2 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-1 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  margin: 0 0 2.5px 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 2px 10.3px 2px 14.1px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .vector-4 {
+  width: 9.3px;
+  height: 11.7px;
+}
+.employer-dashboard-4 .pin {
+  margin: 3.2px 6.5px 3.2px 0;
+  display: flex;
+  width: 9.3px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-3 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-2 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  flex-direction: row;
+  padding: 2px 10.2px 2px 12.3px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .job-tags {
+  margin-bottom: 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-info {
+  margin: 0 42px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 919px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .listing-card-web {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17px;
+  display: flex;
+  flex-direction: column;
+  padding: 12.5px 0 10.5px 24px;
+  width: 1220px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .ph-2 {
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-xsfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-xsfont-medium-font-size, 12px);
+  line-height: var(--leading-nonetext-xsfont-medium-line-height, 1);
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .avatar-2 {
+  border-radius: 999px;
+  background: var(--gray-100, #F3F4F6);
+  margin: 0 12px 32px 0;
+  display: flex;
+  padding: 9px 6.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-4 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-2-xlfont-bold-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-2-xlfont-bold-font-weight, 700);
+  font-size: var(--leading-tighttext-2-xlfont-bold-font-size, 24px);
+  line-height: var(--leading-tighttext-2-xlfont-bold-line-height, 1.25);
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .text-11 {
+  margin-right: 3.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-dashboard-4 .heading-text-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .main-info-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-12 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #1A56DB;
+}
+.employer-dashboard-4 .button-3 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin: 6px 10.5px 0 0;
+  display: flex;
+  padding: 9px 19.8px 9px 19px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-14 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-dashboard-4 .button-4 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  position: relative;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .container-1 {
+  position: absolute;
+  right: 7.2px;
+  bottom: 5px;
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-smfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-smfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-smfont-medium-font-size, 14px);
+  line-height: var(--leading-nonetext-smfont-medium-line-height, 1);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-dashboard-4 .indicators-1 {
+  border-radius: 12px;
+  background: #31C48D;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 24px;
+  height: 24px;
+}
+.employer-dashboard-4 .indicator-examples-1 {
+  position: relative;
+  padding: 6px 0.5px 0 0;
+  width: 148.5px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .buttons-1 {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-3 {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 961px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-5 {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .text-13 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-dashboard-4 .frame-10000043171 {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .frame-10301 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-8 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-3 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  margin-bottom: 2.5px;
+  display: flex;
+  padding: 2px 10.1px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .vector-5 {
+  width: 5.8px;
+  height: 11.7px;
+}
+.employer-dashboard-4 .dollar-1 {
+  margin: 3.2px 8.4px 3.2px 0;
+  display: flex;
+  width: 5.8px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-9 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-4 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  margin: 0 0 2.5px 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 2px 10.3px 2px 14.1px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .vector-6 {
+  width: 9.3px;
+  height: 11.7px;
+}
+.employer-dashboard-4 .pin-1 {
+  margin: 3.2px 6.5px 3.2px 0;
+  display: flex;
+  width: 9.3px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-10 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-5 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  flex-direction: row;
+  padding: 2px 10.2px 2px 12.3px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .job-tags-1 {
+  margin-bottom: 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-info-1 {
+  margin: 0 42px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 919px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .listing-card-web-1 {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17px;
+  display: flex;
+  flex-direction: column;
+  padding: 12.5px 0 10.5px 24px;
+  width: 1220px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .ph-3 {
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-xsfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-xsfont-medium-font-size, 12px);
+  line-height: var(--leading-nonetext-xsfont-medium-line-height, 1);
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .avatar-3 {
+  border-radius: 999px;
+  background: var(--gray-100, #F3F4F6);
+  margin: 0 12px 32px 0;
+  display: flex;
+  padding: 9px 6.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-7 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-2-xlfont-bold-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-2-xlfont-bold-font-weight, 700);
+  font-size: var(--leading-tighttext-2-xlfont-bold-font-size, 24px);
+  line-height: var(--leading-tighttext-2-xlfont-bold-line-height, 1.25);
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .text-18 {
+  margin-right: 3.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-dashboard-4 .heading-text-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .main-info-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-19 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #1A56DB;
+}
+.employer-dashboard-4 .button-5 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin: 6px 10.5px 0 0;
+  display: flex;
+  padding: 9px 19.8px 9px 19px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-21 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-dashboard-4 .button-6 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  position: relative;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .container-2 {
+  position: absolute;
+  right: 7.2px;
+  bottom: 5px;
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-smfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-smfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-smfont-medium-font-size, 14px);
+  line-height: var(--leading-nonetext-smfont-medium-line-height, 1);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-dashboard-4 .indicators-2 {
+  border-radius: 12px;
+  background: #31C48D;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 24px;
+  height: 24px;
+}
+.employer-dashboard-4 .indicator-examples-2 {
+  position: relative;
+  padding: 6px 0.5px 0 0;
+  width: 148.5px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .buttons-2 {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-6 {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 961px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-8 {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .text-20 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-dashboard-4 .frame-10000043172 {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .frame-10302 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-15 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-6 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  margin-bottom: 2.5px;
+  display: flex;
+  padding: 2px 10.1px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .vector-7 {
+  width: 5.8px;
+  height: 11.7px;
+}
+.employer-dashboard-4 .dollar-2 {
+  margin: 3.2px 8.4px 3.2px 0;
+  display: flex;
+  width: 5.8px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-16 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-7 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  margin: 0 0 2.5px 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 2px 10.3px 2px 14.1px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .vector-8 {
+  width: 9.3px;
+  height: 11.7px;
+}
+.employer-dashboard-4 .pin-2 {
+  margin: 3.2px 6.5px 3.2px 0;
+  display: flex;
+  width: 9.3px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-17 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-8 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  flex-direction: row;
+  padding: 2px 10.2px 2px 12.3px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .job-tags-2 {
+  margin-bottom: 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-info-2 {
+  margin: 0 42px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 919px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .listing-card-web-2 {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17px;
+  display: flex;
+  flex-direction: column;
+  padding: 12.5px 0 10.5px 24px;
+  width: 1220px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .ph-4 {
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-xsfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-xsfont-medium-font-size, 12px);
+  line-height: var(--leading-nonetext-xsfont-medium-line-height, 1);
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .avatar-4 {
+  border-radius: 999px;
+  background: var(--gray-100, #F3F4F6);
+  margin: 0 12px 32px 0;
+  display: flex;
+  padding: 9px 6.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-10 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-2-xlfont-bold-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-2-xlfont-bold-font-weight, 700);
+  font-size: var(--leading-tighttext-2-xlfont-bold-font-size, 24px);
+  line-height: var(--leading-tighttext-2-xlfont-bold-line-height, 1.25);
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .text-25 {
+  margin-right: 3.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-dashboard-4 .heading-text-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .main-info-3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-26 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #1A56DB;
+}
+.employer-dashboard-4 .button-7 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin: 6px 10.5px 0 0;
+  display: flex;
+  padding: 9px 19.8px 9px 19px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-28 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-dashboard-4 .button-8 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  position: relative;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .container-3 {
+  position: absolute;
+  right: 7.2px;
+  bottom: 5px;
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-smfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-smfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-smfont-medium-font-size, 14px);
+  line-height: var(--leading-nonetext-smfont-medium-line-height, 1);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-dashboard-4 .indicators-3 {
+  border-radius: 12px;
+  background: #31C48D;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 24px;
+  height: 24px;
+}
+.employer-dashboard-4 .indicator-examples-3 {
+  position: relative;
+  padding: 6px 0.5px 0 0;
+  width: 148.5px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .buttons-3 {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-9 {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 961px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-11 {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .text-27 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-dashboard-4 .frame-10000043173 {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .frame-10303 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-22 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-9 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  margin-bottom: 2.5px;
+  display: flex;
+  padding: 2px 10.1px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .vector-9 {
+  width: 5.8px;
+  height: 11.7px;
+}
+.employer-dashboard-4 .dollar-3 {
+  margin: 3.2px 8.4px 3.2px 0;
+  display: flex;
+  width: 5.8px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-23 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-10 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  margin: 0 0 2.5px 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 2px 10.3px 2px 14.1px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .vector-10 {
+  width: 9.3px;
+  height: 11.7px;
+}
+.employer-dashboard-4 .pin-3 {
+  margin: 3.2px 6.5px 3.2px 0;
+  display: flex;
+  width: 9.3px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-24 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-11 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  flex-direction: row;
+  padding: 2px 10.2px 2px 12.3px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .job-tags-3 {
+  margin-bottom: 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-info-3 {
+  margin: 0 42px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 919px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .listing-card-web-3 {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17px;
+  display: flex;
+  flex-direction: column;
+  padding: 12.5px 0 10.5px 24px;
+  width: 1220px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .ph-5 {
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-xsfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-xsfont-medium-font-size, 12px);
+  line-height: var(--leading-nonetext-xsfont-medium-line-height, 1);
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .avatar-5 {
+  border-radius: 999px;
+  background: var(--gray-100, #F3F4F6);
+  margin: 0 12px 32px 0;
+  display: flex;
+  padding: 9px 6.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-13 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-2-xlfont-bold-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-2-xlfont-bold-font-weight, 700);
+  font-size: var(--leading-tighttext-2-xlfont-bold-font-size, 24px);
+  line-height: var(--leading-tighttext-2-xlfont-bold-line-height, 1.25);
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .text-32 {
+  margin-right: 3.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-dashboard-4 .heading-text-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .main-info-4 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-33 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #1A56DB;
+}
+.employer-dashboard-4 .button-9 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin: 6px 10.5px 0 0;
+  display: flex;
+  padding: 9px 19.8px 9px 19px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-35 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-dashboard-4 .button-10 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  position: relative;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .container-4 {
+  position: absolute;
+  right: 7.2px;
+  bottom: 5px;
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-smfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-smfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-smfont-medium-font-size, 14px);
+  line-height: var(--leading-nonetext-smfont-medium-line-height, 1);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-dashboard-4 .indicators-4 {
+  border-radius: 12px;
+  background: #31C48D;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 24px;
+  height: 24px;
+}
+.employer-dashboard-4 .indicator-examples-4 {
+  position: relative;
+  padding: 6px 0.5px 0 0;
+  width: 148.5px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .buttons-4 {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-12 {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 961px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .heading-14 {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.employer-dashboard-4 .text-34 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-dashboard-4 .frame-10000043174 {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .frame-10304 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-29 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-12 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  margin-bottom: 2.5px;
+  display: flex;
+  padding: 2px 10.1px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .vector-11 {
+  width: 5.8px;
+  height: 11.7px;
+}
+.employer-dashboard-4 .dollar-4 {
+  margin: 3.2px 8.4px 3.2px 0;
+  display: flex;
+  width: 5.8px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-30 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-13 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  margin: 0 0 2.5px 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 2px 10.3px 2px 14.1px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .vector-12 {
+  width: 9.3px;
+  height: 11.7px;
+}
+.employer-dashboard-4 .pin-4 {
+  margin: 3.2px 6.5px 3.2px 0;
+  display: flex;
+  width: 9.3px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-31 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-dashboard-4 .badge-14 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  flex-direction: row;
+  padding: 2px 10.2px 2px 12.3px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .job-tags-4 {
+  margin-bottom: 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .text-info-4 {
+  margin: 0 42px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 919px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .listing-card-web-4 {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 12.5px 0 10.5px 24px;
+  width: 1220px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .frame-1000004330 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1220px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .frame-1000004335 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1220px;
+  box-sizing: border-box;
+}
+.employer-dashboard-4 .container-2 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 1489px;
+  box-sizing: border-box;
+}
+.employer-dashboard {
+  background: #EDF0F4;
+  display: flex;
+  flex-direction: column;
+  width: 1728px;
+  box-sizing: border-box;
+}

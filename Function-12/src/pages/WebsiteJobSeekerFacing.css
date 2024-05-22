@@ -1,0 +1,112 @@
+.website-job-seeker-facing .logo {
+  margin-right: 30px;
+  width: 1281px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: -0.4px;
+  line-height: 1.5;
+  color: #000000;
+}
+.website-job-seeker-facing .vector {
+  width: 30px;
+  height: 20px;
+}
+.website-job-seeker-facing .material-symbolsmenu {
+  margin: 20px 0;
+  display: flex;
+  width: 30px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.website-job-seeker-facing .container {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 137px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 42px 19px 57px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.website-job-seeker-facing .find-part-time-jobs-near-you {
+  margin: 0 40.8px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: -0.4px;
+  line-height: 1.5;
+  color: #000000;
+}
+.website-job-seeker-facing .employers-with-job-ez-are-verified-local-small-businesses-actively-hiring-new-employees {
+  margin: 0 0 79px 3.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: -0.2px;
+  line-height: 1.5;
+  color: #000000;
+}
+.website-job-seeker-facing .search {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.website-job-seeker-facing .frame-427318907 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  margin: 0 0 199px 1px;
+  padding: 9px 39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.website-job-seeker-facing .other-marketing-content {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: -0.2px;
+  line-height: 1.5;
+  color: #000000;
+}
+.website-job-seeker-facing .container-2 {
+  background: #D9D9D9;
+  position: relative;
+  padding: 46px 26px 276px 26px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.website-job-seeker-facing .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.website-job-seeker-facing .for-employers-for-job-seekers-about-job-ez {
+  position: absolute;
+  top: 70px;
+  right: -1.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: -0.2px;
+  line-height: 1.5;
+  color: #000000;
+}
+.website-job-seeker-facing {
+  background: #FFFFFF;
+  width: 1440px;
+  box-sizing: border-box;
+}

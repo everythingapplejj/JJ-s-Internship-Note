@@ -1,0 +1,76 @@
+.range-sliders .ellipse {
+  border-radius: 11px;
+  background: var(--white-4, #FFFFFF);
+  width: 22px;
+  height: 22px;
+}
+.range-sliders .thumb {
+  box-shadow: var(--shadow-sm-1, 0px 1px 2px 0px rgba(0, 0, 0, 0.08));
+  border-radius: 36px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--white-4, #FFFFFF);
+  display: flex;
+  width: 22px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.range-sliders .value {
+  border-radius: 4px;
+  background: #1A56DB;
+  margin-bottom: 12px;
+  display: flex;
+  align-self: flex-start;
+  width: 208px;
+  height: 8px;
+  box-sizing: border-box;
+}
+.range-sliders .container {
+  margin-right: 10.5px;
+  width: 176.5px;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-500, #6B7280);
+}
+.range-sliders .container-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-500, #6B7280);
+}
+.range-sliders .container-2 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-500, #6B7280);
+}
+.range-sliders .container-3 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-500, #6B7280);
+}
+.range-sliders .data {
+  margin-left: 0.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 0.3px);
+  box-sizing: border-box;
+}
+.range-sliders {
+  border-radius: 4px;
+  background: var(--gray-2002, #E5E7EB);
+  display: flex;
+  flex-direction: column;
+  padding-right: 0.5px;
+  box-sizing: border-box;
+}

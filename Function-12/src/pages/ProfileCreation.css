@@ -1,0 +1,441 @@
+.profile-creation .wifi {
+  margin-right: 2px;
+  width: 18px;
+  height: 14px;
+}
+.profile-creation .cellular {
+  margin-right: 9px;
+  width: 14px;
+  height: 14px;
+}
+.profile-creation .battery {
+  margin-right: 8.6px;
+  width: 9px;
+  height: 14px;
+}
+.profile-creation .time {
+  margin: 1.9px 0;
+  width: 33.6px;
+  height: 10.2px;
+}
+.profile-creation .top {
+  background: #FFFFFF;
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  padding: 5px 8.7px 5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.profile-creation .shape {
+  width: 10px;
+  height: 18px;
+}
+.profile-creation .ic-left {
+  margin: 3px 15px 3px 0;
+  display: flex;
+  width: 10px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.profile-creation .title {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #000000;
+}
+.profile-creation .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.profile-creation .icon {
+  margin-right: 16px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+}
+.profile-creation .icon-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+}
+.profile-creation .icon-buttons {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.profile-creation .content {
+  margin: 0 12px 0 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 27px);
+  box-sizing: border-box;
+}
+.profile-creation .top-bar {
+  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.12);
+  background: #FFFFFF;
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 12px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.profile-creation .avatar-1 {
+  border-radius: 40px;
+  background: rgba(0, 0, 0, 0.1);
+  margin-right: 12px;
+  width: 40px;
+  height: 40px;
+}
+.profile-creation .title-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+}
+.profile-creation .subtitle {
+  margin-right: 8.4px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.5);
+}
+.profile-creation .frame-427318906 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.profile-creation .container-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.profile-creation .title-2 {
+  margin-right: 6.7px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+  color: #000000;
+}
+.profile-creation .vector-9 {
+  width: 5px;
+  height: 10px;
+}
+.profile-creation .icon-2 {
+  margin: 3px 0;
+  display: flex;
+  width: 5px;
+  height: 10px;
+  box-sizing: border-box;
+}
+.profile-creation .button {
+  border-radius: 4px;
+  border: 1px solid #000000;
+  margin: 9px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 2px 6px 2px 7px;
+  box-sizing: border-box;
+}
+.profile-creation .avatar {
+  margin: 0 12px 12px 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 24px);
+  box-sizing: border-box;
+}
+.profile-creation .title-3 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.375;
+  color: #000000;
+}
+.profile-creation .image {
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.05);
+  display: flex;
+  padding: 169px 0;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.profile-creation .image-container {
+  margin: 0 12px 12px 12px;
+  width: calc(100% - 24px);
+  box-sizing: border-box;
+}
+.profile-creation .title-4 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.profile-creation .text {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: rgba(0, 0, 0, 0.5);
+}
+.profile-creation .textfield {
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 7px 11px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.profile-creation .input {
+  margin: 0 12px 12px 12px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 24px);
+  box-sizing: border-box;
+}
+.profile-creation .title-5 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.profile-creation .text-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: rgba(0, 0, 0, 0.5);
+}
+.profile-creation .textfield-1 {
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 7px 11px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.profile-creation .input-1 {
+  margin: 0 12px 12px 12px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 24px);
+  box-sizing: border-box;
+}
+.profile-creation .title-6 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.profile-creation .text-2 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: rgba(0, 0, 0, 0.5);
+}
+.profile-creation .textfield-2 {
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 7px 11px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.profile-creation .input-2 {
+  margin: 0 12px 12px 12px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 24px);
+  box-sizing: border-box;
+}
+.profile-creation .title-7 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.profile-creation .text-3 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: rgba(0, 0, 0, 0.5);
+}
+.profile-creation .textfield-3 {
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 7px 11px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.profile-creation .input-3 {
+  margin: 0 12px 12px 12px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 24px);
+  box-sizing: border-box;
+}
+.profile-creation .title-8 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.profile-creation .text-4 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.profile-creation .chip {
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.05);
+  display: flex;
+  padding: 8px 8.4px 8px 8px;
+  box-sizing: border-box;
+}
+.profile-creation .text-5 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.profile-creation .chip-1 {
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.05);
+  display: flex;
+  padding: 8px 8.6px 8px 8px;
+  box-sizing: border-box;
+}
+.profile-creation .text-6 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.profile-creation .chip-2 {
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.05);
+  display: flex;
+  padding: 8px 8.5px 8px 8px;
+  box-sizing: border-box;
+}
+.profile-creation .chip-group {
+  display: flex;
+  flex-direction: row;
+  column-gap: 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profile-creation .selection {
+  margin: 0 12px 12px 12px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profile-creation .title-9 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.375;
+  color: #000000;
+}
+.profile-creation .seconday {
+  border-radius: 8px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 9px 0px 9px 0;
+  flex-grow: 1;
+  flex-basis: 164px;
+  box-sizing: border-box;
+}
+.profile-creation .title-10 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.375;
+  color: #FFFFFF;
+}
+.profile-creation .primary {
+  border-radius: 8px;
+  background: #000000;
+  display: flex;
+  padding: 10px 0.7px 10px 0;
+  flex-grow: 1;
+  flex-basis: 164px;
+  box-sizing: border-box;
+}
+.profile-creation .button-1 {
+  margin: 0 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 24px);
+  box-sizing: border-box;
+}
+.profile-creation {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 12px;
+  box-sizing: border-box;
+}

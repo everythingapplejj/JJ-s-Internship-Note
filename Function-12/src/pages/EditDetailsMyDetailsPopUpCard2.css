@@ -1,0 +1,229 @@
+.edit-details-my-details-pop-up-card-2 .edit-details {
+  margin-right: 12px;
+  width: 531px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+}
+.edit-details-my-details-pop-up-card-2 .vector {
+  width: 14px;
+  height: 14px;
+}
+.edit-details-my-details-pop-up-card-2 .xoutline {
+  margin: 5px 0;
+  display: flex;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.edit-details-my-details-pop-up-card-2 .frame-1000004438 {
+  margin: 0 11px 14px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 557px;
+  box-sizing: border-box;
+}
+.edit-details-my-details-pop-up-card-2 .name {
+  margin: 0 525.5px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+}
+.edit-details-my-details-pop-up-card-2 .enter-your-name {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #6B7280;
+}
+.edit-details-my-details-pop-up-card-2 .autocomplete-input {
+  border-radius: 8px;
+  border: 1px solid #76A9FA;
+  background: #F9FAFB;
+  margin: 0 5px 8px 0;
+  padding: 18px 16px 17px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.edit-details-my-details-pop-up-card-2 .text {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.edit-details-my-details-pop-up-card-2 .button {
+  border-radius: 8px;
+  background: #233876;
+  margin: 0 516px 31.5px 0;
+  display: flex;
+  padding: 8px 12.1px 8px 12px;
+  box-sizing: border-box;
+}
+.edit-details-my-details-pop-up-card-2 .line-17 {
+  background: linear-gradient(rgba(24, 119, 242, 0.5), rgba(24, 119, 242, 0.5)), linear-gradient(#1877F2, #1877F2), linear-gradient(#1877F2, #1877F2);
+  margin: 0 0px 24.5px 0;
+  width: 568px;
+  height: 1px;
+}
+.edit-details-my-details-pop-up-card-2 .phone {
+  margin: 0 522.3px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+}
+.edit-details-my-details-pop-up-card-2 .enter-your-phone-number {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #6B7280;
+}
+.edit-details-my-details-pop-up-card-2 .autocomplete-input-1 {
+  border-radius: 8px;
+  border: 1px solid #76A9FA;
+  background: #F9FAFB;
+  margin: 0 5px 8px 0;
+  padding: 17px 11px 18px 11px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.edit-details-my-details-pop-up-card-2 .text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.edit-details-my-details-pop-up-card-2 .button-1 {
+  border-radius: 8px;
+  background: #233876;
+  margin: 0 516px 30px 0;
+  display: flex;
+  padding: 8px 12.1px 8px 12px;
+  box-sizing: border-box;
+}
+.edit-details-my-details-pop-up-card-2 .line-18 {
+  background: linear-gradient(rgba(24, 119, 242, 0.5), rgba(24, 119, 242, 0.5)), linear-gradient(#1877F2, #1877F2), linear-gradient(#1877F2, #1877F2);
+  margin: 0 0 25px 0px;
+  width: 568px;
+  height: 1px;
+}
+.edit-details-my-details-pop-up-card-2 .email {
+  margin: 0 528.2px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+}
+.edit-details-my-details-pop-up-card-2 .enter-your-email {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #6B7280;
+}
+.edit-details-my-details-pop-up-card-2 .autocomplete-input-2 {
+  border-radius: 8px;
+  border: 1px solid #76A9FA;
+  background: #F9FAFB;
+  margin: 0 5px 8px 0;
+  padding: 17px 11px 18px 11px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.edit-details-my-details-pop-up-card-2 .text-2 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.edit-details-my-details-pop-up-card-2 .button-2 {
+  border-radius: 8px;
+  background: #233876;
+  margin: 0 516px 26px 0;
+  display: flex;
+  padding: 8px 12.1px 8px 12px;
+  box-sizing: border-box;
+}
+.edit-details-my-details-pop-up-card-2 .line-19 {
+  background: linear-gradient(rgba(24, 119, 242, 0.5), rgba(24, 119, 242, 0.5)), linear-gradient(#1877F2, #1877F2), linear-gradient(#1877F2, #1877F2);
+  margin: 0 0 25px 0px;
+  width: 568px;
+  height: 1px;
+}
+.edit-details-my-details-pop-up-card-2 .location {
+  margin: 0 505.9px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+}
+.edit-details-my-details-pop-up-card-2 .enter-your-location {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #6B7280;
+}
+.edit-details-my-details-pop-up-card-2 .autocomplete-input-3 {
+  border-radius: 8px;
+  border: 1px solid #76A9FA;
+  background: #F9FAFB;
+  margin: 0 5px 8px 0;
+  padding: 17px 11px 18px 11px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.edit-details-my-details-pop-up-card-2 .text-3 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.edit-details-my-details-pop-up-card-2 .button-3 {
+  border-radius: 8px;
+  background: #233876;
+  margin-right: 516px;
+  display: flex;
+  padding: 8px 12.1px 8px 12px;
+  box-sizing: border-box;
+}
+.edit-details-my-details-pop-up-card {
+  border-radius: 8px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 41px 0 19px 0;
+  width: 726px;
+  box-sizing: border-box;
+}

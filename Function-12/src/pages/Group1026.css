@@ -1,0 +1,156 @@
+.group-1026 .close-btn {
+  border-radius: 8.1px;
+  background: #FC615C;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.group-1026 .restore-btn {
+  border-radius: 8.1px;
+  background: #FDBE40;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.group-1026 .minimize-btn {
+  border-radius: 8.1px;
+  background: #34CA49;
+  width: 16.2px;
+  height: 16.2px;
+}
+.group-1026 .action-bttn {
+  margin: 5.4px 17.6px 8.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 70.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-1026 .arrow {
+  width: 6.8px;
+  height: 13.5px;
+}
+.group-1026 .prev-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 2.7px;
+  display: flex;
+  padding: 8.1px 13.5px 8.1px 12.2px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.group-1026 .arrow-1 {
+  width: 6.8px;
+  height: 13.5px;
+}
+.group-1026 .prev-btn-2 {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 14.9px;
+  display: flex;
+  padding: 8.1px 12.1px 8.1px 13.5px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.group-1026 .option-btn {
+  width: 50px;
+  height: 29.7px;
+}
+.group-1026 .container {
+  margin-bottom: 9.4px;
+  display: flex;
+  flex-direction: row;
+  width: 220.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-1026 .safaribrowser {
+  margin: 3px 7px 0 0;
+  display: inline-block;
+  width: 583px;
+  overflow-wrap: break-word;
+  font-family: 'SF Compact Display', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.group-1026 .refresh {
+  margin-bottom: 5px;
+  width: 10px;
+  height: 12px;
+}
+.group-1026 .address-bar {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 7px 0 0;
+  width: 1143px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-1026 .share {
+  width: 13.5px;
+  height: 18.9px;
+}
+.group-1026 .share-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 10.8px 9.4px 0;
+  display: flex;
+  padding: 4.7px 18.2px 6.1px 18.2px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.group-1026 .view {
+  width: 14.9px;
+  height: 14.9px;
+}
+.group-1026 .view-search-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 17.5px 9.4px 0;
+  display: flex;
+  padding: 7.4px 17.6px 7.4px 17.5px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.group-1026 .add-btn {
+  margin-top: 6.7px;
+  width: 32.4px;
+  height: 32.4px;
+}
+.group-1026 .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: 160.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-1026 {
+  box-shadow: 0px 1px 0px 0px #B5B4B5;
+  border-radius: 5px 5px 0 0;
+  background: linear-gradient(180deg, #EBEAEB, #D7D6D7);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 42.8px 0 0.1px 17.6px;
+  width: 1728px;
+  box-sizing: border-box;
+}

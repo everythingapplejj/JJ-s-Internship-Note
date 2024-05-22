@@ -1,0 +1,13 @@
+.job-ez-word-mark .job-ez {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.job-ez-word-mark {
+  background: #000000;
+  display: flex;
+  padding: 16px 3.3px 16px 3px;
+  box-sizing: border-box;
+}

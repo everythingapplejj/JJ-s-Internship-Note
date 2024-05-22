@@ -1,0 +1,1142 @@
+.part-time-pal-create-listing-page .rectangle-73 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 394px;
+  height: 95px;
+}
+.part-time-pal-create-listing-page .vector-19 {
+  width: 18.3px;
+  height: 16.9px;
+}
+.part-time-pal-create-listing-page .ionarrow-up-outline {
+  margin: 0.6px 15.9px 2.5px 0;
+  display: flex;
+  width: 18.3px;
+  height: 16.9px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .vector-16 {
+  background: #000000;
+  margin-bottom: 6.9px;
+  width: 23.3px;
+  height: 2px;
+}
+.part-time-pal-create-listing-page .vector-17 {
+  background: #000000;
+  margin-bottom: 6.9px;
+  width: 23.3px;
+  height: 2px;
+}
+.part-time-pal-create-listing-page .vector-18 {
+  background: #000000;
+  width: 23.3px;
+  height: 2px;
+}
+.part-time-pal-create-listing-page .iconmenu-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 23.3px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .container-2 {
+  margin: 8px 0 2.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 57.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .logo {
+  overflow-wrap: break-word;
+  font-family: 'Rockwell', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 1;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .vector-15 {
+  margin: 0 5.4px;
+  width: 14.3px;
+  height: 12.5px;
+}
+.part-time-pal-create-listing-page .vector-14 {
+  width: 25px;
+  height: 12.5px;
+}
+.part-time-pal-create-listing-page .iconuser {
+  margin: 2px 0 3px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 25px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .container-7 {
+  position: relative;
+  margin: 0 14px 18px 11.9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 25.9px);
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .line-30 {
+  background: #E5E5E5;
+  position: relative;
+  width: 393px;
+  height: 1px;
+}
+.part-time-pal-create-listing-page .header {
+  position: relative;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  padding: 47px 0px 0 1px;
+  width: 394px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .new-listing {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 0.833;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .body-heading {
+  margin: 0 2.2px 18px 0;
+  display: flex;
+  align-self: center;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .urgent {
+  margin-right: 7.2px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .rectangle-87 {
+  border-radius: 5px;
+  border: 1px solid #000000;
+  width: 20px;
+  height: 20px;
+}
+.part-time-pal-create-listing-page .urgency-indicator {
+  border-radius: 5px;
+  margin: 0 10px 14px 10px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .listing-title {
+  margin: 0 1px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .eg-line-cook-limit-80-characters {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: rgba(0, 0, 0, 0.6);
+}
+.part-time-pal-create-listing-page .input-box-7 {
+  border-radius: 6px;
+  background: #F1F1F1;
+  position: relative;
+  padding: 7px 10px 6px 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .title-input {
+  border-radius: 6px;
+  margin: 0 14px 19px 9px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 23px);
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .listing-description {
+  margin: 0 1px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .job-description-and-requirements-limit-200-words {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: rgba(0, 0, 0, 0.6);
+}
+.part-time-pal-create-listing-page .input-box-6 {
+  border-radius: 6px;
+  background: #F1F1F1;
+  position: relative;
+  padding: 7px 10px 6px 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .description-input {
+  border-radius: 6px;
+  margin: 0 14px 19px 9px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 23px);
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .hourly-pay-rate {
+  margin: 0 11.6px 0 1px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .rectangle-835 {
+  border-radius: 6px;
+  background: #F1F1F1;
+  margin-right: 2px;
+  width: 50px;
+  height: 33px;
+}
+.part-time-pal-create-listing-page .ellipse-23 {
+  border-radius: 3px;
+  background: #000000;
+  margin: 23px 2px 4px 0;
+  width: 6px;
+  height: 6px;
+}
+.part-time-pal-create-listing-page .rectangle-841 {
+  border-radius: 6px;
+  background: #F1F1F1;
+  width: 50px;
+  height: 33px;
+}
+.part-time-pal-create-listing-page .input-box-5 {
+  margin: 0 2px 5px 0;
+  display: flex;
+  flex-direction: row;
+  width: 110px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .add-range {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 5px;
+  line-height: 4;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .container-4 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .add-button-2 {
+  border-radius: 12px;
+  background: #D9D9D9;
+  position: absolute;
+  top: 0px;
+  right: 0.2px;
+  display: flex;
+  padding: 2px 7.2px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .add-range-button {
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  padding-top: 17px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .container-10 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .pay-input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .industry {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .vector-13 {
+  width: 9.9px;
+  height: 7.1px;
+}
+.part-time-pal-create-listing-page .fedrop-down {
+  margin: 6.4px 3.4px 6.5px 0;
+  display: flex;
+  width: 9.9px;
+  height: 7.1px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .select-one-or-more {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #606060;
+}
+.part-time-pal-create-listing-page .listing-dropdown {
+  border-radius: 9px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 0 6px 10.6px;
+  width: 154px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .industry-input {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .container-5 {
+  margin: 0 14px 17px 9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 23px);
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .address {
+  margin: 0 1px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .enter-full-address {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: rgba(0, 0, 0, 0.6);
+}
+.part-time-pal-create-listing-page .input-box-4 {
+  border-radius: 6px;
+  background: #F1F1F1;
+  position: relative;
+  margin-right: 15.3px;
+  padding: 7px 8px 6px 8px;
+  flex-grow: 1;
+  flex-basis: 326px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .vector-12 {
+  width: 21.3px;
+  height: 21.1px;
+}
+.part-time-pal-create-listing-page .material-symbols-lightmap-outline {
+  margin: 6.4px 0 5.4px 0;
+  display: flex;
+  width: 21.3px;
+  height: 21.1px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .container-8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .address-input {
+  margin: 0 19.3px 19px 9px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 28.3px);
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .hours {
+  margin: 0 1px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .container {
+  border-radius: 6px;
+  background: #F1F1F1;
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  padding: 7px 3.9px 6px 4px;
+  flex-grow: 1;
+  flex-basis: 50px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .line-34 {
+  background: #000000;
+  margin: 17px 1px 15px 0;
+  height: 1px;
+  flex-grow: 1;
+  flex-basis: 8px;
+}
+.part-time-pal-create-listing-page .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .container-6 {
+  border-radius: 6px;
+  background: #F1F1F1;
+  position: relative;
+  display: flex;
+  padding: 7px 3.9px 6px 4px;
+  flex-grow: 1;
+  flex-basis: 50px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .input-box-3 {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .hours-input {
+  border-radius: 6px;
+  margin-right: 29px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-basis: 110px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .days {
+  margin: 0 0.1px 6.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .s {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-create-listing-page .day {
+  position: relative;
+  margin: 0 2px 0.6px 0;
+  display: flex;
+  padding: 0 4.3px;
+  flex-grow: 1;
+  flex-basis: 13px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .m {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-create-listing-page .day-1 {
+  position: relative;
+  margin: 0 2px 0.6px 0;
+  display: flex;
+  padding: 0 4.4px 0 2.6px;
+  flex-grow: 1;
+  flex-basis: 13px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .ellipse-162 {
+  border-radius: 6.5px;
+  background: #9E9E9E;
+  position: absolute;
+  left: 50%;
+  top: 3.5px;
+  translate: -50% 0;
+  width: 13px;
+  height: 13px;
+}
+.part-time-pal-create-listing-page .t {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #FFFCFC;
+}
+.part-time-pal-create-listing-page .day-2 {
+  position: relative;
+  margin: 0 2px 0.6px 0;
+  display: flex;
+  padding: 0 4.4px;
+  flex-grow: 1;
+  flex-basis: 13px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .w {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-create-listing-page .day-3 {
+  position: relative;
+  margin: 0.6px 2px 0 0;
+  display: flex;
+  padding: 0 3.7px 0 1.6px;
+  flex-grow: 1;
+  flex-basis: 13px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .ellipse-164 {
+  border-radius: 6.5px;
+  background: #9E9E9E;
+  position: absolute;
+  left: 50%;
+  top: 3.5px;
+  translate: -50% 0;
+  width: 13px;
+  height: 13px;
+}
+.part-time-pal-create-listing-page .r {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #FFFFFF;
+}
+.part-time-pal-create-listing-page .day-4 {
+  position: relative;
+  margin: 0 2px 0.6px 0;
+  display: flex;
+  padding: 0 4.2px;
+  flex-grow: 1;
+  flex-basis: 13px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .f {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-create-listing-page .day-5 {
+  position: relative;
+  margin: 0 2px 0.6px 0;
+  display: flex;
+  padding: 0 4.6px;
+  flex-grow: 1;
+  flex-basis: 13px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .s-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-create-listing-page .day-6 {
+  position: relative;
+  margin-bottom: 0.6px;
+  display: flex;
+  padding: 0 4.3px;
+  flex-grow: 1;
+  flex-basis: 13px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .week {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .days-input {
+  margin: 0 28px 5.9px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 103px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .flexible-time {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .yes {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .container-1 {
+  border-radius: 5px 0 0 5px;
+  border-left: 0.5px solid #000000;
+  border-top: 0.5px solid #000000;
+  border-bottom: 0.5px solid #000000;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 3px 14.3px 2px 14px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .no {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .container-12 {
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 0 5px 5px 0;
+  border: 0.5px solid #000000;
+  background: #F6F6F6;
+  position: relative;
+  display: flex;
+  padding: 3px 14.9px 2px 15px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .flexibility-indicator {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .flexibility-option {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  flex-grow: 1;
+  flex-basis: 107px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .container-11 {
+  margin: 0 5px 12px 9px;
+  display: flex;
+  flex-direction: row;
+  width: calc(100% - 14px);
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .additions {
+  margin: 2px 7.3px 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .add-button-1 {
+  border-radius: 12px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 2px 7.2px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .additions-input {
+  margin: 0 10px 9px 10px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .question {
+  margin: 0 10px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .vector-9 {
+  background: #000000;
+  margin-bottom: 1.9px;
+  width: 7.7px;
+  height: 1px;
+}
+.part-time-pal-create-listing-page .vector-10 {
+  background: #000000;
+  margin-bottom: 1.9px;
+  width: 7.7px;
+  height: 1px;
+}
+.part-time-pal-create-listing-page .vector-11 {
+  background: #000000;
+  width: 7.7px;
+  height: 1px;
+}
+.part-time-pal-create-listing-page .iconmenu-1 {
+  margin: 14px 1.3px 12.1px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 7.7px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .limit-100-words {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: rgba(0, 0, 0, 0.6);
+}
+.part-time-pal-create-listing-page .input-box-2 {
+  border-radius: 6px;
+  background: #F1F1F1;
+  position: relative;
+  padding: 7px 10px 6px 10px;
+  flex-grow: 1;
+  flex-basis: 353px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .iontrash-outline-1 {
+  margin: 2px 0;
+  width: 29px;
+  height: 29px;
+}
+.part-time-pal-create-listing-page .container-9 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .new-question-input {
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .vector-3 {
+  background: #000000;
+  margin-bottom: 1.9px;
+  width: 7.7px;
+  height: 1px;
+}
+.part-time-pal-create-listing-page .vector-4 {
+  background: #000000;
+  margin-bottom: 1.9px;
+  width: 7.7px;
+  height: 1px;
+}
+.part-time-pal-create-listing-page .vector-5 {
+  background: #000000;
+  width: 7.7px;
+  height: 1px;
+}
+.part-time-pal-create-listing-page .iconmenu {
+  margin: 36px 1.3px 12.1px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 7.7px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .link {
+  margin: 0 0.9px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .rectangle-831 {
+  border-radius: 6px;
+  background: #F1F1F1;
+  width: 173px;
+  height: 33px;
+}
+.part-time-pal-create-listing-page .input-box-1 {
+  border-radius: 6px;
+  display: flex;
+  width: 173px;
+  height: 33px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .link-input {
+  border-radius: 6px;
+  margin: 2px 22.1px 0 0;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-basis: 173px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .instructions {
+  margin: 0 2.7px 2px 2.7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .limit-200-words {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: rgba(0, 0, 0, 0.6);
+}
+.part-time-pal-create-listing-page .input-box {
+  border-radius: 6px;
+  background: #F1F1F1;
+  position: relative;
+  padding: 7px 4.3px 6px 4.3px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .link-instructiosn-input {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  flex-grow: 1;
+  flex-basis: 157.9px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .iontrash-outline {
+  margin: 24px 0 2px 0;
+  width: 29px;
+  height: 29px;
+}
+.part-time-pal-create-listing-page .link-options {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .container {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .add-button {
+  border-radius: 12px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  align-self: center;
+  padding: 2px 7.2px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .save-draft {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.part-time-pal-create-listing-page .draft-button {
+  border-radius: 0 10px 0 0;
+  background: #FF6E6E;
+  position: absolute;
+  right: 1px;
+  bottom: 0px;
+  display: flex;
+  padding: 12.5px 1px 12.5px 0;
+  width: 197px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .publish {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.part-time-pal-create-listing-page .publish-button {
+  border-radius: 10px 0 0 0;
+  background: #6B93FB;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 12.5px 0 12.5px 0.5px;
+  width: 197px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .body {
+  position: relative;
+  padding: 0 0 34px 3px;
+  width: 394px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .line-29 {
+  background: #E5E5E5;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 1px;
+}
+.part-time-pal-create-listing-page .vector-20 {
+  width: 26.7px;
+  height: 26.7px;
+}
+.part-time-pal-create-listing-page .help {
+  margin: 2.7px 0;
+  display: flex;
+  width: 26.7px;
+  height: 26.7px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .vector-21 {
+  width: 21.3px;
+  height: 27.4px;
+}
+.part-time-pal-create-listing-page .listings {
+  margin: 2.7px 0 2px 0;
+  display: flex;
+  width: 21.3px;
+  height: 27.4px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .vector-22 {
+  width: 26.7px;
+  height: 22.7px;
+}
+.part-time-pal-create-listing-page .home {
+  margin: 4px 0 5.3px 0;
+  display: flex;
+  width: 26.7px;
+  height: 22.7px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .vector-23 {
+  width: 26px;
+  height: 18px;
+}
+.part-time-pal-create-listing-page .messages {
+  margin: 7px 0;
+  display: flex;
+  width: 26px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .formkitpeople {
+  width: 32px;
+  height: 32px;
+}
+.part-time-pal-create-listing-page .employees {
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .frame-10 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 7.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .home-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .messages-1 {
+  position: absolute;
+  right: 74.4px;
+  bottom: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .employees-1 {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .listings-1 {
+  position: absolute;
+  left: 70px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .help-1 {
+  position: absolute;
+  left: 2px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-create-listing-page .menu-items {
+  position: relative;
+  display: flex;
+  padding: 29px 10.2px 1px 0;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .container-4 {
+  background: #FFFFFF;
+  position: relative;
+  padding: 14px 25.9px 34px 38.2px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page .footer {
+  position: relative;
+  margin-right: 1px;
+  width: 393px;
+  box-sizing: border-box;
+}
+.part-time-pal-create-listing-page {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}

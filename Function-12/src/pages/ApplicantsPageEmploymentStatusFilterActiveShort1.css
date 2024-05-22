@@ -1,0 +1,3282 @@
+.applicants-page-employment-status-filter-active-short-1 .close-btn {
+  border-radius: 8.1px;
+  background: #FC615C;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.applicants-page-employment-status-filter-active-short-1 .restore-btn {
+  border-radius: 8.1px;
+  background: #FDBE40;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.applicants-page-employment-status-filter-active-short-1 .minimize-btn {
+  border-radius: 8.1px;
+  background: #34CA49;
+  width: 16.2px;
+  height: 16.2px;
+}
+.applicants-page-employment-status-filter-active-short-1 .action-bttn {
+  margin: 5.4px 17.5px 8.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 70.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .arrow {
+  width: 6.8px;
+  height: 13.5px;
+}
+.applicants-page-employment-status-filter-active-short-1 .prev-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 2.7px;
+  display: flex;
+  padding: 8.1px 13.5px 8.1px 12.2px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .arrow-1 {
+  width: 6.8px;
+  height: 13.5px;
+}
+.applicants-page-employment-status-filter-active-short-1 .prev-btn-2 {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 14.9px;
+  display: flex;
+  padding: 8.1px 12.1px 8.1px 13.5px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .option-btn {
+  width: 50px;
+  height: 29.7px;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-14 {
+  margin-bottom: 9.4px;
+  display: flex;
+  flex-direction: row;
+  width: 220px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .safaribrowser {
+  margin: 3px 7px 0 0;
+  display: inline-block;
+  width: 583px;
+  overflow-wrap: break-word;
+  font-family: 'SF Compact Display', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.applicants-page-employment-status-filter-active-short-1 .refresh {
+  margin-bottom: 5px;
+  width: 10px;
+  height: 12px;
+}
+.applicants-page-employment-status-filter-active-short-1 .address-bar {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 7px 0 0;
+  width: 1143px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .share {
+  width: 13.5px;
+  height: 18.9px;
+}
+.applicants-page-employment-status-filter-active-short-1 .share-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 10.8px 9.4px 0;
+  display: flex;
+  padding: 4.7px 18.2px 6.1px 18.2px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .view {
+  width: 14.9px;
+  height: 14.9px;
+}
+.applicants-page-employment-status-filter-active-short-1 .view-search-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 17.5px 9.4px 0;
+  display: flex;
+  padding: 7.4px 17.6px 7.4px 17.5px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .add-btn {
+  margin-top: 6.7px;
+  width: 32.4px;
+  height: 32.4px;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-7 {
+  display: flex;
+  flex-direction: row;
+  width: 160.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .browser-bar {
+  box-shadow: 0px 1px 0px 0px #B5B4B5;
+  border-radius: 5px 5px 0 0;
+  background: linear-gradient(180deg, #EBEAEB, #D7D6D7);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 42.8px 0px 0.1px 17.6px;
+  width: 1728px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .job-ez {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.applicants-page-employment-status-filter-active-short-1 .job-ez-word-mark {
+  background: #000000;
+  position: relative;
+  margin-bottom: 100px;
+  display: flex;
+  padding: 16px 3.3px 16px 3px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-17 {
+  width: 22.5px;
+  height: 22.5px;
+}
+.applicants-page-employment-status-filter-active-short-1 .list {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  padding: 16.3px 17.8px;
+  width: 58px;
+  height: 55px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-1000004346 {
+  margin-bottom: 171.5px;
+  display: flex;
+  width: 58px;
+  height: 55px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-18 {
+  width: 17.5px;
+  height: 17.5px;
+}
+.applicants-page-employment-status-filter-active-short-1 .list-item {
+  margin-bottom: 44.5px;
+  display: flex;
+  width: 17.5px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-19 {
+  width: 20px;
+  height: 17.5px;
+}
+.applicants-page-employment-status-filter-active-short-1 .list-item-1 {
+  margin: 0 2.5px 40.8px 2.5px;
+  display: flex;
+  width: 20px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-20 {
+  width: 25px;
+  height: 25px;
+}
+.applicants-page-employment-status-filter-active-short-1 .list-item-2 {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .list-1 {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30.3px 16.5px 26.5px 16.5px;
+  width: 58px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-1000004347 {
+  margin-bottom: 171.5px;
+  display: flex;
+  width: 58px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-21 {
+  width: 17.5px;
+  height: 25px;
+}
+.applicants-page-employment-status-filter-active-short-1 .list-item-3 {
+  margin: 0 0 31.5px 0px;
+  display: flex;
+  width: 17.5px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-22 {
+  width: 20px;
+  height: 20px;
+}
+.applicants-page-employment-status-filter-active-short-1 .list-item-4 {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .list-2 {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 26.5px 19px 29px 19px;
+  width: 58px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-1000004348 {
+  display: flex;
+  width: 58px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-1000004349 {
+  margin-right: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 58px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .sidebar-free-component {
+  background: #0C2B5A;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 0 100px 0;
+  width: 137px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .sidebar {
+  margin: 0 146.5px 1401.5px 0;
+  display: flex;
+  width: 137px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .applicants-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .logo {
+  margin-right: 32.1px;
+  display: flex;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text {
+  margin-right: 7.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #111928;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-15 {
+  width: 10.5px;
+  height: 6px;
+}
+.applicants-page-employment-status-filter-active-short-1 .angle-down-outline {
+  margin: 7.5px 0;
+  display: flex;
+  width: 10.5px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .nav-links {
+  border-radius: 8px;
+  margin: 7.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-11 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-16 {
+  width: 14px;
+  height: 20px;
+}
+.applicants-page-employment-status-filter-active-short-1 .sort-outline {
+  position: absolute;
+  top: 50%;
+  right: 28px;
+  translate: 0 -50%;
+  display: flex;
+  width: 14px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .navbar {
+  border-radius: 8px;
+  background: var(--white-4, #FFFFFF);
+  position: relative;
+  padding: 24px 68px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .nav-filter {
+  margin-bottom: 7px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .filter-1 {
+  margin: 10px 36.7px 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #000000;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-82 {
+  margin-right: 12.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-14 {
+  width: 11.7px;
+  height: 6.7px;
+}
+.applicants-page-employment-status-filter-active-short-1 .chevron-down-1 {
+  margin: 7.2px 0;
+  display: flex;
+  width: 11.7px;
+  height: 6.7px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .button-21 {
+  border-radius: 8px;
+  background: var(--primary-800, #1E429F);
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 10px 20px;
+  width: 195px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .dropdown-buttons-1 {
+  display: flex;
+  width: 195px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .filter {
+  margin-right: 38px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-81 {
+  margin-right: 12.4px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-13 {
+  width: 11.7px;
+  height: 6.7px;
+}
+.applicants-page-employment-status-filter-active-short-1 .chevron-down {
+  margin: 7.2px 0;
+  display: flex;
+  width: 11.7px;
+  height: 6.7px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .button-20 {
+  border-radius: 8px;
+  background: var(--primary-800, #1E429F);
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 10px 20px;
+  width: 202px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .dropdown-buttons {
+  display: flex;
+  width: 202px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-3 {
+  margin: 0 68px 82.5px 68px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .avatar {
+  border-radius: 100px;
+  background: var(--avatar-jese-leos, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat);
+  margin: 0 12px 23px 0;
+  width: 30px;
+  height: 30px;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-1 {
+  margin-right: 6.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.text-1-sub1 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.text-1 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .main-info {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-2 {
+  width: 14.4px;
+  height: 19.2px;
+}
+.applicants-page-employment-status-filter-active-short-1 .button-1 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin-right: 16px;
+  display: flex;
+  padding: 11.4px 0 11.4px 0px;
+  width: 64px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicants-page-employment-status-filter-active-short-1 .button {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin: 1.5px 0;
+  padding: 10px 20px;
+  width: 123px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .buttons {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-4 {
+  margin: 0 0 15.5px 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 954px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-1 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox {
+  border-radius: 4px;
+  margin: 0 34.5px 60.5px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-1 {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-3 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-5 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-1000004317 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .application-status {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-3 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-4 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-6 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-1000004318 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .recent-experience {
+  display: flex;
+  flex-direction: column;
+  width: 183.5px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-2 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-7 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-8 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043181 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .languages-spoken {
+  display: flex;
+  flex-direction: column;
+  width: 174.9px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-info {
+  margin-top: 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 857.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-12 {
+  margin-right: 54.1px;
+  display: flex;
+  flex-direction: row;
+  width: 908.4px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .applicant-card-web {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18.5px 21px 26.5px 15.5px;
+  width: 999px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .avatar-1 {
+  border-radius: 100px;
+  background: var(--avatar-jese-leos, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat);
+  margin: 0 12px 23px 0;
+  width: 30px;
+  height: 30px;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-5 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-9 {
+  margin-right: 6.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.text-9-sub1 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.text-9 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-text-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .main-info-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-3 {
+  width: 14.4px;
+  height: 19.2px;
+}
+.applicants-page-employment-status-filter-active-short-1 .button-3 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin-right: 16px;
+  display: flex;
+  padding: 11.4px 0 11.4px 0px;
+  width: 64px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-10 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicants-page-employment-status-filter-active-short-1 .button-2 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin: 1.5px 0;
+  padding: 10px 20px;
+  width: 123px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .buttons-1 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-9 {
+  margin: 0 0 15.5px 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 954px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-3 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-2 {
+  border-radius: 4px;
+  margin: 0 34.5px 60.5px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-6 {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-11 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-13 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043171 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .application-status-1 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-8 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-12 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-14 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043182 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .recent-experience-1 {
+  display: flex;
+  flex-direction: column;
+  width: 183.5px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-7 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-15 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-16 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043183 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .languages-spoken-1 {
+  display: flex;
+  flex-direction: column;
+  width: 174.9px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-info-1 {
+  margin-top: 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 857.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-4 {
+  margin-right: 54.1px;
+  display: flex;
+  flex-direction: row;
+  width: 908.4px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .applicant-card-web-1 {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18.5px 21px 26.5px 15.5px;
+  width: 999px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .avatar-2 {
+  border-radius: 100px;
+  background: var(--avatar-jese-leos, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat);
+  margin: 0 12px 23px 0;
+  width: 30px;
+  height: 30px;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-10 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-17 {
+  margin-right: 6.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.text-17-sub1 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.text-17 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-text-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .main-info-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-4 {
+  width: 14.4px;
+  height: 19.2px;
+}
+.applicants-page-employment-status-filter-active-short-1 .button-5 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin-right: 16px;
+  display: flex;
+  padding: 11.4px 0 11.4px 0px;
+  width: 64px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-18 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicants-page-employment-status-filter-active-short-1 .button-4 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin: 1.5px 0;
+  padding: 10px 20px;
+  width: 123px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .buttons-2 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-14 {
+  margin: 0 0 15.5px 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 954px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-5 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-4 {
+  border-radius: 4px;
+  margin: 0 34.5px 60.5px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-11 {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-19 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-21 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043172 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .application-status-2 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-13 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-20 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-22 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043184 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .recent-experience-2 {
+  display: flex;
+  flex-direction: column;
+  width: 183.5px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-12 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-23 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-24 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043185 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .languages-spoken-2 {
+  display: flex;
+  flex-direction: column;
+  width: 174.9px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-info-2 {
+  margin-top: 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 857.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-9 {
+  margin-right: 54.1px;
+  display: flex;
+  flex-direction: row;
+  width: 908.4px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .applicant-card-web-2 {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18.5px 21px 26.5px 15.5px;
+  width: 999px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .avatar-3 {
+  border-radius: 100px;
+  background: var(--avatar-jese-leos, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat);
+  margin: 0 12px 23px 0;
+  width: 30px;
+  height: 30px;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-15 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.text-25 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-25 {
+  margin-right: 6.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.text-25-sub1 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-text-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .main-info-3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-5 {
+  width: 14.4px;
+  height: 19.2px;
+}
+.applicants-page-employment-status-filter-active-short-1 .button-7 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin-right: 16px;
+  display: flex;
+  padding: 11.4px 0 11.4px 0px;
+  width: 64px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-26 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicants-page-employment-status-filter-active-short-1 .button-6 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin: 1.5px 0;
+  padding: 10px 20px;
+  width: 123px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .buttons-3 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-19 {
+  margin: 0 0 15.5px 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 954px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-7 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-6 {
+  border-radius: 4px;
+  margin: 0 34.5px 60.5px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-16 {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-27 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-29 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043173 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .application-status-3 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-18 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-28 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-30 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043186 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .recent-experience-3 {
+  display: flex;
+  flex-direction: column;
+  width: 183.5px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-17 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-31 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-32 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043187 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .languages-spoken-3 {
+  display: flex;
+  flex-direction: column;
+  width: 174.9px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-info-3 {
+  margin-top: 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 857.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-1 {
+  margin-right: 54.1px;
+  display: flex;
+  flex-direction: row;
+  width: 908.4px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .applicant-card-web-3 {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18.5px 21px 26.5px 15.5px;
+  width: 999px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .avatar-4 {
+  border-radius: 100px;
+  background: var(--avatar-jese-leos, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat);
+  margin: 0 12px 23px 0;
+  width: 30px;
+  height: 30px;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-20 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-33 {
+  margin-right: 6.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.text-33-sub1 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.text-33 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-text-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .main-info-4 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-6 {
+  width: 14.4px;
+  height: 19.2px;
+}
+.applicants-page-employment-status-filter-active-short-1 .button-9 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin-right: 16px;
+  display: flex;
+  padding: 11.4px 0 11.4px 0px;
+  width: 64px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-34 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicants-page-employment-status-filter-active-short-1 .button-8 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin: 1.5px 0;
+  padding: 10px 20px;
+  width: 123px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .buttons-4 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-24 {
+  margin: 0 0 15.5px 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 954px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-9 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-8 {
+  border-radius: 4px;
+  margin: 0 34.5px 60.5px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-21 {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-35 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-37 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043174 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .application-status-4 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-23 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-36 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-38 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043188 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .recent-experience-4 {
+  display: flex;
+  flex-direction: column;
+  width: 183.5px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-22 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-39 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-40 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043189 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .languages-spoken-4 {
+  display: flex;
+  flex-direction: column;
+  width: 174.9px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-info-4 {
+  margin-top: 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 857.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-10 {
+  margin-right: 54.1px;
+  display: flex;
+  flex-direction: row;
+  width: 908.4px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .applicant-card-web-4 {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18.5px 21px 26.5px 15.5px;
+  width: 999px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .avatar-5 {
+  border-radius: 100px;
+  background: var(--avatar-jese-leos, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat);
+  margin: 0 12px 23px 0;
+  width: 30px;
+  height: 30px;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-25 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-41 {
+  margin-right: 6.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.text-41-sub1 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.text-41 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-text-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .main-info-5 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-7 {
+  width: 14.4px;
+  height: 19.2px;
+}
+.applicants-page-employment-status-filter-active-short-1 .button-11 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin-right: 16px;
+  display: flex;
+  padding: 11.4px 0 11.4px 0px;
+  width: 64px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-42 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicants-page-employment-status-filter-active-short-1 .button-10 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin: 1.5px 0;
+  padding: 10px 20px;
+  width: 123px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .buttons-5 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-29 {
+  margin: 0 0 15.5px 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 954px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-11 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-10 {
+  border-radius: 4px;
+  margin: 0 34.5px 60.5px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-26 {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-43 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-45 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043175 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .application-status-5 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-28 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-44 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-46 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-100000431810 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .recent-experience-5 {
+  display: flex;
+  flex-direction: column;
+  width: 183.5px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-27 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-47 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-48 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-100000431811 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .languages-spoken-5 {
+  display: flex;
+  flex-direction: column;
+  width: 174.9px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-info-5 {
+  margin-top: 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 857.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-8 {
+  margin-right: 54.1px;
+  display: flex;
+  flex-direction: row;
+  width: 908.4px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .applicant-card-web-5 {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18.5px 21px 26.5px 15.5px;
+  width: 999px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .avatar-6 {
+  border-radius: 100px;
+  background: var(--avatar-jese-leos, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat);
+  margin: 0 12px 23px 0;
+  width: 30px;
+  height: 30px;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-30 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.text-49-sub1 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.text-49 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-49 {
+  margin-right: 6.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-text-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .main-info-6 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-8 {
+  width: 14.4px;
+  height: 19.2px;
+}
+.applicants-page-employment-status-filter-active-short-1 .button-13 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin-right: 16px;
+  display: flex;
+  padding: 11.4px 0 11.4px 0px;
+  width: 64px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-50 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicants-page-employment-status-filter-active-short-1 .button-12 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin: 1.5px 0;
+  padding: 10px 20px;
+  width: 123px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .buttons-6 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-34 {
+  margin: 0 0 15.5px 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 954px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-13 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-12 {
+  border-radius: 4px;
+  margin: 0 34.5px 60.5px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-31 {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-51 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-53 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043176 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .application-status-6 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-33 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-52 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-54 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-100000431812 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .recent-experience-6 {
+  display: flex;
+  flex-direction: column;
+  width: 183.5px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-32 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-55 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-56 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-100000431813 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .languages-spoken-6 {
+  display: flex;
+  flex-direction: column;
+  width: 174.9px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-info-6 {
+  margin-top: 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 857.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-15 {
+  margin-right: 54.1px;
+  display: flex;
+  flex-direction: row;
+  width: 908.4px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .applicant-card-web-6 {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18.5px 21px 26.5px 15.5px;
+  width: 999px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .avatar-7 {
+  border-radius: 100px;
+  background: var(--avatar-jese-leos, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat);
+  margin: 0 12px 23px 0;
+  width: 30px;
+  height: 30px;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-35 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-57 {
+  margin-right: 6.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.text-57-sub1 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.text-57 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-text-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .main-info-7 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-9 {
+  width: 14.4px;
+  height: 19.2px;
+}
+.applicants-page-employment-status-filter-active-short-1 .button-15 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin-right: 16px;
+  display: flex;
+  padding: 11.4px 0 11.4px 0px;
+  width: 64px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-58 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicants-page-employment-status-filter-active-short-1 .button-14 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin: 1.5px 0;
+  padding: 10px 20px;
+  width: 123px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .buttons-7 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-39 {
+  margin: 0 0 15.5px 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 954px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-15 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-14 {
+  border-radius: 4px;
+  margin: 0 34.5px 60.5px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-36 {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-59 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-61 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043177 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .application-status-7 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-38 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-60 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-62 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-100000431814 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .recent-experience-7 {
+  display: flex;
+  flex-direction: column;
+  width: 183.5px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-37 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-63 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-64 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-100000431815 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .languages-spoken-7 {
+  display: flex;
+  flex-direction: column;
+  width: 174.9px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-info-7 {
+  margin-top: 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 857.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container {
+  margin-right: 54.1px;
+  display: flex;
+  flex-direction: row;
+  width: 908.4px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .applicant-card-web-7 {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18.5px 21px 26.5px 15.5px;
+  width: 999px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .avatar-8 {
+  border-radius: 100px;
+  background: var(--avatar-jese-leos, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat);
+  margin: 0 12px 23px 0;
+  width: 30px;
+  height: 30px;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-40 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-65 {
+  margin-right: 6.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.text-65-sub1 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.text-65 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-text-8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .main-info-8 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-10 {
+  width: 14.4px;
+  height: 19.2px;
+}
+.applicants-page-employment-status-filter-active-short-1 .button-17 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin-right: 16px;
+  display: flex;
+  padding: 11.4px 0 11.4px 0px;
+  width: 64px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-66 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicants-page-employment-status-filter-active-short-1 .button-16 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin: 1.5px 0;
+  padding: 10px 20px;
+  width: 123px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .buttons-8 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-44 {
+  margin: 0 0 15.5px 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 954px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-17 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-16 {
+  border-radius: 4px;
+  margin: 0 34.5px 60.5px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-41 {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-67 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-69 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043178 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .application-status-8 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-43 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-68 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-70 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-100000431816 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .recent-experience-8 {
+  display: flex;
+  flex-direction: column;
+  width: 183.5px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-42 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-71 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-72 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-100000431817 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .languages-spoken-8 {
+  display: flex;
+  flex-direction: column;
+  width: 174.9px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-info-8 {
+  margin-top: 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 857.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-2 {
+  margin-right: 54.1px;
+  display: flex;
+  flex-direction: row;
+  width: 908.4px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .applicant-card-web-8 {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18.5px 21px 26.5px 15.5px;
+  width: 999px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .avatar-9 {
+  border-radius: 100px;
+  background: var(--avatar-jese-leos, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat);
+  margin: 0 12px 23px 0;
+  width: 30px;
+  height: 30px;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-45 {
+  margin-bottom: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-73 {
+  margin-right: 6.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.text-73-sub1 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.text-73 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-text-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .main-info-9 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-11 {
+  width: 14.4px;
+  height: 19.2px;
+}
+.applicants-page-employment-status-filter-active-short-1 .button-19 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin-right: 16px;
+  display: flex;
+  padding: 11.4px 0 11.4px 0px;
+  width: 64px;
+  height: 44px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-74 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicants-page-employment-status-filter-active-short-1 .button-18 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin: 1.5px 0;
+  padding: 10px 20px;
+  width: 123px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .buttons-9 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-49 {
+  margin: 0 0 15.5px 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 954px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-19 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-18 {
+  border-radius: 4px;
+  margin: 0 34.5px 60.5px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-46 {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-75 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-77 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-10000043179 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .application-status-9 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-48 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-76 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-78 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-100000431818 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .recent-experience-9 {
+  display: flex;
+  flex-direction: column;
+  width: 183.5px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .heading-47 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-79 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .text-80 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-100000431819 {
+  position: relative;
+  align-self: flex-start;
+  padding-bottom: 19px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .languages-spoken-9 {
+  display: flex;
+  flex-direction: column;
+  width: 174.9px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .text-info-9 {
+  margin-top: 8.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 857.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-13 {
+  margin-right: 54.1px;
+  display: flex;
+  flex-direction: row;
+  width: 908.4px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .applicant-card-web-9 {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18.5px 21px 26.5px 15.5px;
+  width: 999px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .applicants {
+  margin: 0 115px 0 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 999px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-20 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  margin: 2.5px 8px 2.5px 0;
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-employment-status-filter-active-short-1 .write-label-text-here {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .label-helper-text {
+  display: flex;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .nav-link {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .vector-12 {
+  width: 9.8px;
+  height: 7px;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-21 {
+  border-radius: 4px;
+  border: 0.5px solid #1A56DB;
+  background: #1A56DB;
+  margin: 2.5px 8px 2.5px 0;
+  display: flex;
+  padding: 4.3px 2.8px 4.3px 2.9px;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .write-label-text-here-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .label-helper-text-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .nav-link-1 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .checkbox-22 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  margin: 2.5px 8px 2.5px 0;
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-employment-status-filter-active-short-1 .write-label-text-here-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicants-page-employment-status-filter-active-short-1 .label-helper-text-2 {
+  display: flex;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .nav-link-2 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .dropdown-menu {
+  box-shadow: var(--shadow-sm-1, 0px 1px 2px 0px rgba(0, 0, 0, 0.08));
+  border-radius: 8px;
+  background: var(--white-4, #FFFFFF);
+  position: absolute;
+  left: 373px;
+  top: 146px;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 0 12px 16px;
+  width: 195px;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .frame-1000004337 {
+  position: relative;
+  margin-top: 33px;
+  display: flex;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short-1 .container-6 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-employment-status-filter-active-short {
+  background: #EDF0F4;
+  display: flex;
+  flex-direction: column;
+  width: 1728px;
+  box-sizing: border-box;
+}

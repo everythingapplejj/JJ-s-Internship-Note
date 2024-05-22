@@ -1,0 +1,942 @@
+.employer-post-ajob-step-2-v-21 .close-btn {
+  border-radius: 8.1px;
+  background: #FC615C;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-post-ajob-step-2-v-21 .restore-btn {
+  border-radius: 8.1px;
+  background: #FDBE40;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-post-ajob-step-2-v-21 .minimize-btn {
+  border-radius: 8.1px;
+  background: #34CA49;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-post-ajob-step-2-v-21 .action-bttn {
+  margin: 5.4px 17.5px 8.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 70.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .arrow {
+  width: 6.8px;
+  height: 13.5px;
+}
+.employer-post-ajob-step-2-v-21 .prev-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 2.7px;
+  display: flex;
+  padding: 8.1px 13.5px 8.1px 12.2px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .arrow-1 {
+  width: 6.8px;
+  height: 13.5px;
+}
+.employer-post-ajob-step-2-v-21 .prev-btn-2 {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 14.9px;
+  display: flex;
+  padding: 8.1px 12.1px 8.1px 13.5px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .option-btn {
+  width: 50px;
+  height: 29.7px;
+}
+.employer-post-ajob-step-2-v-21 .container-2 {
+  margin-bottom: 9.4px;
+  display: flex;
+  flex-direction: row;
+  width: 220px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .safaribrowser {
+  margin: 3px 7px 0 0;
+  display: inline-block;
+  width: 583px;
+  overflow-wrap: break-word;
+  font-family: 'SF Compact Display', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.employer-post-ajob-step-2-v-21 .refresh {
+  margin-bottom: 5px;
+  width: 10px;
+  height: 12px;
+}
+.employer-post-ajob-step-2-v-21 .address-bar {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 7px 0 0;
+  width: 1143px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .share {
+  width: 13.5px;
+  height: 18.9px;
+}
+.employer-post-ajob-step-2-v-21 .share-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 10.8px 9.4px 0;
+  display: flex;
+  padding: 4.7px 18.2px 6.1px 18.2px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .view {
+  width: 14.9px;
+  height: 14.9px;
+}
+.employer-post-ajob-step-2-v-21 .view-search-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 17.5px 9.4px 0;
+  display: flex;
+  padding: 7.4px 17.6px 7.4px 17.5px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .add-btn {
+  margin-top: 6.7px;
+  width: 32.4px;
+  height: 32.4px;
+}
+.employer-post-ajob-step-2-v-21 .container {
+  display: flex;
+  flex-direction: row;
+  width: 160.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .web-header {
+  box-shadow: 0px 1px 0px 0px #B5B4B5;
+  border-radius: 5px 5px 0 0;
+  background: linear-gradient(180deg, #EBEAEB, #D7D6D7);
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 42.8px 0px 0.1px 17.6px;
+  width: 1728px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .job-ez {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.employer-post-ajob-step-2-v-21 .job-ez-word-mark {
+  background: #000000;
+  position: relative;
+  margin-bottom: 100px;
+  display: flex;
+  padding: 16px 3.3px 16px 3px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .vector-7 {
+  width: 22.5px;
+  height: 22.5px;
+}
+.employer-post-ajob-step-2-v-21 .list {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  padding: 16.3px 17.8px;
+  width: 58px;
+  height: 55px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .frame-1000004346 {
+  margin-bottom: 171.5px;
+  display: flex;
+  width: 58px;
+  height: 55px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .vector-8 {
+  width: 17.5px;
+  height: 17.5px;
+}
+.employer-post-ajob-step-2-v-21 .list-item {
+  margin-bottom: 44.5px;
+  display: flex;
+  width: 17.5px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .vector-9 {
+  width: 20px;
+  height: 17.5px;
+}
+.employer-post-ajob-step-2-v-21 .list-item-1 {
+  margin: 0 2.5px 40.8px 2.5px;
+  display: flex;
+  width: 20px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .vector-10 {
+  width: 25px;
+  height: 25px;
+}
+.employer-post-ajob-step-2-v-21 .list-item-2 {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .list-1 {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30.3px 16.5px 26.5px 16.5px;
+  width: 58px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .frame-1000004347 {
+  margin-bottom: 171.5px;
+  display: flex;
+  width: 58px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .vector-11 {
+  width: 17.5px;
+  height: 25px;
+}
+.employer-post-ajob-step-2-v-21 .list-item-3 {
+  margin: 0 0 31.5px 0px;
+  display: flex;
+  width: 17.5px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .vector-12 {
+  width: 20px;
+  height: 20px;
+}
+.employer-post-ajob-step-2-v-21 .list-item-4 {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .list-2 {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 26.5px 19px 29px 19px;
+  width: 58px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .frame-1000004348 {
+  display: flex;
+  width: 58px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .frame-1000004349 {
+  margin-right: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 58px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .sidebar-free-component {
+  background: #0C2B5A;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 0 100px 0;
+  width: 137px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .sidebar {
+  margin: 0 180.5px 20px 0;
+  display: flex;
+  width: 137px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .review-listing {
+  overflow-wrap: break-word;
+  font-family: var(--text-2-xlfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-2-xlfont-semibold-font-weight, 600);
+  font-size: var(--text-2-xlfont-semibold-font-size, 24px);
+  line-height: var(--text-2-xlfont-semibold-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.employer-post-ajob-step-2-v-21 .logo {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .text {
+  margin-right: 10.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.employer-post-ajob-step-2-v-21 .vector-2 {
+  width: 12px;
+  height: 13.3px;
+}
+.employer-post-ajob-step-2-v-21 .trash-outline {
+  margin: 4.8px 0;
+  display: flex;
+  width: 12px;
+  height: 13.3px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .button {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  position: absolute;
+  top: 50%;
+  right: 14px;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 14px 8px 12px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .navbar {
+  border-radius: 8px;
+  background: var(--white-4, #FFFFFF);
+  position: relative;
+  margin-bottom: 19.5px;
+  padding: 24.3px 68px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .ph {
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-xsfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-xsfont-medium-font-size, 12px);
+  line-height: var(--leading-nonetext-xsfont-medium-line-height, 1);
+  color: var(--gray-900, #111928);
+}
+.employer-post-ajob-step-2-v-21 .avatar {
+  border-radius: 999px;
+  background: var(--gray-100, #F3F4F6);
+  margin: 0 12px 32px 0;
+  display: flex;
+  padding: 9px 6.7px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .heading-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-2-xlfont-bold-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-2-xlfont-bold-font-weight, 700);
+  font-size: var(--leading-tighttext-2-xlfont-bold-font-size, 24px);
+  line-height: var(--leading-tighttext-2-xlfont-bold-line-height, 1.25);
+  color: var(--gray-900, #111928);
+}
+.employer-post-ajob-step-2-v-21 .text-1 {
+  margin-right: 14.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-post-ajob-step-2-v-21 .heading-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .main-info {
+  margin-right: 16.8px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .vector-3 {
+  width: 11.7px;
+  height: 11.7px;
+}
+.employer-post-ajob-step-2-v-21 .bell-on {
+  margin: 3.2px 5.4px 3.2px 0;
+  display: flex;
+  width: 11.7px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .text-5 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-post-ajob-step-2-v-21 .badge {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 10.3px 2px 11.2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .vector-4 {
+  width: 11.7px;
+  height: 11.7px;
+}
+.employer-post-ajob-step-2-v-21 .globe {
+  margin: 3.2px 5.2px 3.2px 0;
+  display: flex;
+  width: 11.7px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .text-6 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-post-ajob-step-2-v-21 .badge-1 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  flex-direction: row;
+  padding: 2px 10px 2px 11.2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .job-tags {
+  margin: 5px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .group-1028 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .text-7 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #1A56DB;
+}
+.employer-post-ajob-step-2-v-21 .button-1 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin-right: 16px;
+  display: flex;
+  padding: 9px 19.8px 9px 19px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .text-8 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-post-ajob-step-2-v-21 .button-2 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .indicator-examples {
+  width: 137px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .buttons {
+  margin: 6px 0 15px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .heading {
+  margin-bottom: 43.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1175px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .heading-2 {
+  margin-bottom: 11px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.employer-post-ajob-step-2-v-21 .text-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-post-ajob-step-2-v-21 .listing-description {
+  margin: 0 29.2px 43.5px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .label-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.employer-post-ajob-step-2-v-21 .container {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.employer-post-ajob-step-2-v-21 .input-3 {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  padding: 7px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .input-number {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .label-2 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.employer-post-ajob-step-2-v-21 .container-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.employer-post-ajob-step-2-v-21 .input-4 {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  padding: 7px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .input-number-1 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .pay-info {
+  display: flex;
+  flex-direction: column;
+  width: 271px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .label-3 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.employer-post-ajob-step-2-v-21 .container-2 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.employer-post-ajob-step-2-v-21 .input-5 {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  padding: 7px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .input-number-2 {
+  margin-bottom: 11px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .open-days {
+  margin-bottom: 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.25;
+  color: #000000;
+}
+.employer-post-ajob-step-2-v-21 .vector-5 {
+  width: 13.5px;
+  height: 13.5px;
+}
+.employer-post-ajob-step-2-v-21 .calendar-month {
+  margin: 2.3px 10.3px 2.3px 0;
+  display: flex;
+  width: 13.5px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .select-period {
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: var(--gray-500, #6B7280);
+}
+.employer-post-ajob-step-2-v-21 .datepicker {
+  border-radius: 8px;
+  border: 1px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0 11px 17.3px;
+  width: 271px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .frame-1000004350 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .preferred-timing {
+  display: flex;
+  flex-direction: column;
+  width: 271px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .label-4 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.employer-post-ajob-step-2-v-21 .vector-6 {
+  width: 10.7px;
+  height: 13.3px;
+}
+.employer-post-ajob-step-2-v-21 .map-pin {
+  margin: 3.8px 12.7px 3.8px 0;
+  display: flex;
+  width: 10.7px;
+  height: 13.3px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .container-3 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.employer-post-ajob-step-2-v-21 .input-6 {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 0 7px 17.7px;
+  width: 271px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .input-number-3 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .label-5 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.employer-post-ajob-step-2-v-21 .container-4 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.employer-post-ajob-step-2-v-21 .input-7 {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  padding: 7px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .input-number-4 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .extra-info {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .frame-1015 {
+  margin: 0 3px 43.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1172px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .heading-3 {
+  margin-bottom: 11px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.employer-post-ajob-step-2-v-21 .text-3 {
+  margin-right: 40.4px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-post-ajob-step-2-v-21 .text-4 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-post-ajob-step-2-v-21 .frame-1000004353 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .listing-description-1 {
+  margin-bottom: 43.5px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .label {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #515B6F;
+}
+.employer-post-ajob-step-2-v-21 .question-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: var(--gray-500, #6B7280);
+}
+.employer-post-ajob-step-2-v-21 .input {
+  border-radius: 8px;
+  border: 1px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  margin-bottom: 12px;
+  padding: 10px 15px 14px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .question-2 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: var(--gray-500, #6B7280);
+}
+.employer-post-ajob-step-2-v-21 .input-1 {
+  border-radius: 8px;
+  border: 1px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  margin-bottom: 12px;
+  padding: 10px 15px 14px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .question-3 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: var(--gray-500, #6B7280);
+}
+.employer-post-ajob-step-2-v-21 .input-2 {
+  border-radius: 8px;
+  border: 1px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  padding: 10px 15px 14px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .textarea {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .listing-card-web {
+  border-radius: 8px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 31px 21px 48px 24px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .frame-1029 {
+  margin: 0 5px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .frame-1000004358 {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  width: 1230px;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-21 .container-1 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-post-ajob-step-2-v-2 {
+  background: #EDF0F4;
+  display: flex;
+  flex-direction: column;
+  width: 1728px;
+  box-sizing: border-box;
+}

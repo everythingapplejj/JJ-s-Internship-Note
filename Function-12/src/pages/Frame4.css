@@ -1,0 +1,2100 @@
+.frame-4 .image {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 1.5;
+  color: #000000;
+}
+.frame-4 .top-image {
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 140px;
+  display: flex;
+  align-self: flex-start;
+  padding: 75.6px 1px 83.4px 0;
+  width: 393px;
+  box-sizing: border-box;
+}
+.frame-4 .background-style {
+  background: url('assets/images/BackgroundStyle.jpeg') 50% / cover no-repeat, linear-gradient(180deg, rgba(0, 0, 0, 0.03) 4.1%, rgba(0, 0, 0, 0.12) 75.06%, rgba(0, 0, 0, 0.44) 91.2%);
+  position: absolute;
+  top: 0px;
+  right: -200px;
+  width: 800px;
+  height: 1200px;
+}
+.frame-4 .icare-deeply-about {
+  box-shadow: 0px 1px 4px 0px rgba(72, 72, 72, 0.5);
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #000000;
+}
+.frame-4 .john-doe {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 92px;
+  color: #000000;
+}
+.frame-4 .profile {
+  position: relative;
+  display: flex;
+  padding: 108px 0 0 20.8px;
+  box-sizing: border-box;
+}
+.frame-4 .container-23 {
+  background: url('assets/images/Bitmap.jpeg');
+  position: relative;
+  display: flex;
+  padding: 894px 19.8px 120px 0;
+  width: 600px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .left-column-background {
+  background: #000000;
+  position: relative;
+  display: flex;
+  width: 600px;
+  box-sizing: border-box;
+}
+.frame-4 .about {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .john-is-agraduate-s {
+  margin-right: 113.4px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.2;
+  color: #181818;
+}
+.frame-4 .age-1 {
+  margin-right: 13px;
+  width: 341px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .container {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .age {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 375.7px;
+  box-sizing: border-box;
+}
+.frame-4 .occupation {
+  margin-right: 13px;
+  width: 284px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .ph-dstudent {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .job-title {
+  margin: 0 3.3px 18px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 372.4px;
+  box-sizing: border-box;
+}
+.frame-4 .income {
+  margin-right: 13px;
+  width: 218px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .less-than-50-k {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .job-title-copy {
+  margin: 0 13px 18px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 362.8px;
+  box-sizing: border-box;
+}
+.frame-4 .status-1 {
+  margin-right: 13px;
+  width: 304px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .single {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .status {
+  margin: 0 5.4px 18px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 370.3px;
+  box-sizing: border-box;
+}
+.frame-4 .location-1 {
+  margin-right: 13px;
+  width: 187px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .los-angeles-ca {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .location {
+  margin-right: 22.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 353.2px;
+  box-sizing: border-box;
+}
+.frame-4 .information {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 375.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .container-14 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .container-25 {
+  background: #F4F4F6;
+  position: relative;
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  padding: 70px 74.3px 42px 70px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .needs-1 {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .oval-2 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 59px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .create-designs-that {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .container-20 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .oval-2-copy {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 33px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .order-design-artifac {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .container-16 {
+  margin: 0 24.6px 50px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .oval-2-copy-4 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 59px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .help-with-the-crowdf {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .container-28 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .needs {
+  margin-right: 107.5px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-4 .frustrations-1 {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .oval-2-copy-2 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 33px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .some-vendors-charge {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .container-35 {
+  margin: 0 21.4px 20px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .oval-2-copy-3 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 33px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .connecting-with-the {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .container-21 {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .oval-2-copy-5 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 59px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .if-he-ends-up-not-ge {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .container-13 {
+  margin-right: 5.9px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .frustrations {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-4 .container-24 {
+  margin: 0 90.1px 31px 70px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .divider {
+  opacity: 0.5;
+  margin: 0 70px 26px 70px;
+  width: 860px;
+  height: 2px;
+}
+.frame-4 .social-media-activit {
+  margin: 0 1px 25px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .rectangle-41 {
+  border-radius: 28px;
+  background: #AC6B5C;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 242px;
+  height: 40px;
+}
+.frame-4 .facebook-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.frame-4 .facebook {
+  border-radius: 41px;
+  background: #F4F4F6;
+  position: relative;
+  margin-bottom: 20px;
+  padding: 9px 20px 11px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .rectangle-4-copy-1 {
+  border-radius: 32px;
+  background: #AC6B5C;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 175px;
+  height: 40px;
+}
+.frame-4 .instagram-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.frame-4 .instagram {
+  border-radius: 32px;
+  background: #F4F4F6;
+  position: relative;
+  margin-bottom: 20px;
+  padding: 9px 20px 11px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .rectangle-4-copy-21 {
+  border-radius: 32px;
+  background: #AC6B5C;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 164px;
+  height: 40px;
+}
+.frame-4 .twitter-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.frame-4 .twitter {
+  border-radius: 32px;
+  background: #F4F4F6;
+  position: relative;
+  margin-bottom: 20px;
+  padding: 12px 20px 8px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .rectangle-4-copy-31 {
+  border-radius: 32px;
+  background: #AC6B5C;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 214px;
+  height: 40px;
+}
+.frame-4 .snapchat-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.frame-4 .snapchat {
+  border-radius: 32px;
+  background: #F4F4F6;
+  position: relative;
+  padding: 9px 20px 11px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .social-media-activity {
+  margin: 1px 176px 0 0;
+  display: flex;
+  flex-direction: column;
+  width: 305px;
+  box-sizing: border-box;
+}
+.frame-4 .current-feelings-1 {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .stressed {
+  margin-right: 14.5px;
+  width: 114.5px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 25px;
+  color: #AC6B5C;
+}
+.frame-4 .concerned {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 25px;
+  color: #D1998C;
+}
+.frame-4 .busy {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 25px;
+  color: #DBA498;
+}
+.frame-4 .container-26 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 335.2px;
+  box-sizing: border-box;
+}
+.frame-4 .current-feelings {
+  margin-bottom: 46px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .personality-1 {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .passionate {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-1 {
+  background: #F4F4F6;
+  position: relative;
+  margin-right: 10px;
+  padding: 8px 20px 12px 20px;
+  width: 156px;
+  box-sizing: border-box;
+}
+.frame-4 .motivational {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-2 {
+  background: #F4F4F6;
+  position: relative;
+  padding: 8px 20px 12px 20px;
+  width: 183px;
+  box-sizing: border-box;
+}
+.frame-4 .container-38 {
+  margin: 0 34px 10px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .giving {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-3 {
+  background: #F4F4F6;
+  position: relative;
+  padding: 8px 20px 12px 20px;
+  width: 106px;
+  box-sizing: border-box;
+}
+.frame-4 .loving {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-4 {
+  background: #F4F4F6;
+  position: relative;
+  padding: 8px 20px 12px 20px;
+  width: 111px;
+  box-sizing: border-box;
+}
+.frame-4 .optimistic {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-5 {
+  background: #F4F4F6;
+  position: relative;
+  padding: 8px 20px 12px 20px;
+  width: 146px;
+  box-sizing: border-box;
+}
+.frame-4 .container-5 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .personality {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .container-41 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-4 .container-27 {
+  margin: 0 67px 0 69px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .container-11 {
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-4 .soon-sara-part-time-worker-persona {
+  background: #FFFFFF;
+  margin-bottom: 140px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .image-1 {
+  background: url('assets/images/Image13.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -186px;
+  top: -19px;
+  width: 831px;
+  height: 1247px;
+}
+.frame-4 .icare-deeply-about-1 {
+  box-shadow: 0px 1px 4px 0px rgba(72, 72, 72, 0.5);
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Avenir65-Medium', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.2;
+  color: #000000;
+}
+.frame-4 .john-doe-1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 92px;
+  color: #000000;
+}
+.frame-4 .profile-1 {
+  position: relative;
+  display: flex;
+  padding: 108px 0 0 6.1px;
+  box-sizing: border-box;
+}
+.frame-4 .container-42 {
+  background: url('assets/images/Bitmap.jpeg');
+  position: relative;
+  display: flex;
+  padding: 960px 7.1px 28px 0;
+  width: 600px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .left-column-background-1 {
+  background: #000000;
+  position: relative;
+  display: flex;
+  width: 600px;
+  box-sizing: border-box;
+}
+.frame-4 .about-1 {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .john-is-agraduate-s-1 {
+  margin-right: 113.1px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.2;
+  color: #181818;
+}
+.frame-4 .age-3 {
+  margin-right: 13px;
+  width: 341px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .age-2 {
+  margin: 0 1.3px 18px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 375.7px;
+  box-sizing: border-box;
+}
+.frame-4 .occupation-1 {
+  margin: 0 13px 4px 0;
+  display: inline-block;
+  width: 213.1px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .ph-dstudent-1 {
+  margin-top: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .job-title-1 {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 377px;
+  box-sizing: border-box;
+}
+.frame-4 .income-1 {
+  margin-right: 13px;
+  width: 218px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .less-than-50-k-1 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .job-title-copy-1 {
+  margin: 0 14.2px 18px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 362.8px;
+  box-sizing: border-box;
+}
+.frame-4 .status-3 {
+  margin-right: 13px;
+  width: 304px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .single-1 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .status-2 {
+  margin: 0 6.7px 18px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 370.3px;
+  box-sizing: border-box;
+}
+.frame-4 .location-3 {
+  margin-right: 13px;
+  width: 187px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .los-angeles-ca-1 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .location-2 {
+  margin-right: 23.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 353.2px;
+  box-sizing: border-box;
+}
+.frame-4 .information-1 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 377px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .container-9 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .container-29 {
+  background: #F4F4F6;
+  position: relative;
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  padding: 70px 73px 42px 70px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .needs-3 {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .oval-21 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 74px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .create-designs-that-1 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.4;
+  color: #181818;
+}
+.frame-4 .container-8 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .oval-2-copy-1 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 74px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .order-design-artifac-1 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.4;
+  color: #181818;
+}
+.frame-4 .container-19 {
+  margin-bottom: 9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .oval-2-copy-41 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 74px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .help-with-the-crowdf-1 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.4;
+  color: #181818;
+}
+.frame-4 .container-31 {
+  margin-right: 9px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .needs-2 {
+  margin-right: 111.2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-4 .frustrations-3 {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .oval-2-copy-21 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 47px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .some-vendors-charge-1 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.5;
+  color: #181818;
+}
+.frame-4 .container-3 {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .oval-2-copy-31 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 80px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .connecting-with-the-1 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.5;
+  color: #181818;
+}
+.frame-4 .container-37 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .oval-2-copy-51 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  align-self: flex-start;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .container-40 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-4 .if-he-ends-up-not-ge-1 {
+  position: absolute;
+  right: 15px;
+  bottom: -105px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.4;
+  color: #181818;
+}
+.frame-4 .frustrations-2 {
+  position: relative;
+  margin-bottom: 104px;
+  display: flex;
+  box-sizing: border-box;
+}
+.frame-4 .container-4 {
+  margin: 0 71.2px 16px 70px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .divider-1 {
+  opacity: 0.5;
+  margin: 0 70px 26px 70px;
+  width: 860px;
+  height: 2px;
+}
+.frame-4 .social-media-activit-1 {
+  margin: 0 1px 25px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .rectangle-43 {
+  border-radius: 28px;
+  background: #AC6B5C;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 271px;
+  height: 40px;
+}
+.frame-4 .facebook-3 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Avenir65-Medium', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.frame-4 .facebook-2 {
+  border-radius: 41px;
+  background: #F4F4F6;
+  position: relative;
+  margin-bottom: 20px;
+  padding: 15px 20px 5px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .rectangle-4-copy-3 {
+  border-radius: 32px;
+  background: #AC6B5C;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 120px;
+  height: 40px;
+}
+.frame-4 .instagram-3 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Avenir65-Medium', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.frame-4 .instagram-2 {
+  border-radius: 32px;
+  background: #F4F4F6;
+  position: relative;
+  margin-bottom: 20px;
+  padding: 15px 20px 5px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .rectangle-4-copy-23 {
+  border-radius: 32px;
+  background: #AC6B5C;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 185px;
+  height: 40px;
+}
+.frame-4 .snapchat-3 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.frame-4 .twitter-3 {
+  border-radius: 32px;
+  background: #F4F4F6;
+  position: relative;
+  margin-bottom: 20px;
+  padding: 8px 20px 12px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .rectangle-4-copy-33 {
+  border-radius: 32px;
+  background: #AC6B5C;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 220px;
+  height: 40px;
+}
+.frame-4 .twitter-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.frame-4 .snapchat-2 {
+  border-radius: 32px;
+  background: #F4F4F6;
+  position: relative;
+  padding: 12px 20px 8px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .social-media-activity-1 {
+  margin: 1px 176px 0 0;
+  display: flex;
+  flex-direction: column;
+  width: 305px;
+  box-sizing: border-box;
+}
+.frame-4 .current-feelings-3 {
+  margin-bottom: 34px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .overwhelmed {
+  margin-right: 14.5px;
+  width: 174.7px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir65-Medium', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 25px;
+  color: #AC6B5C;
+}
+.frame-4 .anxious {
+  overflow-wrap: break-word;
+  font-family: 'Avenir65-Medium', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 25px;
+  color: #D1998C;
+}
+.frame-4 .motivated {
+  overflow-wrap: break-word;
+  font-family: 'Avenir65-Medium', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 25px;
+  color: #DBA498;
+}
+.frame-4 .frame-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 404.1px;
+  box-sizing: border-box;
+}
+.frame-4 .current-feelings-2 {
+  margin-bottom: 37px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .personality-3 {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .driven {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-11 {
+  background: #F4F4F6;
+  position: relative;
+  margin-right: 9px;
+  padding: 8px 11.1px 12px 11.1px;
+  width: 88px;
+  box-sizing: border-box;
+}
+.frame-4 .family-oriented {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-21 {
+  background: #F4F4F6;
+  position: relative;
+  display: flex;
+  padding: 8px 19.9px 12px 0;
+  width: 190px;
+  box-sizing: border-box;
+}
+.frame-4 .container-43 {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .amicable {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-31 {
+  background: #F4F4F6;
+  position: relative;
+  padding: 7px 13.1px 13px 13.1px;
+  width: 118px;
+  box-sizing: border-box;
+}
+.frame-4 .witty {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-41 {
+  background: #F4F4F6;
+  position: relative;
+  display: flex;
+  padding: 8px 20px 12px 14.6px;
+  box-sizing: border-box;
+}
+.frame-4 .earnest {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-51 {
+  background: #F4F4F6;
+  position: relative;
+  padding: 8px 15.1px 12px 15.1px;
+  width: 110px;
+  box-sizing: border-box;
+}
+.frame-4 .container-36 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .personality-2 {
+  margin: 0 7px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .container-45 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-4 .container-15 {
+  margin: 0 45.9px 0 69px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .container-1 {
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-4 .soon-jamie-part-time-worker-secondary-persona {
+  background: #FFFFFF;
+  margin-bottom: 140px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .icare-deeply-about-2 {
+  box-shadow: 0px 1px 4px 0px rgba(72, 72, 72, 0.5);
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Avenir65-Medium', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.2;
+  color: #FFFFFF;
+}
+.frame-4 .olivia {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 92px;
+  color: #FFFFFF;
+}
+.frame-4 .profile-2 {
+  position: relative;
+  display: flex;
+  padding: 108px 0 0 16.1px;
+  box-sizing: border-box;
+}
+.frame-4 .container-34 {
+  background: url('assets/images/Image32.png') 50% / cover no-repeat;
+  position: relative;
+  display: flex;
+  padding: 935px 17.1px 53px 0;
+  width: 600px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .left-column-background-2 {
+  background: #000000;
+  position: relative;
+  display: flex;
+  width: 600px;
+  box-sizing: border-box;
+}
+.frame-4 .about-2 {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .john-is-agraduate-s-2 {
+  margin-right: 104.8px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.2;
+  color: #181818;
+}
+.frame-4 .age-5 {
+  margin-right: 13px;
+  width: 341px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .age-4 {
+  margin: 0 4.3px 18px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 375.7px;
+  box-sizing: border-box;
+}
+.frame-4 .occupation-2 {
+  margin: 0 13px 4px 0;
+  display: inline-block;
+  width: 204px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .ph-dstudent-2 {
+  margin-top: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .job-title-2 {
+  margin: 0 3px 14px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 377px;
+  box-sizing: border-box;
+}
+.frame-4 .income-2 {
+  margin-right: 13px;
+  width: 267.9px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .less-than-50-k-2 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .job-title-copy-2 {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 380px;
+  box-sizing: border-box;
+}
+.frame-4 .status-5 {
+  margin-right: 13px;
+  width: 300.2px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .single-2 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .status-4 {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 380px;
+  box-sizing: border-box;
+}
+.frame-4 .location-5 {
+  margin-right: 13px;
+  width: 187px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  color: #202020;
+}
+.frame-4 .los-angeles-ca-2 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  color: #181818;
+}
+.frame-4 .location-4 {
+  margin-right: 26.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 353.2px;
+  box-sizing: border-box;
+}
+.frame-4 .information-2 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 380px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .container-30 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .container-22 {
+  background: #F4F4F6;
+  position: relative;
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  padding: 70px 70px 42px 70px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .needs-5 {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .oval-22 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 43px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .create-designs-that-2 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.4;
+  color: #181818;
+}
+.frame-4 .container-32 {
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .oval-2-copy-2 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 74px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .order-design-artifac-2 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.4;
+  color: #181818;
+}
+.frame-4 .container-6 {
+  margin: 0 20.9px 9px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .oval-2-copy-42 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 74px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .help-with-the-crowdf-2 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.4;
+  color: #181818;
+}
+.frame-4 .container {
+  margin-right: 10px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .needs-4 {
+  margin-right: 104.7px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-4 .frustrations-5 {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .oval-2-copy-22 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 47px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .frustration-1 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.5;
+  color: #181818;
+}
+.frame-4 .container-17 {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .oval-2-copy-32 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 80px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .frustration-2 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.5;
+  color: #181818;
+}
+.frame-4 .container-10 {
+  margin: 0 1.3px 3px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .oval-2-copy-52 {
+  border-radius: 5px;
+  background: #AC6B5C;
+  margin: 9px 10px 74px 0;
+  width: 10px;
+  height: 10px;
+}
+.frame-4 .frustration-3 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.4;
+  color: #181818;
+}
+.frame-4 .container-7 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .frustrations-4 {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-4 .container-12 {
+  margin: 0 75.5px 16px 70px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .divider-2 {
+  opacity: 0.5;
+  margin: 0 70px 26px 70px;
+  width: 860px;
+  height: 2px;
+}
+.frame-4 .employee-qualifications {
+  margin: 0 1px 25px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .rectangle-45 {
+  border-radius: 28px;
+  background: #AC6B5C;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 255px;
+  height: 40px;
+}
+.frame-4 .facebook-5 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Avenir65-Medium', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.frame-4 .facebook-4 {
+  border-radius: 41px;
+  background: #F4F4F6;
+  position: relative;
+  margin-bottom: 20px;
+  padding: 15px 20px 5px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .rectangle-4-copy-5 {
+  border-radius: 32px;
+  background: #AC6B5C;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 120px;
+  height: 40px;
+}
+.frame-4 .instagram-5 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Avenir65-Medium', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.frame-4 .instagram-4 {
+  border-radius: 32px;
+  background: #F4F4F6;
+  position: relative;
+  margin-bottom: 20px;
+  padding: 15px 20px 5px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .rectangle-4-copy-25 {
+  border-radius: 32px;
+  background: #AC6B5C;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 230px;
+  height: 40px;
+}
+.frame-4 .snapchat-5 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Avenir65-Medium', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.frame-4 .twitter-5 {
+  border-radius: 32px;
+  background: #F4F4F6;
+  position: relative;
+  margin-bottom: 20px;
+  padding: 15px 20px 5px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .rectangle-4-copy-35 {
+  border-radius: 32px;
+  background: #AC6B5C;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 181px;
+  height: 40px;
+}
+.frame-4 .twitter-4 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Avenir LT 55 Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.frame-4 .snapchat-4 {
+  border-radius: 32px;
+  background: #F4F4F6;
+  position: relative;
+  padding: 12px 20px 8px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .social-media-activity-2 {
+  margin: 1px 176px 0 0;
+  display: flex;
+  flex-direction: column;
+  width: 305px;
+  box-sizing: border-box;
+}
+.frame-4 .current-feelings-5 {
+  margin-bottom: 34px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .concerned-1 {
+  margin-right: 14.5px;
+  width: 138.5px;
+  overflow-wrap: break-word;
+  font-family: 'Avenir65-Medium', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 25px;
+  color: #AC6B5C;
+}
+.frame-4 .anxious-1 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir65-Medium', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 25px;
+  color: #D1998C;
+}
+.frame-4 .motivated-1 {
+  overflow-wrap: break-word;
+  font-family: 'Avenir65-Medium', 'Roboto Condensed';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 25px;
+  color: #DBA498;
+}
+.frame-4 .frame-11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 310.6px;
+  box-sizing: border-box;
+}
+.frame-4 .current-feelings-4 {
+  margin: 0 20.4px 37px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .personality-5 {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 25px;
+  color: #181818;
+}
+.frame-4 .excited {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-12 {
+  background: #F4F4F6;
+  position: relative;
+  margin-right: 10px;
+  padding: 8px 12.4px 12px 12.4px;
+  width: 98px;
+  box-sizing: border-box;
+}
+.frame-4 .old-fashioned {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-32 {
+  background: #F4F4F6;
+  position: relative;
+  display: flex;
+  padding: 7px 32.8px 13px 0;
+  width: 193px;
+  box-sizing: border-box;
+}
+.frame-4 .container-44 {
+  margin: 0 23px 10px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .serious {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-22 {
+  background: #F4F4F6;
+  position: relative;
+  padding: 8px 10.4px 12px 10.4px;
+  width: 95px;
+  box-sizing: border-box;
+}
+.frame-4 .animated {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-42 {
+  background: #F4F4F6;
+  position: relative;
+  padding: 7px 13.6px 13px 13.6px;
+  width: 123px;
+  box-sizing: border-box;
+}
+.frame-4 .proud {
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  color: #333333;
+}
+.frame-4 .group-52 {
+  background: #F4F4F6;
+  position: relative;
+  padding: 8px 11.8px 12px 11.8px;
+  width: 86px;
+  box-sizing: border-box;
+}
+.frame-4 .container-39 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .personality-4 {
+  margin-left: 7px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .container-18 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-4 .container-33 {
+  margin: 0 69px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 .container-2 {
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-4 .soon-olivia-small-business-owner-secondary-persona {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: column;
+  width: 1600px;
+  box-sizing: border-box;
+}

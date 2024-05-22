@@ -1,0 +1,1 @@
+export { BarsOutline } from "./BarsOutline";

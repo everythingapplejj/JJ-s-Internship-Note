@@ -1,0 +1,2120 @@
+.applicants-page-web-with-giest-version-2-sketch .logo {
+  margin-right: 15px;
+  width: 979px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 26px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .home {
+  margin-right: 10.5px;
+  width: 210.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .login {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .links {
+  margin: 4.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 265.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .navbar-desktop {
+  border-bottom: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 17px 90.6px 16px 90px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame-13 {
+  margin: 11px 0 7px 0;
+  width: 29px;
+  height: 29px;
+}
+.applicants-page-web-with-giest-version-2-sketch .sort {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 40px;
+  color: #888888;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-9 {
+  margin: 0 7.6px 27px 7.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 159.9px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .line-416 {
+  background: #888888;
+  width: 270px;
+  height: 1px;
+}
+.applicants-page-web-with-giest-version-2-sketch .head-1 {
+  margin-bottom: 17px;
+  display: flex;
+  flex-direction: column;
+  width: 270px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .line-417 {
+  background: #888888;
+  margin: 0 0px 13px 0;
+  width: 211.7px;
+  height: 1px;
+}
+.applicants-page-web-with-giest-version-2-sketch .default {
+  margin: 0 11.5px 3px 0;
+  display: inline-block;
+  width: 175px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame-9 {
+  margin-top: 2px;
+  width: 24px;
+  height: 24px;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-19 {
+  margin-left: 1.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 210.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-21 {
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 24.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  padding-bottom: 17px;
+  width: 211.7px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .line-412 {
+  background: #888888;
+  width: 212px;
+  height: 1px;
+}
+.applicants-page-web-with-giest-version-2-sketch .active-filter-2 {
+  margin: 0 24.3px 14px 24.3px;
+  display: flex;
+  align-self: flex-start;
+  width: 212px;
+  height: 1px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .recency {
+  margin: 0 11.5px 3px 0;
+  display: inline-block;
+  width: 175px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame-10 {
+  margin-top: 2px;
+  width: 24px;
+  height: 24px;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-11 {
+  margin: 0 0.3px 17px 1.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 210.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .line-413 {
+  background: #888888;
+  width: 212px;
+  height: 1px;
+}
+.applicants-page-web-with-giest-version-2-sketch .complete-filter-2 {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 212px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .rating {
+  margin: 0 11.5px 3px 0;
+  display: inline-block;
+  width: 175px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame-11 {
+  margin-top: 2px;
+  width: 24px;
+  height: 24px;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-13 {
+  margin: 0 0.3px 10px 1.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 210.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .line-414 {
+  background: #888888;
+  width: 212px;
+  height: 1px;
+}
+.applicants-page-web-with-giest-version-2-sketch .draft-filter-2 {
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 212px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .name {
+  margin: 0 11.5px 3px 0;
+  display: inline-block;
+  width: 175px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame-12 {
+  margin-top: 2px;
+  width: 24px;
+  height: 24px;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-17 {
+  margin: 0 0.3px 21px 1.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 210.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .line-415 {
+  background: #888888;
+  width: 212px;
+  height: 1px;
+}
+.applicants-page-web-with-giest-version-2-sketch .deleted-filter-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 212px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .options {
+  margin: 0 24.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: 212px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .sort-drop-down {
+  margin-bottom: 29px;
+  display: flex;
+  flex-direction: column;
+  width: 270px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame-8 {
+  margin: 11px 0 7px 0;
+  width: 29px;
+  height: 29px;
+}
+.applicants-page-web-with-giest-version-2-sketch .filters-2 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 40px;
+  color: #888888;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-22 {
+  margin: 0 7.6px 27px 7.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 176.7px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .line-411 {
+  background: #888888;
+  width: 270px;
+  height: 1px;
+}
+.applicants-page-web-with-giest-version-2-sketch .head {
+  margin-bottom: 33px;
+  display: flex;
+  flex-direction: column;
+  width: 270px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicant-status-2 {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .unreviewed {
+  margin: 0 11.5px 0.5px 0;
+  display: inline-block;
+  width: 190.6px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .vector-4 {
+  width: 18.8px;
+  height: 18.8px;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame-4 {
+  margin-top: 4.7px;
+  display: flex;
+  width: 18.8px;
+  height: 18.8px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .active-filter-1 {
+  margin-bottom: 19.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 220.9px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .reviewed {
+  margin: 0 11.5px 0.5px 0;
+  display: inline-block;
+  width: 190.3px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .vector-5 {
+  width: 18.8px;
+  height: 18.8px;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame-5 {
+  margin-top: 4.7px;
+  display: flex;
+  width: 18.8px;
+  height: 18.8px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .complete-filter-1 {
+  margin: 0 0.3px 19.7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 220.6px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .accepted {
+  margin: 0 11.5px 0.7px 0;
+  display: inline-block;
+  width: 190.6px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .vector-6 {
+  width: 18.8px;
+  height: 18.8px;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame-6 {
+  margin-top: 4.9px;
+  display: flex;
+  width: 18.8px;
+  height: 18.8px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .draft-filter-1 {
+  margin-bottom: 19.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 220.9px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .rejected {
+  margin: 0 11.5px 0.5px 0;
+  display: inline-block;
+  width: 190.3px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .vector-7 {
+  width: 18.8px;
+  height: 18.8px;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame-7 {
+  margin-top: 4.7px;
+  display: flex;
+  width: 18.8px;
+  height: 18.8px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .deleted-filter-1 {
+  margin-right: 0.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 220.6px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .filters-1 {
+  margin-left: 11.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 220.9px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicant-status-1 {
+  margin: 0 24.8px 23.3px 13px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .line-41 {
+  background: #888888;
+  margin: 0 0 18px 0px;
+  width: 211.7px;
+  height: 1px;
+}
+.applicants-page-web-with-giest-version-2-sketch .days-available {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .monday {
+  margin: 0 11.5px 0.5px 0;
+  display: inline-block;
+  width: 190.6px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .vector {
+  width: 18.8px;
+  height: 18.8px;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame {
+  margin-top: 4.7px;
+  display: flex;
+  width: 18.8px;
+  height: 18.8px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .active-filter {
+  margin-bottom: 19.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 220.9px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .tuesday {
+  margin: 0 11.5px 0.5px 0;
+  display: inline-block;
+  width: 190.3px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .vector-1 {
+  width: 18.8px;
+  height: 18.8px;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame-1 {
+  margin-top: 4.7px;
+  display: flex;
+  width: 18.8px;
+  height: 18.8px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .complete-filter {
+  margin: 0 0.3px 19.7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 220.6px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .wednesday {
+  margin: 0 11.5px 0.7px 0;
+  display: inline-block;
+  width: 190.6px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .vector-2 {
+  width: 18.8px;
+  height: 18.8px;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame-2 {
+  margin-top: 4.9px;
+  display: flex;
+  width: 18.8px;
+  height: 18.8px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .draft-filter {
+  margin-bottom: 19.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 220.9px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .friday {
+  margin: 0 11.5px 0.5px 0;
+  display: inline-block;
+  width: 190.3px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .vector-3 {
+  width: 18.8px;
+  height: 18.8px;
+}
+.applicants-page-web-with-giest-version-2-sketch .frame-3 {
+  margin-top: 4.7px;
+  display: flex;
+  width: 18.8px;
+  height: 18.8px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .deleted-filter {
+  margin-right: 0.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 220.6px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .filters {
+  margin-left: 11.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 220.9px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicant-status {
+  margin: 0 24.8px 0 13px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .filter-drop-down {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-25 {
+  margin: 35px 0 29.3px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .line-40 {
+  background: #888888;
+  width: 1px;
+  height: 960px;
+}
+.applicants-page-web-with-giest-version-2-sketch .side-bar {
+  margin-right: 21px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicants-1 {
+  margin-bottom: 23px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 48px;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .listing-1 {
+  margin-right: 10px;
+  width: 205px;
+  overflow-wrap: break-word;
+  font-family: var(--text-14-normal-400-font-family, 'Geist', 'Roboto Condensed');
+  font-weight: var(--text-14-normal-400-font-weight, 400);
+  font-size: var(--text-14-normal-400-font-size, 14px);
+  line-height: var(--text-14-normal-400-line-height, 1.429);
+  color: #111111;
+}
+.applicants-page-web-with-giest-version-2-sketch .vector-22 {
+  width: 10px;
+  height: 5px;
+}
+.applicants-page-web-with-giest-version-2-sketch .chevron-down {
+  margin: 7.5px 0;
+  display: flex;
+  width: 10px;
+  height: 5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .listing-dropdown {
+  border-radius: 6px;
+  border: 1px solid #111111;
+  background: #FAFAFA;
+  margin: 0 0 42px 48px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  padding: 9px 14px 9px 9px;
+  width: 250px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .pfp {
+  border-radius: 9999px;
+  background: url('assets/images/Pfp.png') 50% / cover no-repeat;
+  width: 40px;
+  height: 40px;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicant-name {
+  margin: 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-12 {
+  margin: 0 14px 34px 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 271.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .relevant-experience {
+  margin: 7px 30px 0 0;
+  width: 292.5px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1;
+  color: #000000;
+}
+.relevant-experience-sub32 {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.333;
+}
+.relevant-experience {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+}
+.applicants-page-web-with-giest-version-2-sketch .resume-icon {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-web-with-giest-version-2-sketch .ellipse-25 {
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 20px;
+  height: 20px;
+}
+.applicants-page-web-with-giest-version-2-sketch .resume-button {
+  position: relative;
+  margin-right: 2px;
+  display: flex;
+  padding: 2px;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-resume-1 {
+  margin: 4.8px 0 3.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.2;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-resume {
+  margin: 0 9.5px 6px 13.5px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .s {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-1 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .m {
+  position: absolute;
+  right: 3.2px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-2 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .t {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-3 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .w {
+  position: absolute;
+  right: 3.2px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-4 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .t-1 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-5 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .f {
+  position: absolute;
+  right: 5.1px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-6 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 15px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-16 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 85px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .s-1 {
+  position: absolute;
+  right: 3.9px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-7 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 13px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head {
+  position: relative;
+  display: flex;
+  padding-right: 13px;
+  width: 98px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-14 {
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-26 {
+  margin-bottom: 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 420.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .label {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 0.909;
+  color: #FAFAFA;
+}
+.applicants-page-web-with-giest-version-2-sketch .button {
+  border-radius: 6px;
+  background: #3291FF;
+  display: flex;
+  padding: 13.5px 0;
+  width: 164.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-profile {
+  border-radius: 6px;
+  display: flex;
+  align-self: center;
+  width: 164.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicant-card-web {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 0.1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 144px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 9.5px 8px 10px;
+  width: 440px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .pfp-1 {
+  border-radius: 9999px;
+  background: url('assets/images/Pfp.png') 50% / cover no-repeat;
+  width: 40px;
+  height: 40px;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicant-name-1 {
+  margin: 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-4 {
+  margin: 0 14px 34px 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 271.5px;
+  box-sizing: border-box;
+}
+.relevant-experience-1-sub32 {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.333;
+}
+.relevant-experience-1 {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+}
+.applicants-page-web-with-giest-version-2-sketch .relevant-experience-1 {
+  margin: 7px 30px 0 0;
+  width: 292.5px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .resume-icon-1 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-web-with-giest-version-2-sketch .ellipse-251 {
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 20px;
+  height: 20px;
+}
+.applicants-page-web-with-giest-version-2-sketch .resume-button-1 {
+  position: relative;
+  margin-right: 2px;
+  display: flex;
+  padding: 2px;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-resume-3 {
+  margin: 4.8px 0 3.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.2;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-resume-2 {
+  margin: 0 9.5px 6px 13.5px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .s-2 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-9 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .m-1 {
+  position: absolute;
+  right: 3.2px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-10 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .t-2 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-11 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .w-1 {
+  position: absolute;
+  right: 3.2px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-12 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .t-3 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-13 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .f-1 {
+  position: absolute;
+  right: 5.1px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-14 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 15px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 85px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .s-3 {
+  position: absolute;
+  right: 3.9px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-15 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 13px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-8 {
+  position: relative;
+  display: flex;
+  padding-right: 13px;
+  width: 98px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-23 {
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-20 {
+  margin-bottom: 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 420.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .label-1 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 0.909;
+  color: #FAFAFA;
+}
+.applicants-page-web-with-giest-version-2-sketch .button-1 {
+  border-radius: 6px;
+  background: #3291FF;
+  display: flex;
+  padding: 13.5px 0;
+  width: 164.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-profile-1 {
+  border-radius: 6px;
+  display: flex;
+  align-self: center;
+  width: 164.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicant-card-web-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 0.1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 9.5px 8px 10px;
+  width: 440px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .row {
+  margin-bottom: 45px;
+  display: flex;
+  flex-direction: row;
+  width: 1024px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .pfp-2 {
+  border-radius: 9999px;
+  background: url('assets/images/Pfp.png') 50% / cover no-repeat;
+  width: 40px;
+  height: 40px;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicant-name-2 {
+  margin: 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-5 {
+  margin: 0 14px 34px 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 271.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .relevant-experience-2 {
+  margin: 7px 30px 0 0;
+  width: 292.5px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1;
+  color: #000000;
+}
+.relevant-experience-2-sub32 {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.333;
+}
+.relevant-experience-2 {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+}
+.applicants-page-web-with-giest-version-2-sketch .resume-icon-2 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-web-with-giest-version-2-sketch .ellipse-252 {
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 20px;
+  height: 20px;
+}
+.applicants-page-web-with-giest-version-2-sketch .resume-button-2 {
+  position: relative;
+  margin-right: 2px;
+  display: flex;
+  padding: 2px;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-resume-5 {
+  margin: 4.8px 0 3.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.2;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-resume-4 {
+  margin: 0 9.5px 6px 13.5px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .s-4 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-17 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .m-2 {
+  position: absolute;
+  right: 3.2px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-18 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .t-4 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-19 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .w-2 {
+  position: absolute;
+  right: 3.2px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-20 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .t-5 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-21 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .f-2 {
+  position: absolute;
+  right: 5.1px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-22 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 15px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 85px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .s-5 {
+  position: absolute;
+  right: 3.9px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-23 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 13px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-16 {
+  position: relative;
+  display: flex;
+  padding-right: 13px;
+  width: 98px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-15 {
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-27 {
+  margin-bottom: 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 420.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .label-2 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 0.909;
+  color: #FAFAFA;
+}
+.applicants-page-web-with-giest-version-2-sketch .button-2 {
+  border-radius: 6px;
+  background: #3291FF;
+  display: flex;
+  padding: 13.5px 0;
+  width: 164.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-profile-2 {
+  border-radius: 6px;
+  display: flex;
+  align-self: center;
+  width: 164.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicant-card-web-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 0.1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 144px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 9.5px 8px 10px;
+  width: 440px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .pfp-3 {
+  border-radius: 9999px;
+  background: url('assets/images/Pfp.png') 50% / cover no-repeat;
+  width: 40px;
+  height: 40px;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicant-name-3 {
+  margin: 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-2 {
+  margin: 0 14px 34px 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 271.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .relevant-experience-3 {
+  margin: 7px 30px 0 0;
+  width: 292.5px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1;
+  color: #000000;
+}
+.relevant-experience-3-sub32 {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.333;
+}
+.relevant-experience-3 {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+}
+.applicants-page-web-with-giest-version-2-sketch .resume-icon-3 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-web-with-giest-version-2-sketch .ellipse-253 {
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 20px;
+  height: 20px;
+}
+.applicants-page-web-with-giest-version-2-sketch .resume-button-3 {
+  position: relative;
+  margin-right: 2px;
+  display: flex;
+  padding: 2px;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-resume-7 {
+  margin: 4.8px 0 3.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.2;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-resume-6 {
+  margin: 0 9.5px 6px 13.5px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .s-6 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-25 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .m-3 {
+  position: absolute;
+  right: 3.2px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-26 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .t-6 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-27 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .w-3 {
+  position: absolute;
+  right: 3.2px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-28 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .t-7 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-29 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .f-3 {
+  position: absolute;
+  right: 5.1px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-30 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 15px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-18 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 85px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .s-7 {
+  position: absolute;
+  right: 3.9px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-31 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 13px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-24 {
+  position: relative;
+  display: flex;
+  padding-right: 13px;
+  width: 98px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-24 {
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-1 {
+  margin-bottom: 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 420.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .label-3 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 0.909;
+  color: #FAFAFA;
+}
+.applicants-page-web-with-giest-version-2-sketch .button-3 {
+  border-radius: 6px;
+  background: #3291FF;
+  display: flex;
+  padding: 13.5px 0;
+  width: 164.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-profile-3 {
+  border-radius: 6px;
+  display: flex;
+  align-self: center;
+  width: 164.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicant-card-web-3 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 0.1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 9.5px 8px 10px;
+  width: 440px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .row-1 {
+  margin-bottom: 45px;
+  display: flex;
+  flex-direction: row;
+  width: 1024px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .pfp-4 {
+  border-radius: 9999px;
+  background: url('assets/images/Pfp.png') 50% / cover no-repeat;
+  width: 40px;
+  height: 40px;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicant-name-4 {
+  margin: 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-6 {
+  margin: 0 14px 34px 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 271.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .relevant-experience-4 {
+  margin: 7px 30px 0 0;
+  width: 292.5px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1;
+  color: #000000;
+}
+.relevant-experience-4-sub32 {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 1.333;
+}
+.relevant-experience-4 {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+}
+.applicants-page-web-with-giest-version-2-sketch .resume-icon-4 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.applicants-page-web-with-giest-version-2-sketch .ellipse-254 {
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 20px;
+  height: 20px;
+}
+.applicants-page-web-with-giest-version-2-sketch .resume-button-4 {
+  position: relative;
+  margin-right: 2px;
+  display: flex;
+  padding: 2px;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-resume-9 {
+  margin: 4.8px 0 3.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.2;
+  color: #000000;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-resume-8 {
+  margin: 0 9.5px 6px 13.5px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .s-8 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-33 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .m-4 {
+  position: absolute;
+  right: 3.2px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-34 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .t-8 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-35 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .w-4 {
+  position: absolute;
+  right: 3.2px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-36 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .t-9 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-37 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .f-4 {
+  position: absolute;
+  right: 5.1px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-38 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 15px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-28 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 85px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .s-9 {
+  position: absolute;
+  right: 3.9px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-39 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 13px;
+  height: 13px;
+}
+.applicants-page-web-with-giest-version-2-sketch .table-head-32 {
+  position: relative;
+  display: flex;
+  padding-right: 13px;
+  width: 98px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-8 {
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-3 {
+  margin-bottom: 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 420.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .label-4 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 0.909;
+  color: #FAFAFA;
+}
+.applicants-page-web-with-giest-version-2-sketch .button-4 {
+  border-radius: 6px;
+  background: #3291FF;
+  display: flex;
+  padding: 13.5px 0;
+  width: 164.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .view-profile-4 {
+  border-radius: 6px;
+  display: flex;
+  align-self: center;
+  width: 164.5px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .row-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 0.1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  padding: 10px 9.5px 8px 10px;
+  width: 440px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .applicants {
+  margin-left: 62px;
+  display: flex;
+  flex-direction: column;
+  width: 1024px;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .body {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch .container-10 {
+  margin-right: 62px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicants-page-web-with-giest-version-2-sketch {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}

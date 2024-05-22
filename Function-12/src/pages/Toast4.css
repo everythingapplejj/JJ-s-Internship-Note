@@ -1,0 +1,48 @@
+.toast-4 .avatar-1 {
+  border-radius: 100px;
+  background: var(--avatar-bonnie-green, url('assets/images/Avatar.jpeg') 50% / cover no-repeat);
+  width: 32px;
+  height: 32px;
+}
+.toast-4 .avatar {
+  margin: 2px 0 12px 0;
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.toast-4 .title {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-smfont-semibold-font-weight, 600);
+  font-size: var(--text-smfont-semibold-font-size, 14px);
+  line-height: var(--text-smfont-semibold-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.toast-4 .message {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: var(--gray-500, #6B7280);
+}
+.toast-4 .text-cta {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.toast {
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  background: var(--white-4, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px 0 57px 15px;
+  box-sizing: border-box;
+}

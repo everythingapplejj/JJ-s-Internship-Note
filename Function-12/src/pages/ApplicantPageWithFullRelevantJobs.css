@@ -1,0 +1,1482 @@
+.applicant-page-with-full-relevant-jobs .close-btn {
+  border-radius: 8.1px;
+  background: #FC615C;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.applicant-page-with-full-relevant-jobs .restore-btn {
+  border-radius: 8.1px;
+  background: #FDBE40;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.applicant-page-with-full-relevant-jobs .minimize-btn {
+  border-radius: 8.1px;
+  background: #34CA49;
+  width: 16.2px;
+  height: 16.2px;
+}
+.applicant-page-with-full-relevant-jobs .action-bttn {
+  margin: 5.4px 27.2px 8.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 70.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .arrow {
+  width: 6.8px;
+  height: 13.5px;
+}
+.applicant-page-with-full-relevant-jobs .prev-btn {
+  margin: 8.2px 18.6px 8px 0;
+  display: flex;
+  width: 6.8px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .arrow-1 {
+  width: 6.8px;
+  height: 13.5px;
+}
+.applicant-page-with-full-relevant-jobs .prev-btn-1 {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 14.9px;
+  display: flex;
+  padding: 8.1px 12.1px 8.1px 13.5px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .option-btn {
+  width: 50px;
+  height: 29.7px;
+}
+.applicant-page-with-full-relevant-jobs .container-2 {
+  margin-bottom: 9.4px;
+  display: flex;
+  flex-direction: row;
+  width: 220px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .safaribrowser {
+  margin: 3px 7px 0 0;
+  display: inline-block;
+  width: 583px;
+  overflow-wrap: break-word;
+  font-family: 'SF Compact Display', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.applicant-page-with-full-relevant-jobs .refresh {
+  margin-bottom: 5px;
+  width: 10px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .address-bar {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 7px 0 0;
+  width: 1143px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .share {
+  width: 13.5px;
+  height: 18.9px;
+}
+.applicant-page-with-full-relevant-jobs .share-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 10.8px 9.4px 0;
+  display: flex;
+  padding: 4.7px 18.2px 6.1px 18.2px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .view {
+  width: 14.9px;
+  height: 14.9px;
+}
+.applicant-page-with-full-relevant-jobs .view-search-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 17.5px 9.4px 0;
+  display: flex;
+  padding: 7.4px 17.6px 7.4px 17.5px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .add-btn {
+  margin-top: 6.7px;
+  width: 32.4px;
+  height: 32.4px;
+}
+.applicant-page-with-full-relevant-jobs .container-7 {
+  display: flex;
+  flex-direction: row;
+  width: 160.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .browser-bar {
+  box-shadow: 0px 1px 0px 0px #B5B4B5;
+  border-radius: 5px 5px 0 0;
+  background: linear-gradient(180deg, #EBEAEB, #D7D6D7);
+  position: relative;
+  margin: 0 103.5px 0 10.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 42.8px 0px 0.1px 17.6px;
+  width: 1728px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .text-8 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicant-page-with-full-relevant-jobs .bar {
+  background: var(--gray-501, #F9FAFB);
+  margin-bottom: 15px;
+  display: flex;
+  padding: 11.5px 0;
+  width: 1842px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .avatar {
+  border-radius: 100px;
+  background: var(--avatar-neil-sims, url('assets/images/Avatar4.jpeg') 50% / cover no-repeat);
+  margin: 3px 15px 0 0;
+  width: 80px;
+  height: 80px;
+}
+.applicant-page-with-full-relevant-jobs .applicant-name-pronouns {
+  margin: 0 0 15px 0.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+}
+.applicant-name-pronouns {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.333;
+}
+.applicant-page-with-full-relevant-jobs .text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-smfont-semibold-font-weight, 600);
+  font-size: var(--text-smfont-semibold-font-size, 14px);
+  line-height: var(--text-smfont-semibold-line-height, 1.5);
+  color: var(--green-800, #03543F);
+}
+.applicant-page-with-full-relevant-jobs .badge-1 {
+  border-radius: 6px;
+  border: 1px solid #03543F;
+  background: var(--green-100, #DEF7EC);
+  margin-right: 8px;
+  display: flex;
+  padding: 1px 11.1px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .text {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-smfont-semibold-font-weight, 600);
+  font-size: var(--text-smfont-semibold-font-size, 14px);
+  line-height: var(--text-smfont-semibold-line-height, 1.5);
+  color: var(--green-800, #03543F);
+}
+.applicant-page-with-full-relevant-jobs .badge {
+  border-radius: 6px;
+  border: 1px solid #03543F;
+  background: var(--green-100, #DEF7EC);
+  display: flex;
+  padding: 1px 11.3px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .container-1 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .container {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .applicant-deets {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .folder-open {
+  margin-right: 8px;
+  width: 24px;
+  height: 24px;
+}
+.applicant-page-with-full-relevant-jobs .text-10 {
+  overflow-wrap: break-word;
+  font-family: var(--text-basefont-medium-font-family, 'Inter');
+  font-weight: var(--text-basefont-medium-font-weight, 500);
+  font-size: var(--text-basefont-medium-font-size, 16px);
+  line-height: var(--text-basefont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.applicant-page-with-full-relevant-jobs .button {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin: 23px 0 20px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 12.7px 8px 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .header {
+  margin: 0 6px 30px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1665px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .about-applicant {
+  margin-bottom: 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 1;
+  color: #000000;
+}
+.applicant-page-with-full-relevant-jobs .about-body {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 1;
+  color: #000000;
+}
+.applicant-page-with-full-relevant-jobs .about {
+  margin: 0 37.2px 35px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .label {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.applicant-page-with-full-relevant-jobs .container {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.applicant-page-with-full-relevant-jobs .input {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  padding: 7px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .input-number {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .label-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.applicant-page-with-full-relevant-jobs .container-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.applicant-page-with-full-relevant-jobs .input-1 {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  padding: 7px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .input-number-1 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .applicant-application {
+  display: flex;
+  flex-direction: column;
+  width: 271px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .label-2 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.applicant-page-with-full-relevant-jobs .container-2 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.applicant-page-with-full-relevant-jobs .input-2 {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  padding: 7px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .input-number-2 {
+  margin-bottom: 11px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .preferred-days {
+  margin-bottom: 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.25;
+  color: #000000;
+}
+.applicant-page-with-full-relevant-jobs .vector-4 {
+  width: 13.5px;
+  height: 13.5px;
+}
+.applicant-page-with-full-relevant-jobs .calendar-month {
+  margin: 2.3px 10.3px 2.3px 0;
+  display: flex;
+  width: 13.5px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .select-period {
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: var(--gray-500, #6B7280);
+}
+.applicant-page-with-full-relevant-jobs .datepicker {
+  border-radius: 8px;
+  border: 1px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0 11px 17.3px;
+  width: 271px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .frame-1000004350 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .preferred-timing {
+  display: flex;
+  flex-direction: column;
+  width: 271px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .label-3 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.applicant-page-with-full-relevant-jobs .vector-5 {
+  width: 10.7px;
+  height: 13.3px;
+}
+.applicant-page-with-full-relevant-jobs .map-pin {
+  margin: 3.8px 12.7px 3.8px 0;
+  display: flex;
+  width: 10.7px;
+  height: 13.3px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .container-3 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.applicant-page-with-full-relevant-jobs .input-3 {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 0 7px 17.7px;
+  width: 271px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .input-number-3 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .label-4 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.applicant-page-with-full-relevant-jobs .container-4 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.applicant-page-with-full-relevant-jobs .input-4 {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  padding: 7px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .input-number-4 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .preferred-timing-1 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .frame-1015 {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1671px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .relevant-experience {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 1;
+  color: #000000;
+}
+.relevant-experience-sub37 {
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 1.333;
+}
+.relevant-experience-sub55 {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 1.333;
+}
+.relevant-experience {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 1.333;
+  color: #3291FF;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text {
+  margin-right: 15px;
+  width: 179px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .vector-6 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .expand-outline {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item {
+  margin: 0 17px 8px 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 206px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .border-t {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 240px;
+  height: 1px;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text-1 {
+  margin-right: 15px;
+  width: 179px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .vector-7 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .expand-outline-1 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .content-1 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 206px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item-1 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 240px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .border-t-1 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 240px;
+  height: 1px;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text-2 {
+  margin-right: 15px;
+  width: 179px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .vector-8 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .expand-outline-2 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .content-2 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 206px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item-2 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 240px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .border-t-2 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 240px;
+  height: 1px;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text-3 {
+  margin-right: 15px;
+  width: 179px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .vector-9 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .expand-outline-3 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .content-3 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 206px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item-3 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 240px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .border-t-3 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 240px;
+  height: 1px;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text-4 {
+  margin-right: 15px;
+  width: 179px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .vector-10 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .expand-outline-4 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .content-4 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 206px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item-4 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 240px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .border-t-4 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 240px;
+  height: 1px;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text-5 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1A56DB;
+}
+.applicant-page-with-full-relevant-jobs .content-5 {
+  margin: 0 16px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item-5 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--white-4, #FFFFFF);
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7px 0;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .experience {
+  border-radius: 8px;
+  position: relative;
+  display: flex;
+  padding-left: 0.9px;
+  height: 322.1px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .skills-1 {
+  margin-bottom: 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 1;
+  color: #000000;
+}
+.applicant-page-with-full-relevant-jobs .text-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .badge-2 {
+  border-radius: 6px;
+  border: 1px solid #000000;
+  background: #C3DDFD;
+  display: flex;
+  width: 218px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .frame-1000004325 {
+  margin-bottom: 8px;
+  display: flex;
+  width: 218px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .text-3 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .badge-3 {
+  border-radius: 6px;
+  border: 1px solid #000000;
+  background: #C3DDFD;
+  display: flex;
+  width: 218px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .frame-1000004326 {
+  margin-bottom: 5px;
+  display: flex;
+  width: 218px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .text-4 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .badge-4 {
+  border-radius: 6px;
+  border: 1px solid #000000;
+  background: #C3DDFD;
+  display: flex;
+  width: 218px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .frame-1000004327 {
+  margin-bottom: 5px;
+  display: flex;
+  width: 218px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .text-5 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .badge-5 {
+  border-radius: 6px;
+  border: 1px solid #000000;
+  background: #C3DDFD;
+  margin-bottom: 5px;
+  display: flex;
+  width: 218px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .text-6 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .badge-6 {
+  border-radius: 6px;
+  border: 1px solid #000000;
+  background: #C3DDFD;
+  margin-bottom: 5px;
+  display: flex;
+  width: 218px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .text-7 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.5;
+  color: #111928;
+}
+.applicant-page-with-full-relevant-jobs .button-1 {
+  border-radius: 8px;
+  border: 1px solid #000000;
+  background: #76A9FA;
+  display: flex;
+  padding-right: 0.8px;
+  width: 218px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .frame-1000004324 {
+  margin-left: 0.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 218px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .skills {
+  margin: 0px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .experience-and-skills {
+  margin: 0 6.5px 30px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1304.5px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .relevant-experience-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 1;
+  color: #000000;
+}
+.relevant-experience-1 {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 1.333;
+}
+.applicant-page-with-full-relevant-jobs .custom {
+  margin-right: 22.3px;
+  display: flex;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .text-9 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicant-page-with-full-relevant-jobs .button-2 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  position: absolute;
+  left: 679px;
+  bottom: 350.1px;
+  display: flex;
+  padding: 29px 15.9px 29px 15px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .content {
+  position: relative;
+  margin: 0 114.5px 0 56.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .frame-1000004341 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1842px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .group-1010 {
+  width: 61px;
+  height: 60px;
+}
+.applicant-page-with-full-relevant-jobs .sidebar {
+  position: absolute;
+  left: -30px;
+  top: 50%;
+  translate: 0 -50%;
+  display: flex;
+  width: 61px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .job-experience {
+  overflow-wrap: break-word;
+  font-family: var(--text-lgfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-lgfont-semibold-font-weight, 600);
+  font-size: var(--text-lgfont-semibold-font-size, 18px);
+  line-height: var(--text-lgfont-semibold-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .title {
+  display: flex;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .vector-12 {
+  width: 11.7px;
+  height: 11.7px;
+}
+.applicant-page-with-full-relevant-jobs .x {
+  margin: 7.7px 0 7.6px 0;
+  display: flex;
+  width: 11.7px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .modal-header {
+  margin: 0 28.1px 24px 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 363.9px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .separator {
+  background: var(--gray-2002, #E5E7EB);
+  width: 416px;
+  height: 1px;
+}
+.applicant-page-with-full-relevant-jobs .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 416px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text-6 {
+  margin-right: 15px;
+  width: 355px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .vector-13 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .expand-outline-5 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item-6 {
+  margin: 0 17px 8px 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 382px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .border-t-5 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 416px;
+  height: 1px;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text-7 {
+  margin-right: 15px;
+  width: 355px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .vector-14 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .expand-outline-6 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .content-6 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 382px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item-7 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 416px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .border-t-6 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 416px;
+  height: 1px;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text-8 {
+  margin-right: 15px;
+  width: 355px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .vector-15 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .expand-outline-7 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .content-7 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 382px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item-8 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 416px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .border-t-7 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 416px;
+  height: 1px;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text-9 {
+  margin-right: 15px;
+  width: 355px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .vector-16 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .expand-outline-8 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .content-8 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 382px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item-9 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 416px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .border-t-8 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 416px;
+  height: 1px;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text-10 {
+  margin-right: 15px;
+  width: 355px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .vector-17 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .expand-outline-9 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .content-9 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 382px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item-10 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 416px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .border-t-9 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 416px;
+  height: 1px;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text-11 {
+  margin-right: 15px;
+  width: 355px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .vector-18 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .expand-outline-10 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .content-10 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 382px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item-11 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 416px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .border-t-10 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 416px;
+  height: 1px;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text-12 {
+  margin-right: 15px;
+  width: 355px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .vector-19 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .expand-outline-11 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .content-11 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 382px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item-12 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 416px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .border-t-11 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 416px;
+  height: 1px;
+}
+.applicant-page-with-full-relevant-jobs .suporting-text-13 {
+  margin-right: 15px;
+  width: 355px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-page-with-full-relevant-jobs .vector-20 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-page-with-full-relevant-jobs .expand-outline-12 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .content-12 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 382px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-item-13 {
+  border-radius: 0 0 8px 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 416px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .list-1 {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--white-4, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7px 0;
+  width: 416px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .modal-body {
+  position: absolute;
+  left: 50%;
+  bottom: -140px;
+  translate: -50% 0;
+  display: flex;
+  width: 416px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .modal {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--white-4, #FFFFFF);
+  position: relative;
+  display: flex;
+  padding-top: 23.5px;
+  width: 416px;
+  height: 311px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs .container-3 {
+  background: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -311px;
+  display: flex;
+  padding-left: 2px;
+  height: 1346px;
+  box-sizing: border-box;
+}
+.applicant-page-with-full-relevant-jobs {
+  background: #EDF0F4;
+  display: flex;
+  width: 1728px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,628 @@
+.employer-profile-page-long-header .close-btn {
+  border-radius: 8.1px;
+  background: #FC615C;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-profile-page-long-header .restore-btn {
+  border-radius: 8.1px;
+  background: #FDBE40;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-profile-page-long-header .minimize-btn {
+  border-radius: 8.1px;
+  background: #34CA49;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-profile-page-long-header .action-bttn {
+  margin: 5.4px 17.5px 8.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 70.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .arrow {
+  width: 6.8px;
+  height: 13.5px;
+}
+.employer-profile-page-long-header .prev-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 2.7px;
+  display: flex;
+  padding: 8.1px 13.5px 8.1px 12.2px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .arrow-1 {
+  width: 6.8px;
+  height: 13.5px;
+}
+.employer-profile-page-long-header .prev-btn-2 {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 14.9px;
+  display: flex;
+  padding: 8.1px 12.1px 8.1px 13.5px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .option-btn {
+  width: 50px;
+  height: 29.7px;
+}
+.employer-profile-page-long-header .container {
+  margin-bottom: 9.4px;
+  display: flex;
+  flex-direction: row;
+  width: 220px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .safaribrowser {
+  margin: 3px 7px 0 0;
+  display: inline-block;
+  width: 583px;
+  overflow-wrap: break-word;
+  font-family: 'SF Compact Display', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.employer-profile-page-long-header .refresh {
+  margin-bottom: 5px;
+  width: 10px;
+  height: 12px;
+}
+.employer-profile-page-long-header .address-bar {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 7px 0 0;
+  width: 1143px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .share {
+  width: 13.5px;
+  height: 18.9px;
+}
+.employer-profile-page-long-header .share-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 10.8px 9.4px 0;
+  display: flex;
+  padding: 4.7px 18.2px 6.1px 18.2px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .view {
+  width: 14.9px;
+  height: 14.9px;
+}
+.employer-profile-page-long-header .view-search-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 17.5px 9.4px 0;
+  display: flex;
+  padding: 7.4px 17.6px 7.4px 17.5px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .add-btn {
+  margin-top: 6.7px;
+  width: 32.4px;
+  height: 32.4px;
+}
+.employer-profile-page-long-header .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: 160.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .browser-bar {
+  box-shadow: 0px 1px 0px 0px #B5B4B5;
+  border-radius: 5px 5px 0 0;
+  background: linear-gradient(180deg, #EBEAEB, #D7D6D7);
+  position: relative;
+  margin-bottom: 33px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 42.8px 0px 0.1px 17.6px;
+  width: 1728px;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .group-1010 {
+  width: 61px;
+  height: 60px;
+}
+.employer-profile-page-long-header .sidebar {
+  margin: 414px 133px 806px 0;
+  display: flex;
+  width: 61px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .your-profile {
+  overflow-wrap: break-word;
+  font-family: var(--text-2-xlfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-2-xlfont-semibold-font-weight, 600);
+  font-size: var(--text-2-xlfont-semibold-font-size, 24px);
+  line-height: var(--text-2-xlfont-semibold-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.employer-profile-page-long-header .editing {
+  margin-right: 8.8px;
+  overflow-wrap: break-word;
+  font-family: 'Gothic A1';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #1A56DB;
+}
+.employer-profile-page-long-header .vector-2 {
+  width: 18px;
+  height: 18px;
+}
+.employer-profile-page-long-header .your-profile {
+  overflow-wrap: break-word;
+  font-family: var(--text-2-xlfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-2-xlfont-semibold-font-weight, 600);
+  font-size: var(--text-2-xlfont-semibold-font-size, 24px);
+  line-height: var(--text-2-xlfont-semibold-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.employer-profile-page-long-header .logo {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .editing {
+  margin-right: 8.8px;
+  overflow-wrap: break-word;
+  font-family: 'Gothic A1';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #1A56DB;
+}
+.employer-profile-page-long-header .vector-2 {
+  width: 18px;
+  height: 18px;
+}
+.employer-profile-page-long-header .edit-outline {
+  margin: 9px 0;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .edit-icon {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .navbar {
+  border-radius: 8px;
+  background: var(--white-4, #FFFFFF);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 24px 71px 0 68px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .ph {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 0.667;
+  color: var(--gray-900, #111928);
+}
+.employer-profile-page-long-header .avatar {
+  border-radius: 999px;
+  background: #9CA3AF;
+  position: relative;
+  display: flex;
+  padding: 31.7px 0px 31.7px 0;
+  width: 79.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .vector-3 {
+  width: 24.8px;
+  height: 24.8px;
+}
+.employer-profile-page-long-header .edit-outline-1 {
+  position: absolute;
+  top: 5.3px;
+  right: 0px;
+  display: flex;
+  width: 24.8px;
+  height: 24.8px;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .group-1000 {
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  padding-right: 2.5px;
+  width: 81.9px;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .label-3 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-normal-semi-bold-font-family, 'Epilogue');
+  font-weight: var(--body-normal-semi-bold-font-weight, 600);
+  font-size: var(--body-normal-semi-bold-font-size, 16px);
+  line-height: var(--body-normal-semi-bold-line-height, 1.6);
+  color: var(--neutrals-80, #515B6F);
+}
+.employer-profile-page-long-header .this-is-placeholder {
+  overflow-wrap: break-word;
+  font-family: var(--body-normal-regular-font-family, 'Epilogue');
+  font-weight: var(--body-normal-regular-font-weight, 400);
+  font-size: var(--body-normal-regular-font-size, 16px);
+  line-height: var(--body-normal-regular-line-height, 1.6);
+  color: var(--neutrals-80, #515B6F);
+}
+.employer-profile-page-long-header .input-3 {
+  border: 1px solid var(--neutrals-20, #D6DDEB);
+  background: var(--neutrals-0, #FFFFFF);
+  padding: 11px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .textfield {
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .label-4 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-normal-semi-bold-font-family, 'Epilogue');
+  font-weight: var(--body-normal-semi-bold-font-weight, 600);
+  font-size: var(--body-normal-semi-bold-font-size, 16px);
+  line-height: var(--body-normal-semi-bold-line-height, 1.6);
+  color: var(--neutrals-80, #515B6F);
+}
+.employer-profile-page-long-header .this-is-placeholder-1 {
+  overflow-wrap: break-word;
+  font-family: var(--body-normal-regular-font-family, 'Epilogue');
+  font-weight: var(--body-normal-regular-font-weight, 400);
+  font-size: var(--body-normal-regular-font-size, 16px);
+  line-height: var(--body-normal-regular-line-height, 1.6);
+  color: var(--neutrals-80, #515B6F);
+}
+.employer-profile-page-long-header .input-4 {
+  border: 1px solid var(--neutrals-20, #D6DDEB);
+  background: var(--neutrals-0, #FFFFFF);
+  padding: 11px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .textfield-1 {
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .label-5 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-normal-semi-bold-font-family, 'Epilogue');
+  font-weight: var(--body-normal-semi-bold-font-weight, 600);
+  font-size: var(--body-normal-semi-bold-font-size, 16px);
+  line-height: var(--body-normal-semi-bold-line-height, 1.6);
+  color: var(--neutrals-80, #515B6F);
+}
+.employer-profile-page-long-header .this-is-placeholder-2 {
+  overflow-wrap: break-word;
+  font-family: var(--body-normal-regular-font-family, 'Epilogue');
+  font-weight: var(--body-normal-regular-font-weight, 400);
+  font-size: var(--body-normal-regular-font-size, 16px);
+  line-height: var(--body-normal-regular-line-height, 1.6);
+  color: var(--neutrals-80, #515B6F);
+}
+.employer-profile-page-long-header .input-5 {
+  border: 1px solid var(--neutrals-20, #D6DDEB);
+  background: var(--neutrals-0, #FFFFFF);
+  padding: 11px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .textfield-2 {
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .label {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.employer-profile-page-long-header .write-text-here {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: var(--gray-500, #6B7280);
+}
+.employer-profile-page-long-header .input {
+  border-radius: 8px;
+  border: 1px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  padding: 10px 15px 152px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .textarea {
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .checkbox-1 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  margin: 2.5px 8px 2.5px 0;
+  width: 16px;
+  height: 16px;
+}
+.employer-profile-page-long-header .write-label-text-here {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.employer-profile-page-long-header .label-helper-text {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .checkbox {
+  border-radius: 4px;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .label-1 {
+  position: relative;
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.employer-profile-page-long-header .label-6 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-normal-semi-bold-font-family, 'Epilogue');
+  font-weight: var(--body-normal-semi-bold-font-weight, 600);
+  font-size: var(--body-normal-semi-bold-font-size, 16px);
+  line-height: var(--body-normal-semi-bold-line-height, 1.6);
+  color: var(--neutrals-80, #515B6F);
+}
+.employer-profile-page-long-header .this-is-placeholder-3 {
+  overflow-wrap: break-word;
+  font-family: var(--body-normal-regular-font-family, 'Epilogue');
+  font-weight: var(--body-normal-regular-font-weight, 400);
+  font-size: var(--body-normal-regular-font-size, 16px);
+  line-height: var(--body-normal-regular-line-height, 1.6);
+  color: var(--neutrals-40, #A8ADB7);
+}
+.employer-profile-page-long-header .input-6 {
+  border: 1px solid var(--neutrals-20, #D6DDEB);
+  background: var(--neutrals-0, #FFFFFF);
+  padding: 11px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .textfield-3 {
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .label-7 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-normal-semi-bold-font-family, 'Epilogue');
+  font-weight: var(--body-normal-semi-bold-font-weight, 600);
+  font-size: var(--body-normal-semi-bold-font-size, 16px);
+  line-height: var(--body-normal-semi-bold-line-height, 1.6);
+  color: var(--neutrals-80, #515B6F);
+}
+.employer-profile-page-long-header .this-is-placeholder-4 {
+  overflow-wrap: break-word;
+  font-family: var(--body-normal-regular-font-family, 'Epilogue');
+  font-weight: var(--body-normal-regular-font-weight, 400);
+  font-size: var(--body-normal-regular-font-size, 16px);
+  line-height: var(--body-normal-regular-line-height, 1.6);
+  color: var(--neutrals-40, #A8ADB7);
+}
+.employer-profile-page-long-header .input-7 {
+  border: 1px solid var(--neutrals-20, #D6DDEB);
+  background: var(--neutrals-0, #FFFFFF);
+  padding: 11px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .textfield-4 {
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .label-2 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.employer-profile-page-long-header .select {
+  margin-right: 9px;
+  width: 1154.3px;
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: var(--gray-500, #6B7280);
+}
+.employer-profile-page-long-header .vector-4 {
+  width: 9.3px;
+  height: 5.3px;
+}
+.employer-profile-page-long-header .chevron-down {
+  margin: 6.3px 0;
+  display: flex;
+  width: 9.3px;
+  height: 5.3px;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .input-2 {
+  border-radius: 8px;
+  border: 1px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 14.3px 11px 11px;
+  width: 1200px;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .input-1 {
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .checkbox-2 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  margin: 2.5px 8px 2.5px 0;
+  width: 16px;
+  height: 16px;
+}
+.employer-profile-page-long-header .write-label-text-here-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.employer-profile-page-long-header .label-helper-text-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .nav-link {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .frame-1000004333 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 120px 100px 119.6px 100px;
+  width: 1400px;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header .container-2 {
+  margin-right: 164px;
+  display: flex;
+  flex-direction: row;
+  width: 1594px;
+  box-sizing: border-box;
+}
+.employer-profile-page-long-header {
+  background: #EDF0F4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1728px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,163 @@
+.dashboard-hover .job-ez {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.dashboard-hover .job-ez-word-mark {
+  background: #000000;
+  position: relative;
+  margin-bottom: 100px;
+  display: flex;
+  padding: 16px 3.3px 16px 3px;
+  box-sizing: border-box;
+}
+.dashboard-hover .vector-5 {
+  width: 22.5px;
+  height: 22.5px;
+}
+.dashboard-hover .list-2 {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  padding: 16.3px 17.8px;
+  width: 58px;
+  height: 55px;
+  box-sizing: border-box;
+}
+.dashboard-hover .frame-10000043491 {
+  margin-bottom: 171.5px;
+  display: flex;
+  width: 58px;
+  height: 55px;
+  box-sizing: border-box;
+}
+.dashboard-hover .vector {
+  width: 17.5px;
+  height: 17.5px;
+}
+.dashboard-hover .list-item {
+  margin-bottom: 44.5px;
+  display: flex;
+  width: 17.5px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.dashboard-hover .vector-1 {
+  width: 20px;
+  height: 17.5px;
+}
+.dashboard-hover .list-item-1 {
+  margin: 0 2.5px 40.8px 2.5px;
+  display: flex;
+  width: 20px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.dashboard-hover .vector-2 {
+  width: 25px;
+  height: 25px;
+}
+.dashboard-hover .list-item-2 {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.dashboard-hover .list {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30.3px 16.5px 26.5px 16.5px;
+  width: 58px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-hover .frame-1000004347 {
+  margin-bottom: 171.5px;
+  display: flex;
+  width: 58px;
+  box-sizing: border-box;
+}
+.dashboard-hover .vector-3 {
+  width: 17.5px;
+  height: 25px;
+}
+.dashboard-hover .list-item-3 {
+  margin: 0 0 31.5px 0px;
+  display: flex;
+  width: 17.5px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.dashboard-hover .vector-4 {
+  width: 20px;
+  height: 20px;
+}
+.dashboard-hover .list-item-4 {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.dashboard-hover .list-1 {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 26.5px 19px 29px 19px;
+  width: 58px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-hover .frame-1000004348 {
+  display: flex;
+  width: 58px;
+  box-sizing: border-box;
+}
+.dashboard-hover .frame-1000004349 {
+  margin-right: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 58px;
+  box-sizing: border-box;
+}
+.dashboard-hover .sidebar-free-component {
+  background: #0C2B5A;
+  margin-right: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 0 100px 0;
+  flex-grow: 1;
+  flex-basis: 137px;
+  box-sizing: border-box;
+}
+.dashboard-hover .text {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.dashboard-hover .button {
+  border-radius: 8px;
+  background: #24406A;
+  margin: 215px 0 778px 0;
+  padding: 10px 20px;
+  flex-grow: 1;
+  flex-basis: 114px;
+  box-sizing: border-box;
+}
+.dashboard-hover {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}

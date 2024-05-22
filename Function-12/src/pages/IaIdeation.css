@@ -1,0 +1,35 @@
+.ia-ideation .employer-side-pages-homepage-employeehired-list-search-functionality-messages-page-listings-page-edit-alisting-page-profile-page-resources-page-faq-contact-us-legal-resourcescorporate-play {
+  margin: 23px 214px 457px 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 40px;
+  color: #000000;
+}
+.employer-side-pages-homepage-employeehired-list-search-functionality-messages-page-listings-page-edit-alisting-page-profile-page-resources-page-faq-contact-us-legal-resourcescorporate-play-sub1 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.333;
+}
+.ia-ideation .employee-side-pages-homepage-listings-for-you-featured-listings-new-listings-popular-filters-search-page-all-listings-map-optioncreate-profile-filter-urgent-listings-saved-listings-messages-page-edit-view-profile-page-resources-page-faq-contact-us-legal-resources-event-page-seminars-webinars-job-fairs-announcements-page-forum-page {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 40px;
+  color: #000000;
+}
+.employee-side-pages-homepage-listings-for-you-featured-listings-new-listings-popular-filters-search-page-all-listings-map-optioncreate-profile-filter-urgent-listings-saved-listings-messages-page-edit-view-profile-page-resources-page-faq-contact-us-legal-resources-event-page-seminars-webinars-job-fairs-announcements-page-forum-page-sub1 {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.333;
+}
+.ia-ideation {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 0 106.4px 103px 23px;
+  width: 1241px;
+  box-sizing: border-box;
+}

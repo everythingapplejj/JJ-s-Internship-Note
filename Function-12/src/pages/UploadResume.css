@@ -1,0 +1,58 @@
+.upload-resume .build-your-profile-with-your-resume {
+  margin-bottom: 61px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: -0.4px;
+  line-height: 1.5;
+  color: #000000;
+}
+.upload-resume .upload-resume-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.upload-resume .frame-427318911 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  background: #9E9E9E;
+  margin-bottom: 37px;
+  display: flex;
+  padding: 9px 0.7px 9px 0;
+  width: 249px;
+  box-sizing: border-box;
+}
+.upload-resume .create-from-scratch {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.upload-resume .frame-427318912 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  background: #9E9E9E;
+  margin-right: 1px;
+  display: flex;
+  padding: 9px 0.3px 9px 0;
+  width: 302px;
+  box-sizing: border-box;
+}
+.upload-resume {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 377px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,267 @@
+.employer-logout-popup .close-btn {
+  border-radius: 8.1px;
+  background: #FC615C;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-logout-popup .restore-btn {
+  border-radius: 8.1px;
+  background: #FDBE40;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-logout-popup .minimize-btn {
+  border-radius: 8.1px;
+  background: #34CA49;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-logout-popup .action-bttn {
+  margin: 5.4px 17.5px 8.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 70.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-logout-popup .arrow {
+  width: 6.8px;
+  height: 13.5px;
+}
+.employer-logout-popup .prev-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 2.7px;
+  display: flex;
+  padding: 8.1px 13.5px 8.1px 12.2px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-logout-popup .arrow-1 {
+  width: 6.8px;
+  height: 13.5px;
+}
+.employer-logout-popup .prev-btn-2 {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 14.9px;
+  display: flex;
+  padding: 8.1px 12.1px 8.1px 13.5px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-logout-popup .option-btn {
+  width: 50px;
+  height: 29.7px;
+}
+.employer-logout-popup .container-1 {
+  margin-bottom: 9.4px;
+  display: flex;
+  flex-direction: row;
+  width: 220px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-logout-popup .safaribrowser {
+  margin: 3px 7px 0 0;
+  display: inline-block;
+  width: 583px;
+  overflow-wrap: break-word;
+  font-family: 'SF Compact Display', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.employer-logout-popup .refresh {
+  margin-bottom: 5px;
+  width: 10px;
+  height: 12px;
+}
+.employer-logout-popup .address-bar {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 7px 0 0;
+  width: 1143px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-logout-popup .share {
+  width: 13.5px;
+  height: 18.9px;
+}
+.employer-logout-popup .share-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 10.8px 9.4px 0;
+  display: flex;
+  padding: 4.7px 18.2px 6.1px 18.2px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-logout-popup .view {
+  width: 14.9px;
+  height: 14.9px;
+}
+.employer-logout-popup .view-search-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 17.5px 9.4px 0;
+  display: flex;
+  padding: 7.4px 17.6px 7.4px 17.5px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-logout-popup .add-btn {
+  margin-top: 6.8px;
+  width: 32.4px;
+  height: 32.4px;
+}
+.employer-logout-popup .container-2 {
+  display: flex;
+  flex-direction: row;
+  width: 160.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-logout-popup .web-bar {
+  box-shadow: 0px 1px 0px 0px #B5B4B5;
+  border-radius: 5px 5px 0 0;
+  background: linear-gradient(180deg, #EBEAEB, #D7D6D7);
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 42.8px 0px 0px 17.6px;
+  width: 1728px;
+  box-sizing: border-box;
+}
+.employer-logout-popup .vector-2 {
+  width: 11.7px;
+  height: 11.7px;
+}
+.employer-logout-popup .modal-header {
+  margin-bottom: 27.6px;
+  display: flex;
+  align-self: flex-end;
+  width: 11.7px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-logout-popup .vector-3 {
+  width: 35px;
+  height: 35px;
+}
+.employer-logout-popup .exclamation {
+  margin-bottom: 19.5px;
+  display: flex;
+  width: 35px;
+  height: 35px;
+  box-sizing: border-box;
+}
+.employer-logout-popup .next-friday-should-b {
+  overflow-wrap: break-word;
+  font-family: var(--text-basefont-normal-font-family, 'Inter');
+  font-weight: var(--text-basefont-normal-font-weight, 400);
+  font-size: var(--text-basefont-normal-font-size, 16px);
+  line-height: var(--text-basefont-normal-line-height, 1.5);
+  color: var(--gray-500, #6B7280);
+}
+.employer-logout-popup .project-description {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-logout-popup .modal-body {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-logout-popup .text {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-logout-popup .button {
+  border-radius: 8px;
+  background: var(--red-700, #C81E1E);
+  margin-right: 16px;
+  display: flex;
+  padding: 8px 12.9px 8px 12px;
+  box-sizing: border-box;
+}
+.employer-logout-popup .text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--gray-800, #1F2A37);
+}
+.employer-logout-popup .button-1 {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  margin: 1.5px 0;
+  display: flex;
+  padding: 7px 11.7px 7px 11px;
+  box-sizing: border-box;
+}
+.employer-logout-popup .modal-footer {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-logout-popup .modal {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--white-4, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 19.7px 19.6px 23.5px 19.6px;
+  width: 416px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-logout-popup .container {
+  background: rgba(0, 0, 0, 0.3);
+  position: relative;
+  display: flex;
+  padding: 354px 0 461px 0;
+  width: 1728px;
+  box-sizing: border-box;
+}
+.employer-logout-popup {
+  background: #EDF0F4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1728px;
+  box-sizing: border-box;
+}

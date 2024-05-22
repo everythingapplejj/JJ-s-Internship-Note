@@ -1,0 +1,260 @@
+.property-1-variant-5 .pfp {
+  border-radius: 9999px;
+  background: url('assets/images/Pfp.png') 50% / cover no-repeat;
+  width: 25.7px;
+  height: 25.8px;
+}
+.property-1-variant-5 .applicant-name {
+  margin: 4.9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1;
+  color: #000000;
+}
+.property-1-variant-5 .container-2 {
+  margin: 0 5.4px 24.8px 5.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 176.4px;
+  box-sizing: border-box;
+}
+.property-1-variant-5 .applied-to {
+  margin: 0 5.5px 2.9px 0;
+  width: 199.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 8px;
+  line-height: 1.5;
+  color: #000000;
+}
+.applied-to-sub30 {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 8px;
+  line-height: 1.333;
+}
+.applied-to {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 1.333;
+}
+.property-1-variant-5 .container {
+  width: 12.9px;
+  height: 12.9px;
+}
+.property-1-variant-5 .resume-button {
+  margin-right: 1.6px;
+  display: flex;
+  width: 12.9px;
+  height: 12.9px;
+  box-sizing: border-box;
+}
+.property-1-variant-5 .view-resume-1 {
+  margin: 0.8px 0 0.1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 1.5;
+  color: #000000;
+}
+.property-1-variant-5 .view-resume {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.property-1-variant-5 .container-1 {
+  margin: 0 7.8px 9.8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 7.8px);
+  box-sizing: border-box;
+}
+.property-1-variant-5 .s {
+  position: absolute;
+  right: 3.2px;
+  bottom: -5.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #A1A1A1;
+}
+.property-1-variant-5 .table-head-1 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 10px;
+  height: 9px;
+}
+.property-1-variant-5 .m {
+  position: absolute;
+  right: 1.9px;
+  bottom: -5.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #A1A1A1;
+}
+.property-1-variant-5 .table-head-2 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 9px;
+  height: 9px;
+}
+.property-1-variant-5 .t {
+  position: absolute;
+  right: 3.2px;
+  bottom: -5.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #EAEAEA;
+}
+.property-1-variant-5 .table-head-3 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 10px;
+  height: 9px;
+}
+.property-1-variant-5 .w {
+  position: absolute;
+  right: 1.8px;
+  bottom: -5.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #A1A1A1;
+}
+.property-1-variant-5 .table-head-4 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 9px;
+  height: 9px;
+}
+.property-1-variant-5 .t-1 {
+  position: absolute;
+  right: 3.2px;
+  bottom: -5.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #EAEAEA;
+}
+.property-1-variant-5 .table-head-5 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 10px;
+  height: 9px;
+}
+.property-1-variant-5 .f {
+  position: absolute;
+  right: 3.3px;
+  bottom: -5.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #A1A1A1;
+}
+.property-1-variant-5 .table-head-6 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 10px;
+  height: 9px;
+}
+.property-1-variant-5 .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 48px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.property-1-variant-5 .s-1 {
+  position: absolute;
+  right: 2.7px;
+  bottom: -5.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #A1A1A1;
+}
+.property-1-variant-5 .table-head-7 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 9px;
+  height: 9px;
+}
+.property-1-variant-5 .table-head {
+  position: relative;
+  margin-bottom: 21.3px;
+  display: flex;
+  align-self: flex-end;
+  padding: 0 9px 0 10px;
+  width: 67px;
+  box-sizing: border-box;
+}
+.property-1-variant-5 .button-text {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.714;
+  color: var(--white-white, #FFFFFF);
+}
+.property-1-variant-5 .button {
+  background: var(--primary-color, #3758F9);
+  margin-right: 6.7px;
+  display: flex;
+  align-self: center;
+  padding: 4.5px 9.7px;
+  box-sizing: border-box;
+}
+.property-1-variant-5 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 0.1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 6.4px 3.3px 3px 10px;
+  box-sizing: border-box;
+}

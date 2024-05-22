@@ -1,0 +1,287 @@
+.apply-3 .logo {
+  margin-right: 30px;
+  width: 1281px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: -0.4px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .vector {
+  width: 30px;
+  height: 20px;
+}
+.apply-3 .material-symbolsmenu {
+  margin: 20px 0;
+  display: flex;
+  width: 30px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.apply-3 .container {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 67px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 42px 19px 57px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.apply-3 .your-application {
+  margin: 0 9px 48px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: -0.4px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .your-information {
+  margin: 0 831.6px 19px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .name {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .frame-427318913 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  margin: 0 621px 17px 0;
+  padding: 9px 39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.apply-3 .location {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .frame-427318915 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  margin: 0 489px 16px 0;
+  padding: 9px 39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.apply-3 .phone {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .frame-427318914 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  margin-bottom: 19px;
+  align-self: flex-end;
+  padding: 9px 39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.apply-3 .email {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .frame-427318921 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  margin-bottom: 69px;
+  align-self: flex-end;
+  padding: 9px 39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.apply-3 .experience {
+  margin: 0 890.4px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .experience-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .frame-427318916 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  margin-bottom: 24px;
+  align-self: flex-end;
+  padding: 9px 39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.apply-3 .experience-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .frame-427318917 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  margin-bottom: 25px;
+  align-self: flex-end;
+  padding: 9px 39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.apply-3 .container {
+  margin: 0 0 50px 5.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .skills {
+  margin: 0 957.3px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .skill-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .frame-427318918 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  margin-right: 25px;
+  display: flex;
+  padding: 9px 120.2px 9px 0;
+  width: 262px;
+  box-sizing: border-box;
+}
+.apply-3 .skill-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .frame-427318922 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  margin-right: 33px;
+  display: flex;
+  padding: 9px 36.9px 9px 0;
+  width: 182px;
+  box-sizing: border-box;
+}
+.apply-3 .container-1 {
+  margin: 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .container-1 {
+  margin: 0 496.2px 171px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.apply-3 .submit {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-3 .frame-427318911 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  background: #9E9E9E;
+  margin-left: 21px;
+  display: flex;
+  padding: 9px 0.9px 9px 0;
+  width: 159px;
+  box-sizing: border-box;
+}
+.apply-3 .frame-427318927 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  margin: 0 77px 0 57px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 21px 124px 88px 124px;
+  width: 1306px;
+  box-sizing: border-box;
+}
+.apply {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 105px;
+  width: 1440px;
+  box-sizing: border-box;
+}

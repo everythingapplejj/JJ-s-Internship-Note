@@ -1,0 +1,492 @@
+.branding-ideation .branding-ideas {
+  margin: 0 140px 680px 140px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans KR';
+  font-weight: 700;
+  font-size: 400px;
+  line-height: 1.367;
+  color: #000000;
+}
+.branding-ideation .direction-1-sleek-modern {
+  margin-right: 58px;
+  width: 1903px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 96px;
+  color: #000000;
+}
+.branding-ideation .direction-2-corporate-cartoon {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 96px;
+  color: #000000;
+}
+.branding-ideation .direction-33-d {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 96px;
+  color: #000000;
+}
+.branding-ideation .container-6 {
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 4899.1px;
+  box-sizing: border-box;
+}
+.branding-ideation .image-5 {
+  background: url('assets/images/Image5.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 663px;
+  align-self: flex-end;
+  width: 564px;
+  height: 423px;
+}
+.branding-ideation .image-10 {
+  background: url('assets/images/Image101.png') 50% / cover no-repeat;
+  align-self: flex-start;
+  width: 564px;
+  height: 423px;
+}
+.branding-ideation .container-9 {
+  margin-right: 270px;
+  display: flex;
+  flex-direction: column;
+  width: 642px;
+  box-sizing: border-box;
+}
+.branding-ideation .image-4 {
+  background: url('assets/images/Image41.png') 50% / cover no-repeat;
+  width: 473px;
+  height: 355px;
+}
+.branding-ideation .image-21 {
+  background: url('assets/images/Image21.png') 50% / cover no-repeat;
+  margin: 0 14px;
+  width: 400px;
+  height: 300px;
+}
+.branding-ideation .container-7 {
+  margin: 854px 274px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 473px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.branding-ideation .image-3 {
+  background: url('assets/images/Image3.png') 50% / cover no-repeat;
+  margin: 93px 0 1024px 0;
+  width: 522px;
+  height: 392px;
+}
+.branding-ideation .httpsui-8-netzee-uiproductsjobile-job-finder-app-ui-kitreltimer {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.branding-ideation .image-2 {
+  background: url('assets/images/Image21.png') 50% / cover no-repeat;
+  width: 564px;
+  height: 1334px;
+}
+.branding-ideation .group-2 {
+  margin-bottom: 142px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.branding-ideation .httpsui-8-netaweka-studioproductsjobie-job-finder-appreltimer {
+  margin-bottom: 18px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.branding-ideation .image-1 {
+  background: url('assets/images/Image11.png') 50% / cover no-repeat;
+  width: 474px;
+  height: 1122px;
+}
+.branding-ideation .group-3 {
+  margin: 33px 842px 321px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.branding-ideation .image-7 {
+  background: url('assets/images/Image71.png') 50% / cover no-repeat;
+  margin: 0 45px;
+  align-self: flex-start;
+  width: 473px;
+  height: 355px;
+}
+.branding-ideation .image-9 {
+  background: url('assets/images/Image91.png') 50% / cover no-repeat;
+  position: relative;
+  margin-right: 12px;
+  width: 564px;
+  height: 423px;
+}
+.branding-ideation .image-19 {
+  background: url('assets/images/Image19.png') 50% / cover no-repeat;
+  margin-left: 12px;
+  width: 564px;
+  height: 423px;
+}
+.branding-ideation .container-10 {
+  margin-bottom: 308px;
+  display: flex;
+  flex-direction: column;
+  width: 576px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.branding-ideation .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.branding-ideation .image-16 {
+  background: url('assets/images/Image16.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 321px;
+  right: 564px;
+  width: 220px;
+  height: 183px;
+}
+.branding-ideation .image-17 {
+  background: url('assets/images/Image17.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 566px;
+  right: 553px;
+  width: 231px;
+  height: 173px;
+}
+.branding-ideation .image-20 {
+  background: url('assets/images/Image20.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 1659px;
+  top: 462px;
+  width: 522px;
+  height: 392px;
+}
+.branding-ideation .container-4 {
+  position: relative;
+  margin: 0 44.1px 138px 218px;
+  display: flex;
+  box-sizing: border-box;
+}
+.branding-ideation .image-12 {
+  background: url('assets/images/Image12.png') 50% / cover no-repeat;
+  margin: 0 0 839px 1410.9px;
+  width: 564px;
+  height: 655px;
+}
+.branding-ideation .proxima-nova-semi-bold {
+  margin-bottom: 9px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'FONTSPRING DEMO - Proxima Nova Semibold', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.branding-ideation .proxima-nova-regular {
+  margin-bottom: 49px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'FONTSPRING DEMO - Proxima Nova', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.branding-ideation .ellipse-12 {
+  border-radius: 25px;
+  background: #1F75EC;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-13 {
+  border-radius: 25px;
+  background: #FE6942;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-14 {
+  border-radius: 25px;
+  background: #F9B934;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-16 {
+  border-radius: 25px;
+  background: #559DCF;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-15 {
+  border-radius: 25px;
+  background: #FCC0DC;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-18 {
+  border-radius: 25px;
+  background: #1B1B1B;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-17 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .container-3 {
+  margin-bottom: 76px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 17px;
+  width: 452px;
+  box-sizing: border-box;
+}
+.branding-ideation .part-time-pal {
+  margin: 0 6px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'FONTSPRING DEMO - Proxima Nova Semibold', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.branding-ideation .style-guide {
+  background: #FFFFFF;
+  margin: 41px 392px 41px 0;
+  display: flex;
+  flex-direction: column;
+  padding: 48px 0 49px 32px;
+  width: 827px;
+  box-sizing: border-box;
+}
+.branding-ideation .heading-inter-semi-bold {
+  margin: 0 17.8px 12px 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.branding-ideation .paragraph-inter-regular {
+  margin: 0 5px 41px 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.branding-ideation .ellipse-1 {
+  border-radius: 25px;
+  background: #238F5D;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-2 {
+  border-radius: 25px;
+  background: #32C26F;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-19 {
+  border-radius: 25px;
+  background: #FE7228;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-20 {
+  border-radius: 25px;
+  background: #29427F;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-4 {
+  border-radius: 25px;
+  background: #1B1B1B;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .container-5 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 17px;
+  width: 318px;
+  box-sizing: border-box;
+}
+.branding-ideation .container-12 {
+  margin: 17px 17px 44px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.branding-ideation .ellipse-3 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  margin: 118px 156px 44px 0;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .woman-on-the-phone-standing-with-amegaphone {
+  background: url('assets/images/WomanOnThePhoneStandingWithAmegaphone.png') 50% / contain no-repeat;
+  width: 212px;
+  height: 212px;
+}
+.branding-ideation .container-8 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.branding-ideation .ellipse-121 {
+  border-radius: 25px;
+  background: #D9F8D9;
+  margin: 21px 17px 99px 0;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-131 {
+  border-radius: 25px;
+  background: #F4E0FB;
+  margin: 21px 17px 99px 0;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-141 {
+  border-radius: 25px;
+  background: #D9DBF8;
+  margin: 21px 17px 99px 0;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-161 {
+  border-radius: 25px;
+  background: #9FCAE7;
+  margin: 21px 17px 99px 0;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-181 {
+  border-radius: 25px;
+  background: #1B1B1B;
+  margin: 21px 17px 99px 0;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .ellipse-171 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  margin: 21px 165px 99px 0;
+  width: 50px;
+  height: 50px;
+}
+.branding-ideation .men-shake-hands-to-agree-on-apartnership {
+  background: url('assets/images/MenShakeHandsToAgreeOnApartnership.png') 50% / contain no-repeat;
+  width: 193px;
+  height: 170px;
+}
+.branding-ideation .container {
+  margin-right: 10px;
+  display: flex;
+  flex-direction: row;
+  width: 743px;
+  box-sizing: border-box;
+}
+.branding-ideation .scrap {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 28px 45px 28px 29px;
+  box-sizing: border-box;
+}
+.branding-ideation .container-1 {
+  margin-left: 1680.9px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.branding-ideation .container-11 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.branding-ideation .image-6 {
+  background: url('assets/images/Image61.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 630px;
+  top: 1938px;
+  width: 474px;
+  height: 711px;
+}
+.branding-ideation .image-8 {
+  background: url('assets/images/Image8.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 2221px;
+  bottom: 2347px;
+  width: 564px;
+  height: 423px;
+}
+.branding-ideation .image-11 {
+  background: url('assets/images/Image111.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 2672px;
+  bottom: 2065px;
+  width: 564px;
+  height: 564px;
+}
+.branding-ideation .image-15 {
+  background: url('assets/images/Image15.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 2022px;
+  right: 653px;
+  width: 233px;
+  height: 257px;
+}
+.branding-ideation .image-18 {
+  background: url('assets/images/Image18.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 1700px;
+  right: 653px;
+  width: 257px;
+  height: 257px;
+}
+.branding-ideation {
+  background: #FFFFFF;
+  padding: 150px 490px 415px 490px;
+  width: 6197px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,446 @@
+.listing-life-cycle .arrow-27 {
+  background: #000000;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  width: 584px;
+  height: 2px;
+}
+.listing-life-cycle .employer-clicks-new-listing-button {
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .flow {
+  position: relative;
+  margin: 125px 0;
+  display: flex;
+  padding-right: 14px;
+  width: 584px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.listing-life-cycle .ellipse-26 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 719px;
+  height: 322px;
+}
+.listing-life-cycle .draft {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .draft-phase {
+  position: relative;
+  display: flex;
+  padding: 113px 0 113px 1px;
+  width: 719px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .container-6 {
+  display: flex;
+  flex-direction: row;
+  width: 1303px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .ellipse-27 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 719px;
+  height: 322px;
+}
+.listing-life-cycle .completed {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .completed-phase {
+  position: relative;
+  display: flex;
+  padding: 113px 0;
+  width: 719px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2540px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.listing-life-cycle .arrow-321 {
+  background: #000000;
+  position: absolute;
+  left: 0px;
+  top: 50%;
+  right: 0px;
+  translate: 0 -50%;
+  height: 2px;
+}
+.listing-life-cycle .employer-duplicates-listing {
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .flow-9 {
+  position: absolute;
+  top: 53px;
+  right: 682px;
+  display: flex;
+  padding-left: 34px;
+  width: 593px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .container {
+  position: relative;
+  display: flex;
+  width: 2540px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .employer-presses-save-publish {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .flow-5 {
+  margin: 265px 395.9px 425px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.listing-life-cycle .employer-presses-unpublish {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .flow-6 {
+  margin: 265px 736.9px 425px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.listing-life-cycle .arrow-36 {
+  background: #000000;
+  margin-right: 14.9px;
+  width: 2px;
+  height: 762px;
+}
+.listing-life-cycle .employer-finalizesacceptance-of-an-applicant {
+  margin: 239px 0 415px 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .flow-7 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.listing-life-cycle .container-3 {
+  margin: 0 46.9px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.listing-life-cycle .ellipse-272 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 719px;
+  height: 322px;
+}
+.listing-life-cycle .published {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .published-phase {
+  position: relative;
+  display: flex;
+  padding: 113px 0;
+  width: 719px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .ellipse-271 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 719px;
+  height: 322px;
+}
+.listing-life-cycle .closed-for-applications {
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .closed-phase {
+  position: relative;
+  display: flex;
+  padding: 65px 0 65px 1px;
+  width: 719px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1956px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.listing-life-cycle .arrow-32 {
+  background: #000000;
+  position: absolute;
+  left: 0px;
+  top: 36.5px;
+  right: 0px;
+  height: 2px;
+}
+.listing-life-cycle .employer-is-unsatisfied-wapplicants-and-pressespublish {
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .flow-1 {
+  position: absolute;
+  left: 678px;
+  bottom: 19px;
+  display: flex;
+  padding-left: 33px;
+  width: 593px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .arrow-30 {
+  background: #000000;
+  position: absolute;
+  left: 0px;
+  top: 36.5px;
+  right: 0px;
+  height: 2px;
+}
+.listing-life-cycle .employer-is-satisfied-wapplication-and-pressesclose-to-applications {
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .flow-8 {
+  position: absolute;
+  left: 679px;
+  top: 51px;
+  display: flex;
+  padding-left: 34px;
+  width: 593px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .container-4 {
+  position: relative;
+  display: flex;
+  width: 1956px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.listing-life-cycle .arrow-31 {
+  transform: rotate(-108.119deg);
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 232px;
+  height: 709px;
+}
+.listing-life-cycle .job-seekers-send-applications {
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .flow-2 {
+  position: absolute;
+  left: 868.2px;
+  bottom: 495px;
+  width: 427.8px;
+  height: 709px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .arrow-33 {
+  transform: rotate(117.908deg);
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 384px;
+  height: 725px;
+}
+.listing-life-cycle .employer-sends-offer-to-an-applicant {
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .flow-3 {
+  position: absolute;
+  right: 1002px;
+  bottom: 499px;
+  width: 506.7px;
+  height: 725px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .arrow-34 {
+  transform: rotate(-63.179deg);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 362px;
+  height: 716px;
+}
+.listing-life-cycle .applicant-accepts-or-rejects-the-offer {
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .flow-4 {
+  position: absolute;
+  right: 861.1px;
+  bottom: 497px;
+  display: flex;
+  width: 460.9px;
+  height: 716px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .arrow-28 {
+  background: #000000;
+  position: absolute;
+  left: 999px;
+  top: 794px;
+  width: 2px;
+  height: 798px;
+}
+.listing-life-cycle .arrow-29 {
+  background: #000000;
+  position: absolute;
+  left: 1359px;
+  top: 787px;
+  width: 2px;
+  height: 813px;
+}
+.listing-life-cycle .job-seekers-1 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .job-seekers {
+  background: #D9D9D9;
+  position: absolute;
+  left: 1295px;
+  bottom: 233px;
+  display: flex;
+  padding: 85px 1px 84px 0;
+  width: 593px;
+  box-sizing: border-box;
+}
+.listing-life-cycle .applicant-does-not-act-on-the-offer-for-aweek {
+  position: absolute;
+  left: 1266.5px;
+  bottom: 878px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+}
+.listing-life-cycle .arrow-37 {
+  transform: rotate(-125.99deg);
+  position: absolute;
+  right: 1322px;
+  bottom: 497px;
+  width: 528px;
+  height: 727px;
+}
+.listing-life-cycle {
+  background: #FFFFFF;
+  padding: 490px 221px 0 221px;
+  width: 3209px;
+  box-sizing: border-box;
+}

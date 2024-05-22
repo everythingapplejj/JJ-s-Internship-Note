@@ -1,0 +1,71 @@
+.type-default-breakpoints-mobile-dark-mode-false .vector {
+  width: 13.5px;
+  height: 13.5px;
+}
+.type-default-breakpoints-mobile-dark-mode-false .icon-shapes {
+  border-radius: 50px;
+  background: var(--gray-2002, #E5E7EB);
+  margin: 9px 8px 9px 0;
+  display: flex;
+  padding: 5.3px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.text-1-sub2 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.333;
+  color: var(--gray-900, #111928);
+}
+.text-1 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #1A56DB;
+}
+.type-default-breakpoints-mobile-dark-mode-false .text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: var(--gray-500, #6B7280);
+}
+.type-default-breakpoints-mobile-dark-mode-false .text {
+  margin-right: 20.9px;
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  flex-basis: 309.5px;
+  box-sizing: border-box;
+}
+.type-default-breakpoints-mobile-dark-mode-false .vector-1 {
+  width: 9.3px;
+  height: 9.3px;
+}
+.type-default-breakpoints-mobile-dark-mode-false .x {
+  margin: 3.3px 0 29.3px 0;
+  display: flex;
+  width: 9.3px;
+  height: 9.3px;
+  box-sizing: border-box;
+}
+.type-default-breakpoints-mobile-dark-mode-false .bar {
+  background: var(--gray-501, #F9FAFB);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 19.3px 16px 16px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.type-default-breakpoints-mobile-dark-mode-false {
+  background: var(--gray-500, #6B7280);
+  display: flex;
+  box-sizing: border-box;
+}

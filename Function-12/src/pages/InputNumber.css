@@ -1,0 +1,94 @@
+.input-number .label {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.input-number .container {
+  width: 16px;
+  height: 11.2px;
+}
+.input-number .flags-us {
+  border-radius: 2px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 4.9px 8px 4.9px 0;
+  display: flex;
+  width: 16px;
+  height: 11.2px;
+  box-sizing: border-box;
+}
+.input-number .text {
+  margin-right: 11.4px;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.input-number .vector {
+  width: 9.3px;
+  height: 5.3px;
+}
+.input-number .chevron-down-outline {
+  margin: 7.8px 0;
+  display: flex;
+  width: 9.3px;
+  height: 5.3px;
+  box-sizing: border-box;
+}
+.input-number .button {
+  border-radius: 8px 0 0 8px;
+  border: 1px solid #D1D5DB;
+  background: #F3F4F6;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 14.3px 7px 11px;
+  box-sizing: border-box;
+}
+.input-number .container {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.input-number .input-1 {
+  border-radius: 0 8px 8px 0;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  padding: 7px 15px;
+  width: 277px;
+  box-sizing: border-box;
+}
+.input-number .input {
+  position: relative;
+  margin-bottom: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.input-number .caption {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: #6B7280;
+}
+.input-number {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
