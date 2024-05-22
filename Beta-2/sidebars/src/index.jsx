@@ -19,6 +19,7 @@ import ReactDOMClient from "react-dom/client";
 import { Sidebar } from "./screens/Sidebar";
 import { Bar } from "../top_element/src/screens/Bar";
 
+
 const app = document.getElementById("app");
 const root = ReactDOMClient.createRoot(app);
 
