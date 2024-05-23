@@ -14,10 +14,10 @@ import bars from './assets/bars-outline.svg';
 
 const ApplicantProfilePage = () => {
   return (
-    <div className="bg-gray-100 min-h-screen p-6">
-      <div className="flex flex-col lg:flex-row justify-center items-center w-full">
+    <div className="bg-gray-200 min-h-screen p-6">
+      <div className = "flex flex-col lg:flex-row justify-start items-start w-full">
         {/* Sidebar */}
-        <div className="w-20 bg-blue-900 text-white flex flex-col items-center py-8 min-h-screen">
+        <div className = "w-20 bg-blue-900 text-white flex flex-col items-center py-8 min-h-screen -ml-6 -mt-6">
           <div className="relative inline-block">
             <img src={rect} alt="JobEZ" className="h-12 w-12" />
             <span className="absolute inset-0 flex items-center justify-center text-white font-bold">
@@ -54,7 +54,7 @@ const ApplicantProfilePage = () => {
     </div>
 
         {/* Content */}
-        <div className="flex-1 p-8">
+        <div className="flex-1 p-8 pr-4">
           {/* Header */}
           <div className="flex justify-between items-center border-b pb-4">
             <div className="flex items-center">
