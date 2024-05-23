@@ -1,5 +1,6 @@
 // src/ApplicantProfilePage.js
-import React from 'react';
+import React, {useState} from 'react';
+//import PopUp1 from './Popup';
 import avatar from './assets/avatar.svg';
 import folderOpen from './assets/folder-open.svg';
 import calendarIcon from './assets/calendar-month.svg';
@@ -11,47 +12,48 @@ import rect from './assets/rectangle-4571.svg';
 import add from './assets/plus.svg';
 import logout from './assets/arrow-right-to-bracket.svg';
 import bars from './assets/bars-outline.svg';
+import expandIcon from './assets/expand-outline.svg'; // example expand icon
 
 const ApplicantProfilePage = () => {
   return (
-    <div className="bg-gray-200 min-h-screen p-6">
-      <div className = "flex flex-col lg:flex-row justify-start items-start w-full">
+    <div className="bg-white-0 h-64 p-4">
+      <div className="flex flex-col lg:flex-row justify-start items-start w-full">
         {/* Sidebar */}
-        <div className = "w-20 bg-blue-900 text-white flex flex-col items-center py-8 min-h-screen -ml-6 -mt-6">
+        <div className="w-20 bg-blue-900 text-white flex flex-col items-center py-8 min-h-screen -ml-6 -mt-6 h-screen sticky top-0">
           <div className="relative inline-block">
             <img src={rect} alt="JobEZ" className="h-12 w-12" />
             <span className="absolute inset-0 flex items-center justify-center text-white font-bold">
-            JobEZ
+              JobEZ
             </span>
           </div>
 
-        <div className="flex flex-col items-center mt-20">
-          <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg mb-8 hover:bg-blue-700">
-            <img src = {grid} alt="icon1" className="w-6" />
-          </button>
-    
-        <div className="flex flex-col gap-0 items-center mt-20">
-          <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
-            <img src = {add} alt="icon2" className="w-6" />
-          </button>
-          <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
-            <img src = {bars}  alt="icon3" className="w-6" />
-          </button>
-          <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
-            <img src = {users} alt="icon4" className="w-6" />
-          </button>
-        </div>
-
-        <div className="flex flex-col gap-0 mt-20">
-          <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
-            <img src= {user} alt="icon5" className="w-6" />
+          <div className="flex flex-col items-center mt-20">
+            <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg mb-8 hover:bg-blue-700">
+              <img src={grid} alt="icon1" className="w-6" />
             </button>
-          <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
-            <img src= {logout} alt="icon6" className="w-6" />
-           </button>
+
+            <div className="flex flex-col gap-0 items-center mt-20">
+              <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
+                <img src={add} alt="icon2" className="w-6" />
+              </button>
+              <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
+                <img src={bars} alt="icon3" className="w-6" />
+              </button>
+              <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
+                <img src={users} alt="icon4" className="w-6" />
+              </button>
+            </div>
+
+            <div className="flex flex-col gap-0 mt-20">
+              <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
+                <img src={user} alt="icon5" className="w-6" />
+              </button>
+              <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
+                <img src={logout} alt="icon6" className="w-6" />
+              </button>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
 
         {/* Content */}
         <div className="flex-1 p-8 pr-4">
@@ -72,7 +74,7 @@ const ApplicantProfilePage = () => {
               View Files
             </button>
           </div>
-          
+
           {/* About Section */}
           <div className="mt-6">
             <h2 className="text-2xl font-bold mb-2">About Applicant Name:</h2>
@@ -80,7 +82,7 @@ const ApplicantProfilePage = () => {
               Hello! I'm Joey, a passionate barista with over three years of experience. I excel in creating exceptional coffee experiences through my expertise in brewing, dedication to cleanliness, and commitment to outstanding customer service. With a warm smile and a genuine love for coffee, I strive to make each interaction memorable and enjoyable for every customer. I'm excited about the opportunity to bring my skills to your team and contribute to the world of specialty coffee.
             </p>
           </div>
-          
+
           {/* Details Section */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
             <div>
@@ -88,20 +90,20 @@ const ApplicantProfilePage = () => {
               <div className="flex items-center border p-2 rounded mt-1 bg-gray-300">Employed</div>
             </div>
             <div>
-              <label className = "block text-sm font-medium text-gray-700">Preferred Hours</label>
-              <div className = "flex items-center border p-2 rounded mt-1 bg-gray-300">9am-5pm</div>
+              <label className="block text-sm font-medium text-gray-700">Preferred Hours</label>
+              <div className="flex items-center border p-2 rounded mt-1 bg-gray-300">9am-5pm</div>
             </div>
             <div>
               <label className="block text-sm font-medium text-gray-700">Application Status</label>
-              <div className= "flex items-center border p-2 rounded mt-1 bg-gray-300">Unreviewed</div>
+              <div className="flex items-center border p-2 rounded mt-1 bg-gray-300">Unreviewed</div>
             </div>
             <div>
-            <label className = "block text-sm font-medium text-gray-700 mt-1">Spoken Languages</label>
-              <div className = "flex items-center border p-2 rounded mt-1 bg-gray-300">English, Spanish</div>
+              <label className="block text-sm font-medium text-gray-700 mt-1">Spoken Languages</label>
+              <div className="flex items-center border p-2 rounded mt-1 bg-gray-300">English, Spanish</div>
             </div>
             <div className="col-span-2 md:col-span-1">
               <label className="block text-sm font-medium text-gray-700">Preferred Days</label>
-              <div className = "flex items-center border p-2 rounded mt-1 bg-gray-300">
+              <div className="flex items-center border p-2 rounded mt-1 bg-gray-300">
                 <img src={calendarIcon} alt="calendar" className="mr-2" />
                 Select period
               </div>
@@ -114,19 +116,46 @@ const ApplicantProfilePage = () => {
               </div>
             </div>
           </div>
-          
+
           {/* Job Experience and Skills */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
             <div>
               <h2 className="text-2xl font-bold">Job Experience</h2>
-              <ul className="list-disc list-inside">
-                <li>Starbucks Barista</li>
-                <li>Babysitter</li>
-                <li>Applebee’s Waiter</li>
-                <li>Starbucks Cashier</li>
-                <li>Camp Counselor</li>
-              </ul>
+              <div className="bg-white rounded-lg shadow p-2 w-2/3">
+                <div className="flex items-center justify-between border-b border-gray-200 py-2">
+                  <span>Starbucks Barista</span>
+                  <button className="p-1">
+                    <img src={expandIcon} alt="expand" className="w-4 h-4" />
+                  </button>
+                </div>
+                <div className="flex items-center justify-between border-b border-gray-200 py-2">
+                  <span>Babysitter</span>
+                  <button className="p-1">
+                    <img src={expandIcon} alt="expand" className="w-4 h-4" />
+                  </button>
+                </div>
+                <div className="flex items-center justify-between border-b border-gray-200 py-2">
+                  <span>Applebee’s Waiter</span>
+                  <button className="p-1">
+                    <img src={expandIcon} alt="expand" className="w-4 h-4" />
+                  </button>
+                </div>
+                <div className="flex items-center justify-between border-b border-gray-200 py-2">
+                  <span>Starbucks Cashier</span>
+                  <button className="p-1">
+                    <img src={expandIcon} alt="expand" className="w-4 h-4" />
+                  </button>
+                </div>
+                <div className="flex items-center justify-between py-2">
+                  <span>Camp Counselor</span>
+                  <button className="p-1">
+                    <img src={expandIcon} alt="expand" className="w-4 h-4" />
+                  </button>
+                </div>
+                <button className="text-blue-600 hover:text-blue-800 mt-2">See all</button>
+              </div>
             </div>
+
             <div>
               <h2 className="text-2xl font-bold">Skills</h2>
               <div className="flex flex-wrap gap-2">
@@ -152,14 +181,13 @@ const ApplicantProfilePage = () => {
               <p>During busy periods, I prioritize tasks based on urgency and impact on customer experience, utilizing time-management strategies to ensure efficient service delivery without sacrificing quality.</p>
             </div>
           </div>
+
+          {/* Footer Button */}
+          <div className="flex justify-center mt-6">
+            <button className="bg-blue-700 text-white font-bold py-3 px-12 rounded-full">View Contact Info</button>
+          </div>
         </div>
       </div>
-
-      {/* Footer Button */}
-      <div className="flex justify-center mt-6">
-        <button className="bg-blue-700 text-white font-bold py-3 px-12 rounded-full">View Contact Info</button>
-      </div>
-      
     </div>
   );
 };
