@@ -85,30 +85,30 @@ const ApplicantProfilePage = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
             <div>
               <label className="block text-sm font-medium text-gray-700">Employment Status</label>
-              <div className="border p-2 rounded mt-1 bg-gray-200">Employed</div>
+              <div className="flex items-center border p-2 rounded mt-1 bg-gray-300">Employed</div>
             </div>
             <div>
-              <label className="block text-sm font-medium text-gray-700">Preferred Hours</label>
-              <div className="border p-2 rounded mt-1 bg-gray-200">9am-5pm</div>
+              <label className = "block text-sm font-medium text-gray-700">Preferred Hours</label>
+              <div className = "flex items-center border p-2 rounded mt-1 bg-gray-300">9am-5pm</div>
             </div>
             <div>
               <label className="block text-sm font-medium text-gray-700">Application Status</label>
-              <div className="border p-2 rounded mt-1 bg-gray-200">Unreviewed</div>
+              <div className= "flex items-center border p-2 rounded mt-1 bg-gray-300">Unreviewed</div>
             </div>
             <div>
-            <label className="block text-sm font-medium text-gray-700 mt-1">Spoken Languages</label>
-              <div className="border p-2 rounded mt-1 bg-gray-200">English, Spanish</div>
+            <label className = "block text-sm font-medium text-gray-700 mt-1">Spoken Languages</label>
+              <div className = "flex items-center border p-2 rounded mt-1 bg-gray-300">English, Spanish</div>
             </div>
             <div className="col-span-2 md:col-span-1">
               <label className="block text-sm font-medium text-gray-700">Preferred Days</label>
-              <div className="flex items-center border p-2 rounded mt-1 bg-gray-200">
+              <div className = "flex items-center border p-2 rounded mt-1 bg-gray-300">
                 <img src={calendarIcon} alt="calendar" className="mr-2" />
                 Select period
               </div>
             </div>
             <div className="col-span-2 md:col-span-1">
               <label className="block text-sm font-medium text-gray-700">Location</label>
-              <div className="flex items-center border p-2 rounded mt-1 bg-gray-200">
+              <div className="flex items-center border p-2 rounded mt-1 bg-gray-300">
                 <img src={mapPinIcon} alt="map pin" className="mr-2" />
                 New York, New York
               </div>
