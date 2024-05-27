@@ -1,0 +1,141 @@
+.contact-popup-overlay {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 416px;
+  height: 407px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  border: 1px solid #ccc;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.modal-content {
+  padding: 20px;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.modal-header h4 {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 1.3rem;
+  padding: 0 20px;
+  line-height: 1.5;
+  font-weight: 900;
+  color: #6B7280;
+  position: relative;
+}
+
+.ExitButton {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  color: #6B7280;
+}
+
+.modal-body {
+  display: flex;
+  flex-direction: column;
+  padding-left: 35px;
+  margin: 23px 0;
+}
+
+.modal-footer {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px;
+}
+
+label {
+  display: block;
+  margin: 10px 0;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+}
+
+.save-btn {
+  background-color: #1A56DB;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.cancel-btn {
+  background-color: white;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.save-btn:hover {
+  background-color: #004aad;
+}
+
+.cancel-btn:hover {
+  background-color: #D1D5DB;
+}
+
+.PageIndicators2 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.Indicators2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+}
+
+.RectangleLeft2, .RectangleRight2 {
+  width: 12px;
+  height: 12px;
+  border-radius: 12px;
+}
+
+.RectangleLeft2 {
+  background: #D1D5DB;
+}
+
+.RectangleRight2 {
+  background: #1A56DB;
+}
