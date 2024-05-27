@@ -16,13 +16,13 @@ import add from './assets/plus.svg';
 import logout from './assets/arrow-right-to-bracket.svg';
 import bars from './assets/bars-outline.svg';
 import expandIcon from './assets/expand-outline.svg'; // example expand icon
-import deleteIcon from './assets/prev-btn.svg'; // example delete icon
+import deleteIcon from './assets/prev-btn.svg'; // example delete icon, not used anymore
 
 const ItemTypes = {
   JOB: 'job',
 };
 
-const JobItem = ({ job, index, moveJob, removeJob }) => {
+const JobItem = ({ job, index, moveJob }) => {
   const ref = React.useRef(null);
   const [, drop] = useDrop({
     accept: ItemTypes.JOB,
@@ -54,9 +54,6 @@ const JobItem = ({ job, index, moveJob, removeJob }) => {
         <button className="p-1">
           <img src={expandIcon} alt="expand" className="w-4 h-4" />
         </button>
-        <button className="p-1" onClick={() => removeJob(index)}>
-          <img src={deleteIcon} alt="delete" className="w-4 h-4" />
-        </button>
       </div>
     </div>
   );
@@ -85,10 +82,6 @@ const ApplicantProfilePage = () => {
     setJobExperiences(updatedJobs);
   };
 
-  const removeJob = (indexToDelete) => {
-    setJobExperiences(jobExperiences.filter((_, index) => index !== indexToDelete));
-  };
-
   const toggleSkillsVisibility = () => {
     setSkillsVisible(!skillsVisible);
   };
@@ -101,31 +94,41 @@ const ApplicantProfilePage = () => {
     <DndProvider backend={HTML5Backend}>
       <div className="bg-gray-200 min-h-screen flex">
         {/* Sidebar */}
+        {/*The Logo Section*/}
         <div className="w-20 bg-blue-900 text-white flex-none flex flex-col items-center sticky top-0 h-screen py-8">
           <div className="relative inline-block">
             <img src={rect} alt="JobEZ" className="h-12 w-12" />
             <span className="absolute inset-0 flex items-center justify-center text-white font-bold">JobEZ</span>
           </div>
-
-          <div className="flex flex-col items-center mt-20 gap-8">
-            <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
+          
+          {/* The icon sections */}
+          <div className="flex flex-col items-center mt-20 gap-10">
+            <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700 m-6">
               <img src={grid} alt="icon1" className="w-6" />
             </button>
-            <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
-              <img src={add} alt="icon2" className="w-6" />
-            </button>
-            <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
-              <img src={bars} alt="icon3" className="w-6" />
-            </button>
-            <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
-              <img src={users} alt="icon4" className="w-6" />
-            </button>
-            <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
-              <img src={user} alt="icon5" className="w-6" />
-            </button>
-            <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
-              <img src={logout} alt="icon6" className="w-6" />
-            </button>
+
+            {/* Grouping icons 2, 3, and 4 close together */}
+            <div className="flex flex-col gap-5">
+              <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
+                <img src={add} alt="icon2" className="w-6" />
+              </button>
+              <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
+                <img src={bars} alt="icon3" className="w-6" />
+              </button>
+              <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
+                <img src={users} alt="icon4" className="w-6" />
+              </button>
+            </div>
+
+            {/* Grouping icons 5 and 6 close together */}
+            <div className="flex flex-col gap-5">
+              <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
+                <img src={user} alt="icon5" className="w-6" />
+              </button>
+              <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
+                <img src={logout} alt="icon6" className="w-6" />
+              </button>
+            </div>
           </div>
         </div>
 
@@ -204,7 +207,7 @@ const ApplicantProfilePage = () => {
               <h2 className="text-2xl font-bold">{`Job Experience`}</h2>
               <div className="bg-white rounded-lg shadow p-2 w-full">
                 {jobExperiences.map((job, index) => (
-                  <JobItem key={index} index={index} job={job} moveJob={moveJob} removeJob={removeJob} />
+                  <JobItem key={index} index={index} job={job} moveJob={moveJob} />
                 ))}
               </div>
             </div>
