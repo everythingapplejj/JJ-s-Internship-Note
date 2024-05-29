@@ -14,7 +14,7 @@
 .popup-button {
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #1A56DB;
+  background-color: #1b4db9;
   color: white;
   border: none;
   border-radius: 5px;
@@ -22,7 +22,7 @@
 }
 
 .popup-button:disabled {
-  background-color: #A0AEC0;
+  background-color: #697687;
   cursor: not-allowed;
 }
 
@@ -88,7 +88,7 @@
   text-align: center;
   color: #6B7280;
   font-size: 20px;
-  font-family: "Inter";
+  font-family: "Arial";
   font-weight: 900;
   line-height: 30px;
   word-wrap: break-word;
@@ -98,7 +98,7 @@
 .ContactInfo {
   color: #4B5563;
   font-size: 16px;
-  font-family: 'Inter';
+  font-family: 'Arial';
   line-height: 24px;
   text-align: center;
   padding: 8px  0;
@@ -118,7 +118,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 16px;
+  gap: 20px;
 }
 
 .ButtonContainer {

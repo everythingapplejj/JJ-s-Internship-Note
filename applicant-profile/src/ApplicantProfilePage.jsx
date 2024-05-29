@@ -4,6 +4,8 @@ import { HTML5Backend } from 'react-dnd-html5-backend';
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
 import ApplicantProfilePagePopup from './popup';
+import ContactPopUp1 from './ContactPopUp1.jsx';
+import ContactPopUp2  from './ContactPopUp2.jsx';
 import avatar from './assets/avatar.svg';
 import folderOpen from './assets/folder-open.svg';
 import calendarIcon from './assets/calendar-month.svg';
@@ -60,7 +62,16 @@ const JobItem = ({ job, index, moveJob }) => {
 };
 
 const ApplicantProfilePage = () => {
-  const [popupState, setPopupState] = useState(0); // 0: No popup, 1: PopUp1, 2: PopUp2
+  const [popupState, setPopupState] = useState(null); // 0: No popup, 1: PopUp1, 2: PopUp2
+  const togglePopup = (state) => {
+    setPopupState(state);
+  }
+  const handleContinue = () => {
+    setPopupState('contact2');
+  }
+
+  const isPopupOpen = popupState !== null;
+
   const [selectedDate, setSelectedDate] = useState(null);
   const [jobExperiences, setJobExperiences] = useState([
     "Starbucks Barista",
@@ -252,26 +263,28 @@ const ApplicantProfilePage = () => {
           </div>
 
           {/* Footer Button */}
-          <div className="flex justify-center mt-6">
-            <button
-              className="bg-blue-700 text-white font-bold py-3 px-12 rounded-full"
-              onClick={openPopUp1}
-            >
-              {`View Contact Info`}
-            </button>
-          </div>
+          
+          <button className="popup-button bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-400 disabled:opacity-50" onClick={() => togglePopup('contact1')} disabled={isPopupOpen}>
+              <span>View Contact Info</span>
+          </button>
+          {popupState === 'contact1' && (
+              <ContactPopUp1 
+                  name="John Doe"
+                  email="john.doe@example.com"
+                  phone="+1234567890"
+                  onClose={() => togglePopup(null)}
+                  onContinue={handleContinue}
+                  opened={popupState === 'contact1'}
+              />
+          )}
+          {popupState === 'contact2' && (
+              <ContactPopUp2 
+                  name="John Doe"
+                  onClose={() => togglePopup(null)}
+                  opened={popupState === 'contact2'}
+              />
+          )}
         </div>
-
-        {popupState !== 0 && (
-          <ApplicantProfilePagePopup
-            name="John Doe"
-            email="johndoe@example.com"
-            phone="123-456-7890"
-            popupState={popupState}
-            closePopup={closePopup}
-            continueToPopUp2={continueToPopUp2}
-          />
-        )}
       </div>
     </DndProvider>
   );
