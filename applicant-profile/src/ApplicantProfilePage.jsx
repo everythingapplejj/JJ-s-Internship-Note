@@ -3,9 +3,8 @@ import { DndProvider, useDrag, useDrop } from 'react-dnd';
 import { HTML5Backend } from 'react-dnd-html5-backend';
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
-import ApplicantProfilePagePopup from './popup';
 import ContactPopUp1 from './ContactPopUp1.jsx';
-import ContactPopUp2  from './ContactPopUp2.jsx';
+import ContactPopUp2 from './ContactPopUp2.jsx';
 import avatar from './assets/avatar.svg';
 import folderOpen from './assets/folder-open.svg';
 import calendarIcon from './assets/calendar-month.svg';
@@ -17,8 +16,7 @@ import rect from './assets/rectangle-4571.svg';
 import add from './assets/plus.svg';
 import logout from './assets/arrow-right-to-bracket.svg';
 import bars from './assets/bars-outline.svg';
-import expandIcon from './assets/expand-outline.svg'; // example expand icon
-import deleteIcon from './assets/prev-btn.svg'; // example delete icon, not used anymore
+import expandIcon from './assets/expand-outline.svg'; 
 
 const ItemTypes = {
   JOB: 'job',
@@ -63,15 +61,7 @@ const JobItem = ({ job, index, moveJob }) => {
 
 const ApplicantProfilePage = () => {
   const [popupState, setPopupState] = useState(null); // 0: No popup, 1: PopUp1, 2: PopUp2
-  const togglePopup = (state) => {
-    setPopupState(state);
-  }
-  const handleContinue = () => {
-    setPopupState('contact2');
-  }
-
-  const isPopupOpen = popupState !== null;
-
+  const [applicationStatus, setApplicationStatus] = useState('Unreviewed');
   const [selectedDate, setSelectedDate] = useState(null);
   const [jobExperiences, setJobExperiences] = useState([
     "Starbucks Barista",
@@ -81,6 +71,16 @@ const ApplicantProfilePage = () => {
     "Camp Counselor"
   ]);
   const [skillsVisible, setSkillsVisible] = useState(false);
+
+  const togglePopup = (state) => {
+    setPopupState(state);
+  }
+
+  const handleContinue = () => {
+    setPopupState('contact2');
+  }
+
+  const isPopupOpen = popupState !== null;
 
   const handleDateChange = (date) => {
     setSelectedDate(date);
@@ -98,27 +98,28 @@ const ApplicantProfilePage = () => {
   };
 
   const openPopUp1 = () => setPopupState(1);
-  const continueToPopUp2 = () => setPopupState(2);
   const closePopup = () => setPopupState(0);
+
+  const updateApplicationStatus = (status) => {
+    setApplicationStatus(status);
+    closePopup();
+  };
 
   return (
     <DndProvider backend={HTML5Backend}>
       <div className="bg-gray-200 min-h-screen flex">
         {/* Sidebar */}
-        {/*The Logo Section*/}
         <div className="w-20 bg-blue-900 text-white flex-none flex flex-col items-center sticky top-0 h-screen py-8">
           <div className="relative inline-block">
             <img src={rect} alt="JobEZ" className="h-12 w-12" />
             <span className="absolute inset-0 flex items-center justify-center text-white font-bold">JobEZ</span>
           </div>
           
-          {/* The icon sections */}
           <div className="flex flex-col items-center mt-20 gap-10">
             <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700 m-6">
               <img src={grid} alt="icon1" className="w-6" />
             </button>
 
-            {/* Grouping icons 2, 3, and 4 close together */}
             <div className="flex flex-col gap-5">
               <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
                 <img src={add} alt="icon2" className="w-6" />
@@ -131,7 +132,6 @@ const ApplicantProfilePage = () => {
               </button>
             </div>
 
-            {/* Grouping icons 5 and 6 close together */}
             <div className="flex flex-col gap-5">
               <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700">
                 <img src={user} alt="icon5" className="w-6" />
@@ -145,7 +145,6 @@ const ApplicantProfilePage = () => {
 
         {/* Content Area */}
         <div className="flex-1 p-8 pr-4">
-          {/* Header */}
           <div className="flex justify-between items-center border-b pb-4">
             <div className="flex items-center">
               <img src={avatar} alt="Avatar" className="w-24 h-24 rounded-full" />
@@ -163,7 +162,6 @@ const ApplicantProfilePage = () => {
             </button>
           </div>
 
-          {/* About Section */}
           <div className="mt-6">
             <h2 className="text-2xl font-bold mb-2">{`About Applicant Name:`}</h2>
             <p className="text-lg">
@@ -171,7 +169,6 @@ const ApplicantProfilePage = () => {
             </p>
           </div>
 
-          {/* Details Section */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
             <div>
               <label className="block text-sm font-medium text-gray-700">{`Employment Status`}</label>
@@ -183,7 +180,7 @@ const ApplicantProfilePage = () => {
             </div>
             <div>
               <label className="block text-sm font-medium text-gray-700">{`Application Status`}</label>
-              <div className="flex items-center border p-2 rounded mt-1 bg-gray-300">{`Unreviewed`}</div>
+              <div className="flex items-center border p-2 rounded mt-1 bg-gray-300">{applicationStatus}</div>
             </div>
             <div>
               <label className="block text-sm font-medium text-gray-700">{`Spoken Languages`}</label>
@@ -212,7 +209,6 @@ const ApplicantProfilePage = () => {
             </div>
           </div>
 
-          {/* Job Experience and Skills */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
             <div>
               <h2 className="text-2xl font-bold">{`Job Experience`}</h2>
@@ -249,7 +245,6 @@ const ApplicantProfilePage = () => {
             </div>
           </div>
 
-          {/* Custom Responses */}
           <div className="mt-6">
             <h2 className="text-2xl font-bold">{`Custom Responses:`}</h2>
             <div>
@@ -262,11 +257,12 @@ const ApplicantProfilePage = () => {
             </div>
           </div>
 
-          {/* Footer Button */}
-          
-          <button className="popup-button bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-400 disabled:opacity-50" onClick={() => togglePopup('contact1')} disabled={isPopupOpen}>
+          <div className="mt-8 flex justify-center">
+            <button className="bg-blue-700 text-white font-bold py-3 px-12 rounded-full" onClick={() => togglePopup('contact1')} disabled={isPopupOpen}>
               <span>View Contact Info</span>
-          </button>
+            </button>
+          </div>
+
           {popupState === 'contact1' && (
               <ContactPopUp1 
                   name="John Doe"
@@ -281,6 +277,7 @@ const ApplicantProfilePage = () => {
               <ContactPopUp2 
                   name="John Doe"
                   onClose={() => togglePopup(null)}
+                  onStatusSelect={updateApplicationStatus}
                   opened={popupState === 'contact2'}
               />
           )}

@@ -1,22 +1,17 @@
 import React, { useState } from 'react';
 import closeIcon from './assets/plus.svg';
 
-type ContactPopUp2Props = {
-  name: string;
-  onClose: () => void;
-  opened: boolean;
-};
-
-const ContactPopUp2: React.FC<ContactPopUp2Props> = ({ name, onClose, opened }) => {
+const ContactPopUp2 = ({ name, onClose, opened, onStatusSelect }) => {
   const [status, setStatus] = useState('unreviewed');
 
-  const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+  const handleChange = (event) => {
     setStatus(event.target.value);
   };
 
-  const handleSubmit = (event: React.FormEvent) => {
+  const handleSubmit = (event) => {
     event.preventDefault();
     console.log(`Status updated to: ${status}`);
+    onStatusSelect(status);
     onClose();
   };
 
