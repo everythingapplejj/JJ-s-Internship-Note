@@ -61,11 +61,34 @@ const JobItem = ({ job, index, moveJob, onExperienceClick }) => {
   );
 };
 
+const JobExperienceModal = ({ jobs, moveJob, onJobClick, onClose }) => {
+  return (
+    <div className="fixed inset-0 bg-gray-800 bg-opacity-75 flex justify-center items-center z-50">
+      <div className="bg-white rounded-lg shadow-lg overflow-auto max-w-md w-full p-4">
+        <div className="flex justify-between items-center border-b pb-2 mb-4">
+          <h2 className="text-xl font-bold">Job Experience</h2>
+          <button onClick={onClose}>
+            <img src="./assets/x.svg" alt="close" className="w-4 h-4"/>
+          </button>
+        </div>
+        <div>
+          {jobs.map((job, index) => (
+            <JobItem key={index} index={index} job={job} moveJob={moveJob} onExperienceClick={onJobClick} />
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+};
+
 const ApplicantProfilePage = () => {
   const [popupState, setPopupState] = useState(null); // 0: No popup, 1: PopUp1, 2: PopUp2
-  const [experiencePopup, setExperiencePopup]= useState(null);
+  const [experiencePopup, setExperiencePopup] = useState(null);
   const [applicationStatus, setApplicationStatus] = useState('Unreviewed');
   const [selectedDate, setSelectedDate] = useState(null);
+  const [showExperienceModal, setShowExperienceModal] = useState(false);
+  const [showAllExperience, setShowAllExperience] = useState(false);
+
   const [jobExperiences, setJobExperiences] = useState([
     { title: "Starbucks Barista", company: "Starbucks", description: "Description for Starbucks Barista", period: "January 2020 - December 2021" },
     { title: "Babysitter", company: "N/A", description: "Description for Babysitter", period: "June 2021 - August 2021" },
@@ -75,17 +98,17 @@ const ApplicantProfilePage = () => {
   ]);
   const [skillsVisible, setSkillsVisible] = useState(false);
 
-  const experience_togglePopup = (state) => {
-    setExperiencePopup(state);
-  }
+  const experience_togglePopup = (job) => {
+    setExperiencePopup(job);
+  };
 
   const togglePopup = (state) => {
     setPopupState(state);
-  }
+  };
 
   const handleContinue = () => {
     setPopupState('contact2');
-  }
+  };
 
   const isExperiencePopupOpen = experiencePopup !== null; 
 
@@ -107,12 +130,18 @@ const ApplicantProfilePage = () => {
   };
 
   const openPopUp1 = () => setPopupState(1);
+
   const closePopup = () => setPopupState(0);
 
   const updateApplicationStatus = (status) => {
     setApplicationStatus(status);
     closePopup();
   };
+
+  const openJobExperienceModal = () => setShowExperienceModal(true);
+  const closeJobExperienceModal = () => setShowExperienceModal(false);
+
+  const toggleShowAllExperience = () => setShowAllExperience(!showAllExperience);
 
   return (
     <DndProvider backend={HTML5Backend}>
@@ -222,10 +251,18 @@ const ApplicantProfilePage = () => {
             <div>
               <h2 className="text-2xl font-bold">{`Job Experience`}</h2>
               <div className="bg-white rounded-lg shadow p-2 w-full">
-                {jobExperiences.map((job, index) => (
+                {jobExperiences.slice(0, showAllExperience ? jobExperiences.length : 3).map((job, index) => (
                   <JobItem key={index} index={index} job={job} moveJob={moveJob} onExperienceClick={experience_togglePopup} />
                 ))}
               </div>
+              {jobExperiences.length > 3 && (
+                <button
+                  className="block bg-blue-600 text-white font-bold mt-4 py-2 px-4 rounded w-full"
+                  onClick={toggleShowAllExperience}
+                >
+                  {showAllExperience ? 'Show Less' : 'See All'}
+                </button>
+              )}
             </div>
 
             <div>
@@ -300,6 +337,15 @@ const ApplicantProfilePage = () => {
                   onClose={() => setExperiencePopup(null)}
               />
           )}
+
+          {showExperienceModal && (
+            <JobExperienceModal
+              jobs={jobExperiences}
+              moveJob={moveJob}
+              onJobClick={experience_togglePopup}
+              onClose={closeJobExperienceModal}
+            />
+          )}
         </div>
       </div>
     </DndProvider>
@@ -307,3 +353,4 @@ const ApplicantProfilePage = () => {
 };
 
 export default ApplicantProfilePage;
+
