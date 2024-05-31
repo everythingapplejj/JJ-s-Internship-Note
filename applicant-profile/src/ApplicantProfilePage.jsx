@@ -17,12 +17,13 @@ import add from './assets/plus.svg';
 import logout from './assets/arrow-right-to-bracket.svg';
 import bars from './assets/bars-outline.svg';
 import expandIcon from './assets/expand-outline.svg'; 
+import SingleExperiencePopup from './SingleExperiencePopup.jsx';
 
 const ItemTypes = {
   JOB: 'job',
 };
 
-const JobItem = ({ job, index, moveJob }) => {
+const JobItem = ({ job, index, moveJob, onExperienceClick }) => {
   const ref = React.useRef(null);
   const [, drop] = useDrop({
     accept: ItemTypes.JOB,
@@ -47,9 +48,10 @@ const JobItem = ({ job, index, moveJob }) => {
   return (
     <div
       ref={ref}
-      className={`flex items-center justify-between border-b border-gray-200 py-2 ${isDragging ? 'opacity-50' : 'opacity-100'}`}
+      className={`flex items-center justify-between border-b border-gray-200 py-2 cursor-pointer ${isDragging ? 'opacity-50' : 'opacity-100'}`}
+      onClick={() => onExperienceClick(job)}
     >
-      <span>{job}</span>
+      <span>{job.title}</span>
       <div className="flex items-center">
         <button className="p-1">
           <img src={expandIcon} alt="expand" className="w-4 h-4" />
@@ -61,16 +63,21 @@ const JobItem = ({ job, index, moveJob }) => {
 
 const ApplicantProfilePage = () => {
   const [popupState, setPopupState] = useState(null); // 0: No popup, 1: PopUp1, 2: PopUp2
+  const [experiencePopup, setExperiencePopup]= useState(null);
   const [applicationStatus, setApplicationStatus] = useState('Unreviewed');
   const [selectedDate, setSelectedDate] = useState(null);
   const [jobExperiences, setJobExperiences] = useState([
-    "Starbucks Barista",
-    "Babysitter",
-    "Applebee’s Waiter",
-    "Starbucks Cashier",
-    "Camp Counselor"
+    { title: "Starbucks Barista", company: "Starbucks", description: "Description for Starbucks Barista", period: "January 2020 - December 2021" },
+    { title: "Babysitter", company: "N/A", description: "Description for Babysitter", period: "June 2021 - August 2021" },
+    { title: "Applebee’s Waiter", company: "Applebee's", description: "As an Applebee's waiter, I warmly greet guests, guide them through the menu, and take orders accurately. Promptly delivering food and handling transactions are key tasks. I also maintain cleanliness and organization. It's fast-paced, but I enjoy creating memorable experiences for our guests.", period: "January 2022 - June 2023" },
+    { title: "Starbucks Cashier", company: "Starbucks", description: "Description for Starbucks Cashier", period: "September 2020 - January 2021" },
+    { title: "Camp Counselor", company: "N/A", description: "Description for Camp Counselor", period: "July 2019 - August 2019" },
   ]);
   const [skillsVisible, setSkillsVisible] = useState(false);
+
+  const experience_togglePopup = (state) => {
+    setExperiencePopup(state);
+  }
 
   const togglePopup = (state) => {
     setPopupState(state);
@@ -79,6 +86,8 @@ const ApplicantProfilePage = () => {
   const handleContinue = () => {
     setPopupState('contact2');
   }
+
+  const isExperiencePopupOpen = experiencePopup !== null; 
 
   const isPopupOpen = popupState !== null;
 
@@ -214,7 +223,7 @@ const ApplicantProfilePage = () => {
               <h2 className="text-2xl font-bold">{`Job Experience`}</h2>
               <div className="bg-white rounded-lg shadow p-2 w-full">
                 {jobExperiences.map((job, index) => (
-                  <JobItem key={index} index={index} job={job} moveJob={moveJob} />
+                  <JobItem key={index} index={index} job={job} moveJob={moveJob} onExperienceClick={experience_togglePopup} />
                 ))}
               </div>
             </div>
@@ -279,6 +288,16 @@ const ApplicantProfilePage = () => {
                   onClose={() => togglePopup(null)}
                   onStatusSelect={updateApplicationStatus}
                   opened={popupState === 'contact2'}
+              />
+          )}
+
+          {isExperiencePopupOpen && (
+              <SingleExperiencePopup
+                  title={experiencePopup.title}
+                  company={experiencePopup.company}
+                  period={experiencePopup.period}
+                  description={experiencePopup.description}
+                  onClose={() => setExperiencePopup(null)}
               />
           )}
         </div>
