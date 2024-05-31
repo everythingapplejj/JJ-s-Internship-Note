@@ -11,7 +11,7 @@ export default function ContactPopUp1({ name, email, phone, onClose, onContinue,
       <div className="Modal">
         <div className="ModalHeader">
           <button className="ExitButton" onClick={onClose}>
-            <img src={closeIcon} alt="Close" />
+            <span>X</span>
           </button>
         </div>
         <div className="ModalBody">

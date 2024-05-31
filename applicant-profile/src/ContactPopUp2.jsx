@@ -25,7 +25,7 @@ const ContactPopUp2 = ({ name, onClose, opened, onStatusSelect }) => {
             Would you like to change {name}'s application status?
           </h4>
           <button className="absolute top-1 right-1 text-gray-600" onClick={onClose}>
-            <img src={closeIcon} alt="Close" />
+            <span>X</span>
           </button>
         </div>
         <div className="pl-8 mb-6">
