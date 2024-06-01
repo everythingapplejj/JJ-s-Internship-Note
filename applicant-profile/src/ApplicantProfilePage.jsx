@@ -3,8 +3,8 @@ import { DndProvider, useDrag, useDrop } from 'react-dnd';
 import { HTML5Backend } from 'react-dnd-html5-backend';
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
-import ContactPopUp1 from './ContactPopUp1.jsx';
-import ContactPopUp2 from './ContactPopUp2.jsx';
+import ContactPopUp1 from './ContactPopUp1';
+import ContactPopUp2 from './ContactPopUp2';
 import avatar from './assets/avatar.svg';
 import folderOpen from './assets/folder-open.svg';
 import calendarIcon from './assets/calendar-month.svg';
@@ -16,11 +16,12 @@ import rect from './assets/rectangle-4571.svg';
 import add from './assets/plus.svg';
 import logout from './assets/arrow-right-to-bracket.svg';
 import bars from './assets/bars-outline.svg';
-import expandIcon from './assets/expand-outline.svg'; 
-import SingleExperiencePopup from './SingleExperiencePopup.jsx';
+import expandIcon from './assets/expand-outline.svg';
+import SingleExperiencePopup from './SingleExperiencePopup';
+import FilesPopup from './FilesPopup';
 
 const ItemTypes = {
-  JOB: 'job',
+  JOB: 'job'
 };
 
 const JobItem = ({ job, index, moveJob, onExperienceClick }) => {
@@ -32,15 +33,15 @@ const JobItem = ({ job, index, moveJob, onExperienceClick }) => {
         moveJob(item.index, index);
         item.index = index;
       }
-    },
+    }
   });
 
   const [{ isDragging }, drag] = useDrag({
     type: ItemTypes.JOB,
     item: { type: ItemTypes.JOB, index },
     collect: (monitor) => ({
-      isDragging: monitor.isDragging(),
-    }),
+      isDragging: monitor.isDragging()
+    })
   });
 
   drag(drop(ref));
@@ -88,7 +89,6 @@ const ApplicantProfilePage = () => {
   const [selectedDate, setSelectedDate] = useState(null);
   const [showExperienceModal, setShowExperienceModal] = useState(false);
   const [showAllExperience, setShowAllExperience] = useState(false);
-
   const [jobExperiences, setJobExperiences] = useState([
     { title: "Starbucks Barista", company: "Starbucks", description: "Description for Starbucks Barista", period: "January 2020 - December 2021" },
     { title: "Babysitter", company: "N/A", description: "Description for Babysitter", period: "June 2021 - August 2021" },
@@ -97,6 +97,7 @@ const ApplicantProfilePage = () => {
     { title: "Camp Counselor", company: "N/A", description: "Description for Camp Counselor", period: "July 2019 - August 2019" },
   ]);
   const [skillsVisible, setSkillsVisible] = useState(false);
+  const [filesPopupOpen, setFilesPopupOpen] = useState(false);
 
   const experience_togglePopup = (job) => {
     setExperiencePopup(job);
@@ -110,7 +111,7 @@ const ApplicantProfilePage = () => {
     setPopupState('contact2');
   };
 
-  const isExperiencePopupOpen = experiencePopup !== null; 
+  const isExperiencePopupOpen = experiencePopup !== null;
 
   const isPopupOpen = popupState !== null;
 
@@ -143,6 +144,9 @@ const ApplicantProfilePage = () => {
 
   const toggleShowAllExperience = () => setShowAllExperience(!showAllExperience);
 
+  const openFilesPopup = () => setFilesPopupOpen(true);
+  const closeFilesPopup = () => setFilesPopupOpen(false);
+
   return (
     <DndProvider backend={HTML5Backend}>
       <div className="bg-gray-200 min-h-screen flex">
@@ -152,7 +156,7 @@ const ApplicantProfilePage = () => {
             <img src={rect} alt="JobEZ" className="h-12 w-12" />
             <span className="absolute inset-0 flex items-center justify-center text-white font-bold">JobEZ</span>
           </div>
-          
+
           <div className="flex flex-col items-center mt-20 gap-10">
             <button className="flex justify-center items-center w-12 h-12 bg-blue-800 rounded shadow-lg hover:bg-blue-700 m-6">
               <img src={grid} alt="icon1" className="w-6" />
@@ -194,7 +198,7 @@ const ApplicantProfilePage = () => {
                 </div>
               </div>
             </div>
-            <button className="bg-blue-700 text-white font-bold py-2 px-4 rounded flex items-center">
+            <button className="bg-blue-700 text-white font-bold py-2 px-4 rounded flex items-center" onClick={openFilesPopup}>
               <img src={folderOpen} alt="folder" className="mr-2" />
               {`View Files`}
             </button>
@@ -305,37 +309,37 @@ const ApplicantProfilePage = () => {
 
           <div className="mt-8 flex justify-center">
             <button className="bg-blue-700 text-white font-bold py-3 px-12 rounded-full" onClick={() => togglePopup('contact1')} disabled={isPopupOpen}>
-              <span>View Contact Info</span>
+              <span>{`View Contact Info`}</span>
             </button>
           </div>
 
           {popupState === 'contact1' && (
-              <ContactPopUp1 
-                  name="John Doe"
-                  email="john.doe@example.com"
-                  phone="+1234567890"
-                  onClose={() => togglePopup(null)}
-                  onContinue={handleContinue}
-                  opened={popupState === 'contact1'}
-              />
+            <ContactPopUp1
+              name="John Doe"
+              email="john.doe@example.com"
+              phone="+1234567890"
+              onClose={() => togglePopup(null)}
+              onContinue={handleContinue}
+              opened={popupState === 'contact1'}
+            />
           )}
           {popupState === 'contact2' && (
-              <ContactPopUp2 
-                  name="John Doe"
-                  onClose={() => togglePopup(null)}
-                  onStatusSelect={updateApplicationStatus}
-                  opened={popupState === 'contact2'}
-              />
+            <ContactPopUp2
+              name="John Doe"
+              onClose={() => togglePopup(null)}
+              onStatusSelect={updateApplicationStatus}
+              opened={popupState === 'contact2'}
+            />
           )}
 
           {isExperiencePopupOpen && (
-              <SingleExperiencePopup
-                  title={experiencePopup.title}
-                  company={experiencePopup.company}
-                  period={experiencePopup.period}
-                  description={experiencePopup.description}
-                  onClose={() => setExperiencePopup(null)}
-              />
+            <SingleExperiencePopup
+              title={experiencePopup.title}
+              company={experiencePopup.company}
+              period={experiencePopup.period}
+              description={experiencePopup.description}
+              onClose={() => setExperiencePopup(null)}
+            />
           )}
 
           {showExperienceModal && (
@@ -346,6 +350,12 @@ const ApplicantProfilePage = () => {
               onClose={closeJobExperienceModal}
             />
           )}
+
+          {filesPopupOpen && (
+            <FilesPopup 
+            onClose = {closeFilesPopup}
+            />
+          )}
         </div>
       </div>
     </DndProvider>
@@ -353,4 +363,3 @@ const ApplicantProfilePage = () => {
 };
 
 export default ApplicantProfilePage;
-
