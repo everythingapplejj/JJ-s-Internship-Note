@@ -18,6 +18,8 @@ import logout from './assets/arrow-right-to-bracket.svg';
 import bars from './assets/bars-outline.svg';
 import expandIcon from './assets/expand-outline.svg';
 import SingleExperiencePopup from './SingleExperiencePopup';
+import SkillsPopup from './SkillsPopup';
+import UploadFilesPopup from './UploadFilesPopup';  
 
 
 const ItemTypes = {
@@ -89,6 +91,7 @@ const ApplicantProfilePage = () => {
   const [selectedDate, setSelectedDate] = useState(null);
   const [showExperienceModal, setShowExperienceModal] = useState(false);
   const [showAllExperience, setShowAllExperience] = useState(false);
+  const [showAllSkills, setShowAllSkills] = useState(false); // testing... 
   const [jobExperiences, setJobExperiences] = useState([
     { title: "Starbucks Barista", company: "Starbucks", description: "Description for Starbucks Barista", period: "January 2020 - December 2021" },
     { title: "Babysitter", company: "N/A", description: "Description for Babysitter", period: "June 2021 - August 2021" },
@@ -141,11 +144,16 @@ const ApplicantProfilePage = () => {
 
   const openJobExperienceModal = () => setShowExperienceModal(true);
   const closeJobExperienceModal = () => setShowExperienceModal(false);
-
+  const openSkillsPopup = () => setShowAllSkills(true);
+  const closeSkillsPopup = () => setShowAllSkills(false);
   const toggleShowAllExperience = () => setShowAllExperience(!showAllExperience);
 
   const openFilesPopup = () => setFilesPopupOpen(true);
   const closeFilesPopup = () => setFilesPopupOpen(false);
+  
+  const skills_togglePopup = (state) => {
+    setShowAllSkills(!state)
+  }
 
   return (
     <DndProvider backend={HTML5Backend}>
@@ -288,10 +296,13 @@ const ApplicantProfilePage = () => {
               </div>
               <button
                 className="block bg-blue-600 text-white font-bold mt-4 py-2 px-4 rounded"
-                onClick={toggleSkillsVisibility}
+                onClick={() => skills_togglePopup(false)} // fix this later
               >
                 {skillsVisible ? `See Less` : `See All`}
               </button>
+              <SkillsPopup>
+                opened = {showAllSkills} skills_togglePopup = {skills_togglePopup}
+              </SkillsPopup>
             </div>
           </div>
 
@@ -350,7 +361,6 @@ const ApplicantProfilePage = () => {
               onClose={closeJobExperienceModal}
             />
           )}
-
         </div>
       </div>
     </DndProvider>
