@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './SkillsPopup.css'
-import CloseButton from './assets/plus.svg'
+import CloseButton from './assets/grid.svg'
 
 
 export const SkillsPopup = (props) => {
@@ -15,7 +15,7 @@ export const SkillsPopup = (props) => {
           
           <div className="title">
             Skills 
-            <button className="close-button" onClick={() => props.togglePopup(true)}>
+            <button className="close-button" onClick={() => props.skills_togglePopup(true)}>
               <img class="close-image" src={CloseButton}/>
             </button>
           </div>

@@ -318,13 +318,13 @@ const ApplicantProfilePage = () => {
               </div>
               <button
                 className="block bg-blue-600 text-white font-bold mt-4 py-2 px-4 rounded"
-                onClick={toggleSkillsVisibility} // fix this later
+                onClick={openSkillsPopup} // fix this later
               >
                 {skillsVisible ? `See Less` : `See All`}
               </button>
-              <SkillsPopup>
+              <SkillsPopup
                 opened = {showAllSkills} skills_togglePopup = {skills_togglePopup}
-              </SkillsPopup>
+              />
             </div>
           </div>
 

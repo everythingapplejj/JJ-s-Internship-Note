@@ -1,7 +1,7 @@
 import React from 'react';
 import './ExperienceListPopUp.css';
-import closeIcon from './assets/plus.svg';
-import arrowIcon from './assets/plus.svg';
+import closeIcon from './assets/add-btn.svg';
+import arrowIcon from './assets/refresh.svg';
 
 const ExperienceListPopUp = (props) => {
   const experiences = [
@@ -19,7 +19,7 @@ const ExperienceListPopUp = (props) => {
           <div className="experience-list-modal-content">
             <div className="experience-list-modal-header">
               <h4>Job Experience</h4>
-              <button className="experience-list-exit-button" onClick={() => props.togglePopup(null)}>
+              <button className="experience-list-exit-button" onClick={() => props.experience_togglePopup(null)}>
                 <img src={closeIcon} alt="Close" />
               </button>
             </div>

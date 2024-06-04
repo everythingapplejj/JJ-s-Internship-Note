@@ -1,8 +1,8 @@
 import React from 'react';
 import './ExperienceSinglePopUp.css';
-//import closeIcon from ' ./assets/user.svg';
 import backIcon from './assets/user.svg';
 import calendarIcon from './assets/user.svg';
+import dummy from './assets/expand-outline.svg'
 
 export default function ExperienceSinglePopUp({ onClose, onBack }) {
   return (
@@ -15,7 +15,7 @@ export default function ExperienceSinglePopUp({ onClose, onBack }) {
             </button>
             <h4>Applebee’s Waiter</h4>
             <button className="experience-single-exit-button" onClick={onClose}>
-              <img src={backIcon} alt="Close" />
+              <img src={dummy} alt="Close" />
             </button>
           </div>
           <div className="experience-single-modal-body">
