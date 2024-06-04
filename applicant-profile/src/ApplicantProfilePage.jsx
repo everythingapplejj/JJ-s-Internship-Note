@@ -20,6 +20,8 @@ import expandIcon from './assets/expand-outline.svg';
 import SingleExperiencePopup from './SingleExperiencePopup';
 import SkillsPopup from './SkillsPopup';
 import UploadFilesPopup from './UploadFilesPopup';  
+import ExperienceSinglePopUp from './ExperienceSinglePopUp';
+import ExperienceListPopUp from './ExperienceListPopUp';
 
 //"../../components/PopUps/SkillsPopUp/SkillsPopUp" 
 // utilize the above formating
@@ -94,6 +96,7 @@ const ApplicantProfilePage = () => {
   const [showExperienceModal, setShowExperienceModal] = useState(false);
   const [showAllExperience, setShowAllExperience] = useState(false);
   const [showAllSkills, setShowAllSkills] = useState(false); // testing... 
+  const [experience_popupState, experience_setPopupState] = useState(null); 
   const [jobExperiences, setJobExperiences] = useState([
     { title: "Starbucks Barista", company: "Starbucks", description: "Description for Starbucks Barista", period: "January 2020 - December 2021" },
     { title: "Babysitter", company: "N/A", description: "Description for Babysitter", period: "June 2021 - August 2021" },
@@ -103,10 +106,19 @@ const ApplicantProfilePage = () => {
   ]);
   const [skillsVisible, setSkillsVisible] = useState(false);
   const [filesPopupOpen, setFilesPopupOpen] = useState(false);
-
+  {/*
+   Not using for now
   const experience_togglePopup = (job) => {
     setExperiencePopup(job);
   };
+ */}
+  const experience_togglePopup = (state) => {
+    experience_setPopupState(state);
+  };
+
+  const experience_handleViewDetail = () => {
+    experience_setPopupState('single');
+  }
 
   const togglePopup = (state) => {
     setPopupState(state);
@@ -269,13 +281,21 @@ const ApplicantProfilePage = () => {
                   <JobItem key={index} index={index} job={job} moveJob={moveJob} onExperienceClick={experience_togglePopup} />
                 ))}
               </div>
-              {jobExperiences.length > 3 && (
-                <button
-                  className="block bg-blue-600 text-white font-bold mt-4 py-2 px-4 rounded w-full"
-                  onClick={toggleShowAllExperience}
-                >
-                  {showAllExperience ? 'Show Less' : 'See All'}
-                </button>
+              <button className = "block bg-blue-600 text-white font-bold mt-4 py-2 px-4 rounded w-full" onClick = {() => experience_togglePopup('list')} disabled = {isExperiencePopupOpen}>
+                <span>See All</span>
+              </button>
+              {experience_popupState === 'list' && (
+                <ExperienceListPopUp
+                  opened = {true}
+                  experience_togglePopup = {experience_togglePopup}
+                  onViewDetail = {experience_handleViewDetail}
+                />
+              )}
+              {experience_popupState === 'single' && (
+                <ExperienceSinglePopUp
+                  onClose = {() => experience_togglePopup(false)} // why is this not working? 
+                  onBack = {() => experience_togglePopup('list')} 
+                />
               )}
             </div>
 
@@ -298,7 +318,7 @@ const ApplicantProfilePage = () => {
               </div>
               <button
                 className="block bg-blue-600 text-white font-bold mt-4 py-2 px-4 rounded"
-                onClick={() => skills_togglePopup(false)} // fix this later
+                onClick={toggleSkillsVisibility} // fix this later
               >
                 {skillsVisible ? `See Less` : `See All`}
               </button>
