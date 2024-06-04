@@ -21,6 +21,8 @@ import SingleExperiencePopup from './SingleExperiencePopup';
 import SkillsPopup from './SkillsPopup';
 import UploadFilesPopup from './UploadFilesPopup';  
 
+//"../../components/PopUps/SkillsPopUp/SkillsPopUp" 
+// utilize the above formating
 
 const ItemTypes = {
   JOB: 'job'
@@ -150,7 +152,7 @@ const ApplicantProfilePage = () => {
 
   const openFilesPopup = () => setFilesPopupOpen(true);
   const closeFilesPopup = () => setFilesPopupOpen(false);
-  
+
   const skills_togglePopup = (state) => {
     setShowAllSkills(!state)
   }
