@@ -18,7 +18,7 @@ import logout from './assets/arrow-right-to-bracket.svg';
 import bars from './assets/bars-outline.svg';
 import expandIcon from './assets/expand-outline.svg';
 import SingleExperiencePopup from './SingleExperiencePopup';
-import FilesPopup from './FilesPopup';
+
 
 const ItemTypes = {
   JOB: 'job'
@@ -351,11 +351,6 @@ const ApplicantProfilePage = () => {
             />
           )}
 
-          {filesPopupOpen && (
-            <FilesPopup 
-            onClose = {closeFilesPopup}
-            />
-          )}
         </div>
       </div>
     </DndProvider>
