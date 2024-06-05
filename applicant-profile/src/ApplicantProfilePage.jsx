@@ -19,9 +19,10 @@ import bars from './assets/bars-outline.svg';
 import expandIcon from './assets/expand-outline.svg';
 import SingleExperiencePopup from './SingleExperiencePopup';
 import SkillsPopup from './SkillsPopup';
-import UploadFilesPopup from './UploadFilesPopup';  
+import UploadedFilesPopup from './UploadFilesPopup';  
 import ExperienceSinglePopUp from './ExperienceSinglePopUp';
 import ExperienceListPopUp from './ExperienceListPopUp';
+
 
 //"../../components/PopUps/SkillsPopUp/SkillsPopUp" 
 // utilize the above formating
@@ -112,6 +113,9 @@ const ApplicantProfilePage = () => {
     setExperiencePopup(job);
   };
  */}
+  const files_togglePopup = (state) => {
+    setFilesPopupOpen(state);
+  }
   const experience_togglePopup = (state) => {
     experience_setPopupState(state);
   };
@@ -220,10 +224,13 @@ const ApplicantProfilePage = () => {
                 </div>
               </div>
             </div>
-            <button className="bg-blue-700 text-white font-bold py-2 px-4 rounded flex items-center" onClick={openFilesPopup}>
+            <button className="bg-blue-700 text-white font-bold py-2 px-4 rounded flex items-center" onClick={() => files_togglePopup(true)}>
               <img src={folderOpen} alt="folder" className="mr-2" />
               {`View Files`}
             </button>
+            <UploadedFilesPopup
+              opened = {filesPopupOpen} files_togglePopup = {files_togglePopup}
+            />
           </div>
 
           <div className="mt-6">
