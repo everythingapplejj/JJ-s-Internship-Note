@@ -1,1 +1,0 @@
-export { BarsOutline } from "./BarsOutline";
