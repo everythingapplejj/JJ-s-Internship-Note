@@ -1,0 +1,1823 @@
+.part-time-pal-listings-page-employer-sketch .rectangle-73 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 394px;
+  height: 95px;
+}
+.part-time-pal-listings-page-employer-sketch .vector-3 {
+  background: #000000;
+  margin-bottom: 6.9px;
+  width: 23.3px;
+  height: 2px;
+}
+.part-time-pal-listings-page-employer-sketch .vector-4 {
+  background: #000000;
+  margin-bottom: 6.9px;
+  width: 23.3px;
+  height: 2px;
+}
+.part-time-pal-listings-page-employer-sketch .vector-5 {
+  background: #000000;
+  width: 23.3px;
+  height: 2px;
+}
+.part-time-pal-listings-page-employer-sketch .iconmenu {
+  margin: 8px 0 2.1px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 23.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .logo {
+  overflow-wrap: break-word;
+  font-family: 'Rockwell', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 1;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .vector-7 {
+  margin: 0 5.4px;
+  width: 14.3px;
+  height: 12.5px;
+}
+.part-time-pal-listings-page-employer-sketch .vector-6 {
+  width: 25px;
+  height: 12.5px;
+}
+.part-time-pal-listings-page-employer-sketch .iconuser {
+  margin: 2px 0 3px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 25px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-16 {
+  position: relative;
+  margin: 0 14px 18px 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 364px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .line-30 {
+  background: #E5E5E5;
+  position: relative;
+  width: 393px;
+  height: 1px;
+}
+.part-time-pal-listings-page-employer-sketch .header {
+  position: relative;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  padding: 47px 0px 0 1px;
+  width: 394px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .your-listings-8 {
+  margin: 2px 10px 2px 0;
+  display: inline-block;
+  width: 341px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 0.833;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .container {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .new-listing-button {
+  border-radius: 12px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 2px 7.2px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .body-heading {
+  margin: 0 8px 20px 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 375px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .active-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .active {
+  border-radius: 20px;
+  background: #E9E9E9;
+  position: relative;
+  margin-right: 15px;
+  display: flex;
+  padding: 7px 1px 7px 0;
+  flex-grow: 1;
+  flex-basis: 109px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .completed-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .completed {
+  border-radius: 20px;
+  background: #E9E9E9;
+  position: relative;
+  margin-right: 15px;
+  display: flex;
+  padding: 7px 0;
+  flex-grow: 1;
+  flex-basis: 109px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .drafts-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .drafts {
+  border-radius: 20px;
+  background: #E9E9E9;
+  position: relative;
+  margin-right: 15px;
+  display: flex;
+  padding: 7px 1px 7px 0;
+  flex-grow: 1;
+  flex-basis: 109px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .select-all-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .select-all {
+  border-radius: 20px;
+  background: #E9E9E9;
+  position: relative;
+  display: flex;
+  padding: 7px 0;
+  flex-grow: 1;
+  flex-basis: 109px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .filters-scroll {
+  margin: 0 0 20px 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 8px);
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .egline-cook-pay-25-daysmwf {
+  margin: 1.3px 5px 0.9px 0;
+  display: inline-block;
+  width: 265px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 1.111;
+  color: #AFAFAF;
+}
+.part-time-pal-listings-page-employer-sketch .iconsearch {
+  width: 12.2px;
+  height: 12.2px;
+}
+.part-time-pal-listings-page-employer-sketch .search-bar {
+  border-radius: 30px;
+  background: #F4F4F4;
+  position: relative;
+  margin-right: 37.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12.5px 13.8px 14.3px 16px;
+  width: 312px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .vector {
+  width: 26.7px;
+  height: 21.3px;
+}
+.part-time-pal-listings-page-employer-sketch .iconoirsort {
+  margin: 7.3px 0 10.3px 0;
+  display: flex;
+  width: 26.7px;
+  height: 21.3px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-2 {
+  margin: 0 8px 2px 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 376.3px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .rectangle-67 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 0.2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  width: 349px;
+  height: 137px;
+}
+.part-time-pal-listings-page-employer-sketch .vector-15 {
+  position: absolute;
+  top: 80px;
+  right: 60px;
+  width: 8px;
+  height: 8px;
+}
+.part-time-pal-listings-page-employer-sketch .bxedit {
+  margin-top: 33px;
+  width: 24px;
+  height: 24px;
+}
+.part-time-pal-listings-page-employer-sketch .listing-title {
+  margin: 34.5px 0 2.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .notification {
+  border-radius: 18px;
+  background: #FF6F6F;
+  position: relative;
+  margin-bottom: 21px;
+  display: flex;
+  padding: 8px 12px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-23 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 356px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .vector-20 {
+  width: 24px;
+  height: 22.7px;
+}
+.part-time-pal-listings-page-employer-sketch .tablerurgent {
+  position: absolute;
+  right: 34px;
+  bottom: 3.3px;
+  display: flex;
+  width: 24px;
+  height: 22.7px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-3 {
+  position: relative;
+  margin: 0 0 2px 32px;
+  display: flex;
+  width: 356px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .select-button {
+  border-radius: 3px;
+  border: 0.5px solid #000000;
+  margin: 0 15px 18px 0;
+  width: 20px;
+  height: 20px;
+}
+.part-time-pal-listings-page-employer-sketch .listing-description {
+  margin-top: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .container-21 {
+  margin: 18px 0 13.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .vector-14 {
+  width: 4.5px;
+  height: 9.8px;
+}
+.part-time-pal-listings-page-employer-sketch .iconoirdollar {
+  margin: 4.6px 4.4px 5.6px 0;
+  display: flex;
+  width: 4.5px;
+  height: 9.8px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .pay-rate {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .pay-tag {
+  margin: 0 0.2px 12px 0.2px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .ionlocation {
+  width: 12px;
+  height: 12px;
+}
+.part-time-pal-listings-page-employer-sketch .location-tag {
+  margin: 0 6px 5px 0;
+  display: flex;
+  align-self: center;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .s {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.8px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .m {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-1 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .ellipse-162 {
+  border-radius: 5px;
+  background: #9E9E9E;
+  position: absolute;
+  left: 50%;
+  top: 5px;
+  translate: -50% 0;
+  width: 10px;
+  height: 10px;
+}
+.part-time-pal-listings-page-employer-sketch .t {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #FFFCFC;
+}
+.part-time-pal-listings-page-employer-sketch .day-2 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.9px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .w {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-3 {
+  position: relative;
+  margin-top: 0.5px;
+  display: flex;
+  padding: 0 1px 0 1.3px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .ellipse-164 {
+  border-radius: 5px;
+  background: #9E9E9E;
+  position: absolute;
+  left: 50%;
+  top: 5px;
+  translate: -50% 0;
+  width: 10px;
+  height: 10px;
+}
+.part-time-pal-listings-page-employer-sketch .r {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .day-4 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.7px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .f {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-5 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 3.1px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .s-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-6 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.8px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .week {
+  display: flex;
+  flex-direction: row;
+  column-gap: 2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .hours {
+  position: absolute;
+  top: 15px;
+  right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .location {
+  position: absolute;
+  right: 0.1px;
+  bottom: 21.5px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .container-10 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-26 {
+  position: relative;
+  margin: 0 29px 5.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 359px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .view-applicants-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .container-6 {
+  border-radius: 0 0 10px 0;
+  border-left: 0.1px solid #000000;
+  border-right: 0.1px solid #000000;
+  border-bottom: 0.1px solid #000000;
+  background: #6B93FB;
+  position: relative;
+  display: flex;
+  padding: 0 0.5px 1px 0;
+  width: 174.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .view-applicants {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .container-14 {
+  border-radius: 0 0 0 10px;
+  border-left: 0.1px solid #000000;
+  border-right: 0.1px solid #000000;
+  border-bottom: 0.1px solid #000000;
+  background: #FF6E6E;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 0 0.5px 1px 0;
+  width: 174.5px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .view-applicants-unpublish-button {
+  border-radius: 0 0 10px 10px;
+  position: relative;
+  margin: 0 18.5px 0 21px;
+  display: flex;
+  width: 348.5px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .listing {
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 388px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .rectangle-671 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 0.2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 349px;
+  height: 137px;
+}
+.part-time-pal-listings-page-employer-sketch .vector-22 {
+  position: absolute;
+  top: 62px;
+  right: 42px;
+  width: 8px;
+  height: 8px;
+}
+.part-time-pal-listings-page-employer-sketch .bxedit-1 {
+  width: 24px;
+  height: 24px;
+}
+.part-time-pal-listings-page-employer-sketch .listing-title-1 {
+  margin: 1.5px 0 2.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .container-22 {
+  position: relative;
+  margin: 0 32px 2px 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 218.6px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .select-button-1 {
+  border-radius: 3px;
+  border: 0.5px solid #000000;
+  margin: 0 15px 18px 0;
+  width: 20px;
+  height: 20px;
+}
+.part-time-pal-listings-page-employer-sketch .listing-description-1 {
+  margin-top: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .container-20 {
+  margin: 18px 0 13.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .vector-21 {
+  width: 4.5px;
+  height: 9.8px;
+}
+.part-time-pal-listings-page-employer-sketch .iconoirdollar-1 {
+  margin: 4.6px 4.4px 5.6px 0;
+  display: flex;
+  width: 4.5px;
+  height: 9.8px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .pay-rate-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .pay-tag-1 {
+  margin: 0 0.2px 12px 0.2px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .ionlocation-1 {
+  width: 12px;
+  height: 12px;
+}
+.part-time-pal-listings-page-employer-sketch .location-tag-1 {
+  margin: 0 6px 5px 0;
+  display: flex;
+  align-self: center;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .s-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-7 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.8px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .m-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-8 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .ellipse-169 {
+  border-radius: 5px;
+  background: #9E9E9E;
+  position: absolute;
+  left: 50%;
+  top: 5px;
+  translate: -50% 0;
+  width: 10px;
+  height: 10px;
+}
+.part-time-pal-listings-page-employer-sketch .t-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #FFFCFC;
+}
+.part-time-pal-listings-page-employer-sketch .day-9 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.9px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .w-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-10 {
+  position: relative;
+  margin-top: 0.5px;
+  display: flex;
+  padding: 0 1px 0 1.3px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .ellipse-1611 {
+  border-radius: 5px;
+  background: #9E9E9E;
+  position: absolute;
+  left: 50%;
+  top: 5px;
+  translate: -50% 0;
+  width: 10px;
+  height: 10px;
+}
+.part-time-pal-listings-page-employer-sketch .r-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .day-11 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.7px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .f-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-12 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 3.1px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .s-3 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-13 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.8px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .week-1 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .hours-1 {
+  position: absolute;
+  top: 15px;
+  right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .location-1 {
+  position: absolute;
+  right: 0.1px;
+  bottom: 21.5px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .container-18 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-9 {
+  position: relative;
+  margin: 0 11px 5.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 359px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .draft {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .draft-notifier {
+  border-radius: 0 0 10px 10px;
+  border-left: 0.1px solid #000000;
+  border-right: 0.1px solid #000000;
+  border-bottom: 0.1px solid #000000;
+  background: #FF6E6E;
+  position: relative;
+  margin-left: 21px;
+  display: flex;
+  padding-top: 1px;
+  width: 349px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .listing-1 {
+  position: relative;
+  margin: 0 18px 2px 0;
+  display: flex;
+  flex-direction: column;
+  padding-top: 15px;
+  width: 370px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .rectangle-672 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 0.2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  width: 349px;
+  height: 137px;
+}
+.part-time-pal-listings-page-employer-sketch .vector-28 {
+  position: absolute;
+  top: 80px;
+  right: 60px;
+  width: 8px;
+  height: 8px;
+}
+.part-time-pal-listings-page-employer-sketch .bxedit-2 {
+  margin-top: 33px;
+  width: 24px;
+  height: 24px;
+}
+.part-time-pal-listings-page-employer-sketch .listing-title-2 {
+  margin: 34.5px 0 2.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .notification-1 {
+  border-radius: 18px;
+  background: #FF6F6F;
+  position: relative;
+  margin-bottom: 21px;
+  display: flex;
+  padding: 8px 12px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-8 {
+  position: relative;
+  margin: 0 0 2px 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 356px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .select-button-2 {
+  border-radius: 3px;
+  border: 0.5px solid #000000;
+  margin: 0 15px 18px 0;
+  width: 20px;
+  height: 20px;
+}
+.part-time-pal-listings-page-employer-sketch .listing-description-2 {
+  margin-top: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .container-13 {
+  margin: 18px 0 13.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .vector-27 {
+  width: 4.5px;
+  height: 9.8px;
+}
+.part-time-pal-listings-page-employer-sketch .iconoirdollar-2 {
+  margin: 4.6px 4.4px 5.6px 0;
+  display: flex;
+  width: 4.5px;
+  height: 9.8px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .pay-rate-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .pay-tag-2 {
+  margin: 0 0.2px 12px 0.2px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .ionlocation-2 {
+  width: 12px;
+  height: 12px;
+}
+.part-time-pal-listings-page-employer-sketch .location-tag-2 {
+  margin: 0 6px 5px 0;
+  display: flex;
+  align-self: center;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .s-4 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-14 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.8px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .m-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-15 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .ellipse-1616 {
+  border-radius: 5px;
+  background: #9E9E9E;
+  position: absolute;
+  left: 50%;
+  top: 5px;
+  translate: -50% 0;
+  width: 10px;
+  height: 10px;
+}
+.part-time-pal-listings-page-employer-sketch .t-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #FFFCFC;
+}
+.part-time-pal-listings-page-employer-sketch .day-16 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.9px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .w-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-17 {
+  position: relative;
+  margin-top: 0.5px;
+  display: flex;
+  padding: 0 1px 0 1.3px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .ellipse-1618 {
+  border-radius: 5px;
+  background: #9E9E9E;
+  position: absolute;
+  left: 50%;
+  top: 5px;
+  translate: -50% 0;
+  width: 10px;
+  height: 10px;
+}
+.part-time-pal-listings-page-employer-sketch .r-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .day-18 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.7px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .f-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-19 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 3.1px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .s-5 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-20 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.8px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .week-2 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-27 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .hours-2 {
+  position: absolute;
+  top: 15px;
+  right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .location-2 {
+  position: absolute;
+  right: 0.1px;
+  bottom: 21.5px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .container-17 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-28 {
+  position: relative;
+  margin: 0 29px 5.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 359px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .view-applicants-3 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .container-5 {
+  border-radius: 0 0 10px 0;
+  border-left: 0.1px solid #000000;
+  border-right: 0.1px solid #000000;
+  border-bottom: 0.1px solid #000000;
+  background: #6B93FB;
+  position: relative;
+  display: flex;
+  padding: 0 0.5px 1px 0;
+  width: 174.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .view-applicants-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .container-11 {
+  border-radius: 0 0 0 10px;
+  border-left: 0.1px solid #000000;
+  border-right: 0.1px solid #000000;
+  border-bottom: 0.1px solid #000000;
+  background: #FF6E6E;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 0 0.5px 1px 0;
+  width: 174.5px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .view-applicants-unpublish-button-1 {
+  border-radius: 0 0 10px 10px;
+  position: relative;
+  margin: 0 18.5px 0 21px;
+  display: flex;
+  width: 348.5px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .listing-2 {
+  position: relative;
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 388px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .rectangle-673 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 0.2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  width: 349px;
+  height: 137px;
+}
+.part-time-pal-listings-page-employer-sketch .vector-34 {
+  position: absolute;
+  top: 80px;
+  right: 60px;
+  width: 8px;
+  height: 8px;
+}
+.part-time-pal-listings-page-employer-sketch .bxedit-3 {
+  margin-top: 33px;
+  width: 24px;
+  height: 24px;
+}
+.part-time-pal-listings-page-employer-sketch .listing-title-3 {
+  margin: 34.5px 0 2.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .notification-2 {
+  border-radius: 18px;
+  background: #FF6F6F;
+  position: relative;
+  margin-bottom: 21px;
+  display: flex;
+  padding: 8px 6px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-4 {
+  position: relative;
+  margin: 0 0 2px 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 356px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .select-button-3 {
+  border-radius: 3px;
+  border: 0.5px solid #000000;
+  margin: 0 15px 18px 0;
+  width: 20px;
+  height: 20px;
+}
+.part-time-pal-listings-page-employer-sketch .listing-description-3 {
+  margin-top: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .container-30 {
+  margin: 18px 0 13.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .vector-33 {
+  width: 4.5px;
+  height: 9.8px;
+}
+.part-time-pal-listings-page-employer-sketch .iconoirdollar-3 {
+  margin: 4.6px 4.4px 5.6px 0;
+  display: flex;
+  width: 4.5px;
+  height: 9.8px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .pay-rate-3 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .pay-tag-3 {
+  margin: 0 0.2px 12px 0.2px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .ionlocation-3 {
+  width: 12px;
+  height: 12px;
+}
+.part-time-pal-listings-page-employer-sketch .location-tag-3 {
+  margin: 0 6px 5px 0;
+  display: flex;
+  align-self: center;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .s-6 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-21 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.8px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .m-3 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-22 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .ellipse-1623 {
+  border-radius: 5px;
+  background: #9E9E9E;
+  position: absolute;
+  left: 50%;
+  top: 5px;
+  translate: -50% 0;
+  width: 10px;
+  height: 10px;
+}
+.part-time-pal-listings-page-employer-sketch .t-3 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #FFFCFC;
+}
+.part-time-pal-listings-page-employer-sketch .day-23 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.9px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .w-3 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-24 {
+  position: relative;
+  margin-top: 0.5px;
+  display: flex;
+  padding: 0 1px 0 1.3px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .ellipse-1625 {
+  border-radius: 5px;
+  background: #9E9E9E;
+  position: absolute;
+  left: 50%;
+  top: 5px;
+  translate: -50% 0;
+  width: 10px;
+  height: 10px;
+}
+.part-time-pal-listings-page-employer-sketch .r-3 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .day-25 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.7px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .f-3 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-26 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 3.1px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .s-7 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 2.857;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .day-27 {
+  position: relative;
+  margin-bottom: 0.5px;
+  display: flex;
+  padding: 0 2.8px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .week-3 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-25 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .hours-3 {
+  position: absolute;
+  top: 15px;
+  right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .location-3 {
+  position: absolute;
+  right: 0.1px;
+  bottom: 21.5px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.part-time-pal-listings-page-employer-sketch .container-15 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-1 {
+  position: relative;
+  margin: 0 29px 5.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 359px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .view-applicants-5 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .container-24 {
+  border-radius: 0 0 10px 0;
+  border-left: 0.1px solid #000000;
+  border-right: 0.1px solid #000000;
+  border-bottom: 0.1px solid #000000;
+  background: #6B93FB;
+  position: relative;
+  display: flex;
+  padding: 0 0.5px 1px 0;
+  width: 174.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .view-applicants-4 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 2;
+  color: #FFFFFF;
+}
+.part-time-pal-listings-page-employer-sketch .container-19 {
+  border-radius: 0 0 0 10px;
+  border-left: 0.1px solid #000000;
+  border-right: 0.1px solid #000000;
+  border-bottom: 0.1px solid #000000;
+  background: #FF6E6E;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 0 0.5px 1px 0;
+  width: 174.5px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .view-applicants-unpublish-button-2 {
+  border-radius: 0 0 10px 10px;
+  position: relative;
+  margin: 0 18.5px 0 21px;
+  display: flex;
+  width: 348.5px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .listing-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 388px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .listings {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: 388px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .body {
+  margin-left: 2px;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 2px);
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-12 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 491px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .line-29 {
+  background: #E5E5E5;
+  position: absolute;
+  left: -1px;
+  bottom: 97px;
+  width: 393px;
+  height: 1px;
+}
+.part-time-pal-listings-page-employer-sketch .vector-8 {
+  width: 26.7px;
+  height: 26.7px;
+}
+.part-time-pal-listings-page-employer-sketch .help {
+  margin: 2.7px 0;
+  display: flex;
+  width: 26.7px;
+  height: 26.7px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .vector-9 {
+  width: 21.3px;
+  height: 27.4px;
+}
+.part-time-pal-listings-page-employer-sketch .listings-1 {
+  margin: 2.7px 0 2px 0;
+  display: flex;
+  width: 21.3px;
+  height: 27.4px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .vector-10 {
+  width: 26.7px;
+  height: 22.7px;
+}
+.part-time-pal-listings-page-employer-sketch .home {
+  margin: 4px 0 5.3px 0;
+  display: flex;
+  width: 26.7px;
+  height: 22.7px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .vector-11 {
+  width: 26px;
+  height: 18px;
+}
+.part-time-pal-listings-page-employer-sketch .messages {
+  margin: 7px 0;
+  display: flex;
+  width: 26px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .formkitpeople {
+  width: 32px;
+  height: 32px;
+}
+.part-time-pal-listings-page-employer-sketch .employees {
+  display: flex;
+  width: 32px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .menu-items {
+  position: absolute;
+  left: 38.2px;
+  top: 14px;
+  right: 33.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .help-1 {
+  margin: 1px 10px 0 0;
+  display: inline-block;
+  width: 58px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .listings-2 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .home-1 {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .messages-1 {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .employees-1 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.part-time-pal-listings-page-employer-sketch .footer-option-titles {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 327px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch .container-29 {
+  background: #FFFFFF;
+  position: absolute;
+  left: -1px;
+  bottom: 0px;
+  display: flex;
+  padding: 43px 25.9px 34px 25.9px;
+  width: 393px;
+  height: 98px;
+  box-sizing: border-box;
+}
+.part-time-pal-listings-page-employer-sketch {
+  background: #FFFFFF;
+  display: flex;
+  box-sizing: border-box;
+}

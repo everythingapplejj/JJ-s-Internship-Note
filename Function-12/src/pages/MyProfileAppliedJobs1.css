@@ -1,0 +1,1535 @@
+.my-profile-applied-jobs-1 .vector {
+  width: 16px;
+  height: 14px;
+}
+.my-profile-applied-jobs-1 .bars-outline {
+  margin: 11px 20px 11px 0;
+  display: flex;
+  width: 16px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .flowbite {
+  overflow-wrap: break-word;
+  font-family: 'Literata';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #233876;
+}
+.my-profile-applied-jobs-1 .logo {
+  display: flex;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004408 {
+  margin: 14.5px 24.4px 14.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-1 {
+  width: 13.5px;
+  height: 13.5px;
+}
+.my-profile-applied-jobs-1 .search-outline {
+  margin: 2.3px 10.3px 2.3px 0;
+  display: flex;
+  width: 13.5px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .quick-search-for-anything {
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: var(--gray-500, #6B7280);
+}
+.my-profile-applied-jobs-1 .autocomplete-input {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--gray-501, #F9FAFB);
+  display: flex;
+  flex-direction: row;
+  padding: 22.5px 0 22.5px 17.3px;
+  width: 655px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004409 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-8 {
+  margin-right: 12.3px;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #6B7280;
+}
+.my-profile-applied-jobs-1 .vector-2 {
+  width: 11.7px;
+  height: 6.7px;
+}
+.my-profile-applied-jobs-1 .chevron-down-1 {
+  margin: 7.2px 0;
+  display: flex;
+  width: 11.7px;
+  height: 6.7px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .button-5 {
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #F9FAFB;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 10px 20px;
+  width: 180px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .dropdown-buttons {
+  margin: 12px 0;
+  display: flex;
+  width: 180px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004410 {
+  border-bottom: 1px solid #E5E7EB;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 28px 40px 27px 44px;
+  width: 1728px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .rectangle-2757 {
+  border-radius: 8px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 100px;
+}
+.my-profile-applied-jobs-1 .avatar-notification-dot {
+  border-radius: 15px;
+  border: 2px solid var(--white-4, #FFFFFF);
+  background: var(--green-400, #31C48D);
+  width: 20px;
+  height: 20px;
+}
+.my-profile-applied-jobs-1 .avatar {
+  border-radius: 100px;
+  background: var(--avatar-jese-leos, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat);
+  margin-right: 24px;
+  display: flex;
+  padding: 0 2px;
+  width: 80px;
+  height: 80px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .john-doe {
+  margin: 22px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #111928;
+}
+.my-profile-applied-jobs-1 .frame-1000004411 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .group-1029 {
+  position: relative;
+  margin-bottom: 30px;
+  padding: 39px 14px 0 14px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-7 {
+  width: 20px;
+  height: 14px;
+}
+.my-profile-applied-jobs-1 .eye-outline {
+  margin: 5px 14px 5px 0;
+  display: flex;
+  width: 20px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .open-to-work-employers-can-find-you {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #046C4E;
+}
+.my-profile-applied-jobs-1 .frame-1000004416 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-8 {
+  width: 9.3px;
+  height: 5.3px;
+}
+.my-profile-applied-jobs-1 .chevron-down {
+  margin: 9.3px 0;
+  display: flex;
+  width: 9.3px;
+  height: 5.3px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004417 {
+  border-radius: 4px;
+  border: 1px solid #DEF7EC;
+  background: #F3FAF7;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 10.3px 5px 9px;
+  width: 441px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004418 {
+  margin-bottom: 58px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-9 {
+  width: 14px;
+  height: 20px;
+}
+.my-profile-applied-jobs-1 .user-outline {
+  margin: 5px 17px 5px 0;
+  display: flex;
+  width: 14px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .my-profile {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1F2A37;
+}
+.my-profile-applied-jobs-1 .frame-1000004412 {
+  border-radius: 8px;
+  margin: 0 13px 46px 13px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-10 {
+  width: 16px;
+  height: 20px;
+}
+.my-profile-applied-jobs-1 .hourglass-outline {
+  margin: 5px 16px 5px 0;
+  display: flex;
+  width: 16px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .my-schedule {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1F2A37;
+}
+.my-profile-applied-jobs-1 .frame-1000004419 {
+  margin: 0 12px 38px 12px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-11 {
+  width: 20px;
+  height: 20px;
+}
+.my-profile-applied-jobs-1 .upload-outline {
+  margin: 5px 14px 5px 0;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .applied-jobs {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1C64F2;
+}
+.my-profile-applied-jobs-1 .frame-1000004415 {
+  border-radius: 8px;
+  background: #E1EFFE;
+  margin-bottom: 38px;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 0 8px 10px;
+  width: 441px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-12 {
+  width: 20px;
+  height: 18px;
+}
+.my-profile-applied-jobs-1 .heart-outline {
+  margin: 6px 14px 6px 0;
+  display: flex;
+  width: 20px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .saved-companies-jobs {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1F2A37;
+}
+.my-profile-applied-jobs-1 .frame-1000004414 {
+  margin: 0 10px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004420 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004421 {
+  margin: 0 100px 306px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .applied-jobs-1 {
+  margin-bottom: 48px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .avatar-1 {
+  border-radius: 100px;
+  background: url('assets/images/Image42.png') 50% / cover no-repeat, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat;
+  margin: 0 23px 32.5px 0;
+  width: 74px;
+  height: 74px;
+}
+.my-profile-applied-jobs-1 .text-11 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: #1C64F2;
+}
+.my-profile-applied-jobs-1 .badge {
+  border-radius: 6px;
+  border: 0.5px solid #1A56DB;
+  margin-bottom: 6px;
+  display: flex;
+  align-self: flex-start;
+  padding: 2px 10.1px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .starbucks {
+  opacity: 0.5;
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .barista {
+  opacity: 0.5;
+  margin-bottom: 10.5px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .text {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.text-sub5 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.333;
+}
+.text {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.333;
+}
+.my-profile-applied-jobs-1 .frame-1000004441 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004444 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-10 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.my-profile-applied-jobs-1 .button-1 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin-right: 38.5px;
+  padding: 10px 20px;
+  width: 136px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-14 {
+  width: 22px;
+  height: 19.3px;
+}
+.my-profile-applied-jobs-1 .bars {
+  margin: 10.9px 0;
+  display: flex;
+  width: 22px;
+  height: 19.3px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004440 {
+  margin-bottom: 65.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .container-2 {
+  margin-bottom: 22.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 936.5px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-13 {
+  width: 6.7px;
+  height: 13.3px;
+}
+.my-profile-applied-jobs-1 .dollar {
+  margin: 3.8px 8.9px 3.8px 0;
+  display: flex;
+  width: 6.7px;
+  height: 13.3px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.my-profile-applied-jobs-1 .badge-1 {
+  border-radius: 6px;
+  background: var(--gray-100, #F3F4F6);
+  display: flex;
+  flex-direction: row;
+  padding: 2px 12.3px 2px 16.7px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-12 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.my-profile-applied-jobs-1 .badge-2 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  padding: 2px 12px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-13 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.my-profile-applied-jobs-1 .badge-3 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  padding: 2px 12.1px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-14 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.my-profile-applied-jobs-1 .badge-4 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  padding: 2px 12.4px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004442 {
+  margin-right: 351.5px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004445 {
+  box-shadow: 3px 4px 6.2px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  border: 0.5px solid #D9D9D9;
+  background: #FFFFFF;
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25.5px 65px 25.5px 24.5px;
+  width: 1027px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .avatar-2 {
+  border-radius: 100px;
+  background: url('assets/images/Image42.png') 50% / cover no-repeat, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat;
+  margin: 0 23px 32.5px 0;
+  width: 74px;
+  height: 74px;
+}
+.my-profile-applied-jobs-1 .text-15 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: #1C64F2;
+}
+.my-profile-applied-jobs-1 .badge-5 {
+  border-radius: 6px;
+  border: 0.5px solid #1A56DB;
+  margin-bottom: 6px;
+  display: flex;
+  align-self: flex-start;
+  padding: 2px 10.1px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .starbucks-1 {
+  opacity: 0.5;
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .barista-1 {
+  opacity: 0.5;
+  margin-bottom: 10.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.text-2 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.333;
+}
+.my-profile-applied-jobs-1 .text-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.text-2-sub5 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.333;
+}
+.my-profile-applied-jobs-1 .frame-10000044411 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-10000044441 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-16 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.my-profile-applied-jobs-1 .button-2 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin-right: 38.5px;
+  padding: 10px 20px;
+  width: 136px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-15 {
+  width: 22px;
+  height: 19.3px;
+}
+.my-profile-applied-jobs-1 .bars-1 {
+  margin: 10.9px 0;
+  display: flex;
+  width: 22px;
+  height: 19.3px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-10000044401 {
+  margin-bottom: 65.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .container-6 {
+  margin-bottom: 22.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 936.5px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-16 {
+  width: 6.7px;
+  height: 13.3px;
+}
+.my-profile-applied-jobs-1 .dollar-1 {
+  margin: 3.8px 8.9px 3.8px 0;
+  display: flex;
+  width: 6.7px;
+  height: 13.3px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-3 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.my-profile-applied-jobs-1 .badge-6 {
+  border-radius: 6px;
+  background: var(--gray-100, #F3F4F6);
+  display: flex;
+  flex-direction: row;
+  padding: 2px 12.3px 2px 16.7px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-17 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.my-profile-applied-jobs-1 .badge-7 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  padding: 2px 12px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-18 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.my-profile-applied-jobs-1 .badge-8 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  padding: 2px 12.1px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-19 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.my-profile-applied-jobs-1 .badge-9 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  padding: 2px 12.4px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-10000044421 {
+  margin-right: 351.5px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004446 {
+  box-shadow: 3px 4px 6.2px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  border: 0.5px solid #D9D9D9;
+  background: #FFFFFF;
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25.5px 65px 25.5px 24.5px;
+  width: 1027px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .avatar-3 {
+  border-radius: 100px;
+  background: url('assets/images/Image42.png') 50% / cover no-repeat, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat;
+  margin: 0 23px 32.5px 0;
+  width: 74px;
+  height: 74px;
+}
+.my-profile-applied-jobs-1 .text-20 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: #1C64F2;
+}
+.my-profile-applied-jobs-1 .badge-10 {
+  border-radius: 6px;
+  border: 0.5px solid #1A56DB;
+  margin-bottom: 6px;
+  display: flex;
+  align-self: flex-start;
+  padding: 2px 10.1px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .starbucks-2 {
+  opacity: 0.5;
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .barista-2 {
+  opacity: 0.5;
+  margin-bottom: 10.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .text-4 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.text-4-sub5 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.333;
+}
+.text-4 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.333;
+}
+.my-profile-applied-jobs-1 .frame-10000044412 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-10000044442 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-21 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.my-profile-applied-jobs-1 .button-3 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin-right: 38.5px;
+  padding: 10px 20px;
+  width: 136px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-17 {
+  width: 22px;
+  height: 19.3px;
+}
+.my-profile-applied-jobs-1 .bars-2 {
+  margin: 10.9px 0;
+  display: flex;
+  width: 22px;
+  height: 19.3px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-10000044402 {
+  margin-bottom: 65.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .container-7 {
+  margin-bottom: 22.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 936.5px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-18 {
+  width: 6.7px;
+  height: 13.3px;
+}
+.my-profile-applied-jobs-1 .dollar-2 {
+  margin: 3.8px 8.9px 3.8px 0;
+  display: flex;
+  width: 6.7px;
+  height: 13.3px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-5 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.my-profile-applied-jobs-1 .badge-11 {
+  border-radius: 6px;
+  background: var(--gray-100, #F3F4F6);
+  display: flex;
+  flex-direction: row;
+  padding: 2px 12.3px 2px 16.7px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-22 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.my-profile-applied-jobs-1 .badge-12 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  padding: 2px 12px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-23 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.my-profile-applied-jobs-1 .badge-13 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  padding: 2px 12.1px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-24 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.my-profile-applied-jobs-1 .badge-14 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  padding: 2px 12.4px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-10000044422 {
+  margin-right: 351.5px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004447 {
+  box-shadow: 3px 4px 6.2px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  border: 0.5px solid #D9D9D9;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25.5px 65px 25.5px 24.5px;
+  width: 1027px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .avatar-4 {
+  border-radius: 100px;
+  background: url('assets/images/Image42.png') 50% / cover no-repeat, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat;
+  margin: 0 23px 32.5px 0;
+  width: 74px;
+  height: 74px;
+}
+.my-profile-applied-jobs-1 .text-25 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: #1C64F2;
+}
+.my-profile-applied-jobs-1 .badge-15 {
+  border-radius: 6px;
+  border: 0.5px solid #1A56DB;
+  margin-bottom: 6px;
+  display: flex;
+  align-self: flex-start;
+  padding: 2px 10.1px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .starbucks-3 {
+  opacity: 0.5;
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .barista-3 {
+  opacity: 0.5;
+  margin-bottom: 10.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.text-6-sub5 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.333;
+}
+.text-6 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.333;
+}
+.my-profile-applied-jobs-1 .text-6 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.my-profile-applied-jobs-1 .frame-10000044413 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-10000044443 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-26 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.my-profile-applied-jobs-1 .button-4 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin-right: 38.5px;
+  padding: 10px 20px;
+  width: 136px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-19 {
+  width: 22px;
+  height: 19.3px;
+}
+.my-profile-applied-jobs-1 .bars-3 {
+  margin: 10.9px 0;
+  display: flex;
+  width: 22px;
+  height: 19.3px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-10000044403 {
+  margin-bottom: 65.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .container-3 {
+  margin-bottom: 22.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 936.5px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-20 {
+  width: 6.7px;
+  height: 13.3px;
+}
+.my-profile-applied-jobs-1 .dollar-3 {
+  margin: 3.8px 8.9px 3.8px 0;
+  display: flex;
+  width: 6.7px;
+  height: 13.3px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-7 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.my-profile-applied-jobs-1 .badge-16 {
+  border-radius: 6px;
+  background: var(--gray-100, #F3F4F6);
+  display: flex;
+  flex-direction: row;
+  padding: 2px 12.3px 2px 16.7px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-27 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.my-profile-applied-jobs-1 .badge-17 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  padding: 2px 12px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-28 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.my-profile-applied-jobs-1 .badge-18 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  padding: 2px 12.1px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-29 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.my-profile-applied-jobs-1 .badge-19 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  padding: 2px 12.4px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-10000044423 {
+  margin-right: 351.5px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004448 {
+  box-shadow: 3px 4px 6.2px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  border: 0.5px solid #D9D9D9;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25.5px 65px 25.5px 24.5px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004426 {
+  position: relative;
+  display: flex;
+  height: 1061px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004428 {
+  margin: 0 80px 449px 80px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .default {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #111928;
+}
+.my-profile-applied-jobs-1 .vector-3 {
+  width: 16px;
+  height: 20px;
+}
+.my-profile-applied-jobs-1 .file-lines {
+  margin: 6.5px 16px 6.5px 0;
+  display: flex;
+  width: 16px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .john-resume-ny-pdf {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .updated-on-4162024 {
+  margin-right: 14.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.my-profile-applied-jobs-1 .frame-1000004364 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004370 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .preview {
+  margin: 7.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 559.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .default-1 {
+  position: absolute;
+  left: 0px;
+  bottom: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #111928;
+}
+.my-profile-applied-jobs-1 .frame-1000004365 {
+  border-radius: 4px;
+  border: 1px solid #1C64F2;
+  background: #E5EDFF;
+  position: relative;
+  margin-bottom: 6px;
+  display: flex;
+  padding: 11px 13.4px 11px 17px;
+  width: 592px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-4 {
+  width: 16px;
+  height: 20px;
+}
+.my-profile-applied-jobs-1 .file-lines-1 {
+  margin: 6.5px 16px 6.5px 0;
+  display: flex;
+  width: 16px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .john-resume-nj-pdf {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .updated-on-3162024 {
+  margin-right: 13.4px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.my-profile-applied-jobs-1 .frame-10000043641 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004371 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .preview-1 {
+  margin: 7.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .frame-1000004368 {
+  border-radius: 4px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 13.4px 11px 17px;
+  width: 592px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 592px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-5 {
+  width: 16px;
+  height: 20px;
+}
+.my-profile-applied-jobs-1 .file-lines-2 {
+  margin: 6.5px 16px 6.5px 0;
+  display: flex;
+  width: 16px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .john-resume-ny-pdf-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .updated-on-41620241 {
+  margin-right: 14.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.my-profile-applied-jobs-1 .frame-10000043642 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-10000043701 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .preview-2 {
+  margin: 7.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .frame-10000043651 {
+  border-radius: 4px;
+  border: 1px solid #1C64F2;
+  background: #E5EDFF;
+  position: absolute;
+  left: 50%;
+  bottom: 13px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 13.4px 11px 17px;
+  width: 592px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004369 {
+  position: relative;
+  display: flex;
+  width: 592px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-1000004378 {
+  margin: 0 0 62px 240px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .text-9 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: #1C64F2;
+}
+.my-profile-applied-jobs-1 .button {
+  border-radius: 8px;
+  border: 1px solid #1C64F2;
+  margin-right: 225px;
+  display: flex;
+  padding: 9px 19.4px 9px 19px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .vector-6 {
+  width: 16px;
+  height: 20px;
+}
+.my-profile-applied-jobs-1 .file-lines-3 {
+  margin: 6.5px 16px 6.5px 0;
+  display: flex;
+  width: 16px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .john-resume-nj-pdf-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .updated-on-31620241 {
+  margin-right: 13.4px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.my-profile-applied-jobs-1 .frame-10000043643 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .frame-10000043711 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs-1 .preview-3 {
+  margin: 7.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile-applied-jobs-1 .frame-10000043681 {
+  border-radius: 4px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: absolute;
+  right: 448px;
+  bottom: -479px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 13.4px 11px 17px;
+  width: 592px;
+  box-sizing: border-box;
+}
+.my-profile-applied-jobs {
+  background: #FFFFFF;
+  display: flex;
+  width: 1728px;
+  box-sizing: border-box;
+}

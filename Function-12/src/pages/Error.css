@@ -1,0 +1,14 @@
+.error .error-page {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 128px;
+  line-height: 0.109;
+  color: #FFFFFF;
+}
+.error {
+  background: #32BC42;
+  padding: 85px 0 92px 0;
+  width: 1229px;
+  box-sizing: border-box;
+}

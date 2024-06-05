@@ -1,0 +1,178 @@
+.blush-email .logo-1 {
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 700;
+  font-size: 36px;
+  color: #000000;
+}
+.blush-email .logo {
+  margin: 0 0 55px 1px;
+  display: flex;
+  box-sizing: border-box;
+}
+.blush-email .title {
+  margin-bottom: 24px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--big-title-font-family, 'Noto Sans');
+  font-weight: var(--big-title-font-weight, 700);
+  font-size: var(--big-title-font-size, 36px);
+  color: #000000;
+}
+.blush-email .text {
+  margin-bottom: 22px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--texts-font-family, 'Noto Sans');
+  font-weight: var(--texts-font-weight, 400);
+  font-size: var(--texts-font-size, 19px);
+  line-height: var(--texts-line-height, 1.263);
+  color: #000000;
+}
+.text-sub1 {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 1.333;
+}
+.blush-email .try-it-now {
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.143;
+  color: #000000;
+}
+.blush-email .button {
+  border-radius: 4px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 12px;
+  box-sizing: border-box;
+}
+.blush-email .heroes {
+  margin-bottom: 100.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.blush-email .corporation {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Noto Nastaliq Urdu';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.425;
+  color: #000000;
+}
+.blush-email .you-are-receivieng-this-email-because-you-opted-in-via-our-website {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.425;
+  color: #000000;
+}
+.blush-email .container {
+  margin-bottom: 11px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.blush-email .vector {
+  width: 18px;
+  height: 14px;
+}
+.blush-email .hrefhttpstwitter-comblushdesignapp {
+  margin: 2px 0;
+  display: flex;
+  width: 18px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.blush-email .shape {
+  width: 18px;
+  height: 18px;
+}
+.blush-email .hrefhttpswww-instagram-comblushdesignapp {
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.blush-email .shape-1 {
+  width: 18px;
+  height: 18px;
+}
+.blush-email .hrefhttpswww-linkedin-comcompanyblush-design {
+  display: flex;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.blush-email .social-container {
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 118px;
+  box-sizing: border-box;
+}
+.blush-email .hrefemail-blush-designunsuscribe {
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-size: 13px;
+  text-decoration-line: underline;
+  line-height: 1.425;
+  color: #000000;
+}
+.blush-email .container-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.blush-email .info {
+  margin-bottom: 37px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.blush-email .logo-3 {
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans';
+  font-weight: 700;
+  font-size: 26.6px;
+  color: #000000;
+}
+.blush-email .logo-2 {
+  margin-left: 0.8px;
+  display: flex;
+  box-sizing: border-box;
+}
+.blush-email .footer {
+  margin-left: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.blush-email {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 36px 0 13.3px 0;
+  box-sizing: border-box;
+}

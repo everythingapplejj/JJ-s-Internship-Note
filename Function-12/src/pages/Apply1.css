@@ -1,0 +1,614 @@
+.apply-1 .logo {
+  margin-right: 30px;
+  width: 1281px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: -0.4px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .vector-5 {
+  width: 30px;
+  height: 20px;
+}
+.apply-1 .material-symbolsmenu {
+  margin: 20px 0;
+  display: flex;
+  width: 30px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.apply-1 .container-2 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 54px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 42px 19px 57px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.apply-1 .application-compass-coffee-barista {
+  margin: 0 29px 50px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 32px;
+  letter-spacing: -0.4px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .applicant-information {
+  margin: 0 0 20px 5.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .resume {
+  margin: 0 804.6px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .attached-my-resume-pdf {
+  margin-right: 18px;
+  width: 802.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .vector {
+  width: 22.3px;
+  height: 15px;
+}
+.apply-1 .ant-designdown-outlined {
+  margin: 10.5px 0;
+  display: flex;
+  width: 22.3px;
+  height: 15px;
+  box-sizing: border-box;
+}
+.apply-1 .frame-427318923 {
+  border: 1px solid #000000;
+  background: #D9D9D9;
+  margin: 0 0 25px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 42.9px 9px 39px;
+  width: 927px;
+  box-sizing: border-box;
+}
+.apply-1 .full-name-1 {
+  margin: 0 788.1px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .full-name {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.apply-1 .frame-427318913 {
+  border: 1px solid #000000;
+  margin: 0 0 25px 1px;
+  padding: 9px 39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.apply-1 .email-1 {
+  margin: 0 834.7px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .email {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.apply-1 .frame-427318924 {
+  border: 1px solid #000000;
+  margin: 0 0 25px 1px;
+  padding: 9px 39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.apply-1 .phone-1 {
+  margin: 0 841.3px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .phone {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.apply-1 .frame-427318925 {
+  border: 1px solid #000000;
+  margin: 0 0 25px 1px;
+  padding: 9px 39px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.apply-1 .current-location {
+  margin: 0 733.9px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .should-be-required {
+  margin-right: 36px;
+  width: 189px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .city-state {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.apply-1 .frame-427318926 {
+  border: 1px solid #000000;
+  margin-bottom: 16px;
+  padding: 9px 39px;
+  width: 927px;
+  box-sizing: border-box;
+}
+.apply-1 .container-3 {
+  margin: 0 32px 19px 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1152px;
+  box-sizing: border-box;
+}
+.apply-1 .also-do-we-need-fields-for-experience-skills-education {
+  margin: 9px 37px 17px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .about {
+  margin: 0 7px 12px 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .frame-427318935 {
+  border: 1px solid #000000;
+  margin-bottom: 26px;
+  width: 927px;
+  height: 96px;
+}
+.apply-1 .application-questions {
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .container-6 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.apply-1 .container {
+  margin: 0 32px 37px 32px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.apply-1 .why-do-you-want-to-work-at-compass-coffee {
+  margin: 0 379.5px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .frame-427318928 {
+  border: 1px solid #000000;
+  margin: 0 0 25px 1px;
+  width: 927px;
+  height: 56px;
+}
+.apply-1 .how-many-hours-are-you-looking-to-work {
+  margin: 0 442.7px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .select {
+  margin-right: 18px;
+  width: 802.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.apply-1 .vector-1 {
+  width: 22.3px;
+  height: 15px;
+}
+.apply-1 .ant-designdown-outlined-1 {
+  margin: 10.5px 0;
+  display: flex;
+  width: 22.3px;
+  height: 15px;
+  box-sizing: border-box;
+}
+.apply-1 .frame-427318929 {
+  border: 1px solid #000000;
+  margin: 0 0 25px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 42.9px 9px 39px;
+  width: 927px;
+  box-sizing: border-box;
+}
+.apply-1 .tell-us-3-top-qualities-that-you-have-that-will-make-you-agreat-barista {
+  margin: 0 123.5px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .frame-427318930 {
+  border: 1px solid #000000;
+  margin: 0 0 75px 1px;
+  width: 927px;
+  height: 213px;
+}
+.apply-1 .usequal-opportunity-employment-information-completion-is-voluntary {
+  margin: 0 0 25px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .individuals-seeking-employment-atour-companyare-considered-without-regards-to-race-color-religion-national-origin-age-sex-marital-status-ancestry-physical-or-mental-disability-veteran-status-gender-identity-or-sexual-orientation-you-are-being-given-the-opportunity-to-provide-the-following-information-in-order-to-help-us-comply-with-federal-and-state-equal-employment-opportunity-affirmative-action-record-keeping-reporting-and-other-legal-requirements-completion-of-the-form-is-entirely-voluntary-whatever-your-decision-it-will-not-be-considered-in-the-hiring-process-or-thereafter-any-information-that-you-do-provide-will-be-recorded-and-maintained-in-aconfidential-file {
+  margin: 0 10.5px 25px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .gender {
+  margin: 0 829.7px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .frame-427318931 {
+  border: 1px solid #000000;
+  margin: 0 0 25px 1px;
+  width: 927px;
+  height: 56px;
+}
+.apply-1 .please-identify-your-race {
+  margin: 0 638.1px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .select-1 {
+  margin-right: 18px;
+  width: 802.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.apply-1 .vector-2 {
+  width: 22.3px;
+  height: 15px;
+}
+.apply-1 .ant-designdown-outlined-2 {
+  margin: 10.5px 0;
+  display: flex;
+  width: 22.3px;
+  height: 15px;
+  box-sizing: border-box;
+}
+.apply-1 .frame-427318932 {
+  border: 1px solid #000000;
+  margin: 0 0 25px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 42.9px 9px 39px;
+  width: 927px;
+  box-sizing: border-box;
+}
+.apply-1 .are-you-hispanic-latino {
+  margin: 0 636.9px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .another-long-paragraph-here {
+  margin: 46px 72.5px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .select-2 {
+  margin-right: 18px;
+  width: 802.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.apply-1 .vector-3 {
+  width: 22.3px;
+  height: 15px;
+}
+.apply-1 .ant-designdown-outlined-3 {
+  margin: 10.5px 0;
+  display: flex;
+  width: 22.3px;
+  height: 15px;
+  box-sizing: border-box;
+}
+.apply-1 .frame-427318933 {
+  border: 1px solid #000000;
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 42.9px 9px 39px;
+  width: 927px;
+  box-sizing: border-box;
+}
+.apply-1 .veteran-status {
+  margin: 0 7px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .container-1 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.apply-1 .container-4 {
+  margin: 0 14px 13px 14px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.apply-1 .select-3 {
+  margin-right: 18px;
+  width: 802.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.apply-1 .vector-4 {
+  width: 22.3px;
+  height: 15px;
+}
+.apply-1 .ant-designdown-outlined-4 {
+  margin: 10.5px 0;
+  display: flex;
+  width: 22.3px;
+  height: 15px;
+  box-sizing: border-box;
+}
+.apply-1 .frame-427318934 {
+  border: 1px solid #000000;
+  margin: 0 0 56px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 42.9px 9px 39px;
+  width: 927px;
+  box-sizing: border-box;
+}
+.apply-1 .more-long-paragraphs {
+  margin: 34px 36px 37px 0;
+  display: inline-block;
+  width: 444.3px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .voluntary-self-identification-of-disability {
+  margin-bottom: 51px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .submit {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: -0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.apply-1 .frame-427318911 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  background: #9E9E9E;
+  display: flex;
+  padding: 9px 0.9px 9px 0;
+  width: 159px;
+  box-sizing: border-box;
+}
+.apply-1 .container-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.apply-1 .container-7 {
+  margin: 0 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 932.7px;
+  box-sizing: border-box;
+}
+.apply {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 93px;
+  width: 1440px;
+  box-sizing: border-box;
+}

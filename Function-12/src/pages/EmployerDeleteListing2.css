@@ -1,0 +1,662 @@
+.employer-delete-listing-2 .close-btn {
+  border-radius: 8.1px;
+  background: #FC615C;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-delete-listing-2 .restore-btn {
+  border-radius: 8.1px;
+  background: #FDBE40;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-delete-listing-2 .minimize-btn {
+  border-radius: 8.1px;
+  background: #34CA49;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-delete-listing-2 .action-bttn {
+  margin: 5.4px 17.5px 8.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 70.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .arrow {
+  width: 6.8px;
+  height: 13.5px;
+}
+.employer-delete-listing-2 .prev-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 2.7px;
+  display: flex;
+  padding: 8.1px 13.5px 8.1px 12.2px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .arrow-1 {
+  width: 6.8px;
+  height: 13.5px;
+}
+.employer-delete-listing-2 .prev-btn-2 {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 14.9px;
+  display: flex;
+  padding: 8.1px 12.1px 8.1px 13.5px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .option-btn {
+  width: 50px;
+  height: 29.7px;
+}
+.employer-delete-listing-2 .container-2 {
+  margin-bottom: 9.4px;
+  display: flex;
+  flex-direction: row;
+  width: 220px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .safaribrowser {
+  margin: 3px 7px 0 0;
+  display: inline-block;
+  width: 583px;
+  overflow-wrap: break-word;
+  font-family: 'SF Compact Display', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.employer-delete-listing-2 .refresh {
+  margin-bottom: 5px;
+  width: 10px;
+  height: 12px;
+}
+.employer-delete-listing-2 .address-bar {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 7px 0 0;
+  width: 1143px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .share {
+  width: 13.5px;
+  height: 18.9px;
+}
+.employer-delete-listing-2 .share-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 10.8px 9.4px 0;
+  display: flex;
+  padding: 4.7px 18.2px 6.1px 18.2px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .view {
+  width: 14.9px;
+  height: 14.9px;
+}
+.employer-delete-listing-2 .view-search-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 17.5px 9.4px 0;
+  display: flex;
+  padding: 7.4px 17.6px 7.4px 17.5px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .add-btn {
+  margin-top: 6.7px;
+  width: 32.4px;
+  height: 32.4px;
+}
+.employer-delete-listing-2 .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: 160.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .web-bar {
+  box-shadow: 0px 1px 0px 0px #B5B4B5;
+  border-radius: 5px 5px 0 0;
+  background: linear-gradient(180deg, #EBEAEB, #D7D6D7);
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 42.8px 0px 0.1px 17.6px;
+  width: 1728px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .rectangle-148 {
+  background: url('assets/images/Rectangle148.png') 50% / cover no-repeat;
+  margin-bottom: 42px;
+  align-self: flex-start;
+  width: 255px;
+  height: 62px;
+}
+.employer-delete-listing-2 .pages {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.employer-delete-listing-2 .overview {
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .vector-5 {
+  width: 22.5px;
+  height: 22.5px;
+}
+.employer-delete-listing-2 .grid {
+  margin: 3.8px 11.8px 3.8px 0;
+  display: flex;
+  width: 22.5px;
+  height: 22.5px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .suporting-text {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.employer-delete-listing-2 .list-item {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .vector-6 {
+  width: 20px;
+  height: 25px;
+}
+.employer-delete-listing-2 .bell {
+  margin: 2.5px 13px 2.5px 0;
+  display: flex;
+  width: 20px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .suporting-text-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.employer-delete-listing-2 .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .container {
+  position: absolute;
+  right: 7.2px;
+  bottom: 5px;
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-smfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-smfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-smfont-medium-font-size, 14px);
+  line-height: var(--leading-nonetext-smfont-medium-line-height, 1);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-delete-listing-2 .indicators {
+  border-radius: 12px;
+  background: #31C48D;
+  position: relative;
+  margin: 3px 0;
+  width: 24px;
+  height: 24px;
+}
+.employer-delete-listing-2 .list-item-1 {
+  margin-left: 1.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 316px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .list {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  padding: 19px 16px 19px 19.8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .frame-1000004346 {
+  margin: 0 1px 103px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .pages-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.employer-delete-listing-2 .manage-listings {
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .vector-7 {
+  width: 17.5px;
+  height: 17.5px;
+}
+.employer-delete-listing-2 .plus {
+  margin: 6.3px 14.3px 6.3px 0;
+  display: flex;
+  width: 17.5px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .suporting-text-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #FACA15;
+}
+.employer-delete-listing-2 .list-item-2 {
+  margin: 0 3.8px 32px 3.8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .vector-8 {
+  width: 20px;
+  height: 17.5px;
+}
+.employer-delete-listing-2 .bars-outline {
+  margin: 6.3px 13px 6.3px 0;
+  display: flex;
+  width: 20px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .suporting-text-3 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.employer-delete-listing-2 .list-item-3 {
+  margin: 0 2.5px 32px 2.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .vector-9 {
+  width: 25px;
+  height: 25px;
+}
+.employer-delete-listing-2 .users {
+  margin: 2.5px 10.5px 2.5px 0;
+  display: flex;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .suporting-text-4 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.employer-delete-listing-2 .list-item-4 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .list-1 {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  padding: 24px 0 24px 18.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .frame-1000004347 {
+  margin-bottom: 103px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .pages-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.employer-delete-listing-2 .manage-account {
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .vector-10 {
+  width: 17.5px;
+  height: 25px;
+}
+.employer-delete-listing-2 .user {
+  margin: 2.5px 14.3px 2.5px 0;
+  display: flex;
+  width: 17.5px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .suporting-text-5 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.employer-delete-listing-2 .list-item-5 {
+  margin: 0 1.3px 24px 1.3px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .vector-11 {
+  width: 20px;
+  height: 20px;
+}
+.employer-delete-listing-2 .arrow-right-to-bracket {
+  margin: 5px 13px 5px 0;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .suporting-text-6 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.employer-delete-listing-2 .list-item-6 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .list-2 {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  padding: 24px 0 24px 21px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .frame-1000004348 {
+  margin-right: 1px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .frame-1000004349 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .sidebar-free-component {
+  background: #0C2B5A;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 40px 79px 40px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .group-1010 {
+  position: absolute;
+  top: 50%;
+  right: 0px;
+  translate: 0 -50%;
+  width: 61px;
+  height: 60px;
+}
+.employer-delete-listing-2 .sidebar {
+  position: relative;
+  margin-right: 0.5px;
+  padding-right: 21px;
+  width: 455px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .ph {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.333;
+  color: var(--gray-900, #111928);
+}
+.employer-delete-listing-2 .avatar {
+  border-radius: 999px;
+  background: #9CA3AF;
+  margin: 2px 12px 2px 0;
+  display: flex;
+  padding: 8px 7.7px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .job-ez {
+  overflow-wrap: break-word;
+  font-family: var(--text-2-xlfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-2-xlfont-semibold-font-weight, 600);
+  font-size: var(--text-2-xlfont-semibold-font-size, 24px);
+  line-height: var(--text-2-xlfont-semibold-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.employer-delete-listing-2 .logo {
+  margin: 1.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .text {
+  margin-right: 12px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.employer-delete-listing-2 .vector-2 {
+  width: 9.3px;
+  height: 9.3px;
+}
+.employer-delete-listing-2 .plus-outline {
+  margin: 6.8px 0;
+  display: flex;
+  width: 9.3px;
+  height: 9.3px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .button {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  display: flex;
+  flex-direction: row;
+  padding: 8px 15.3px 8px 12px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .cta {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .navbar {
+  background: var(--white-4, #FFFFFF);
+  margin-bottom: 36px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 22px 18.5px;
+  width: 1220px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .title {
+  margin-right: 12px;
+  width: 836.2px;
+  overflow-wrap: break-word;
+  font-family: var(--text-basefont-semibold-font-family, 'Inter');
+  font-weight: var(--text-basefont-semibold-font-weight, 600);
+  font-size: var(--text-basefont-semibold-font-size, 16px);
+  line-height: var(--text-basefont-semibold-line-height, 1.5);
+  color: var(--blue-700, #1A56DB);
+}
+.employer-delete-listing-2 .vector-3 {
+  width: 11.7px;
+  height: 11.7px;
+}
+.employer-delete-listing-2 .x {
+  margin: 6.2px 0 6.1px 0;
+  display: flex;
+  width: 11.7px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .description {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 859.9px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .vector-4 {
+  width: 11.2px;
+  height: 12.8px;
+}
+.employer-delete-listing-2 .trash {
+  margin: 2.6px 10.4px 2.6px 0;
+  display: flex;
+  width: 11.2px;
+  height: 12.8px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-delete-listing-2 .button-1 {
+  border-radius: 8px;
+  background: var(--blue-700, #1A56DB);
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 8px 12.6px 8px 14.4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .alerts {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  background: var(--blue-100, #E1EFFE);
+  display: flex;
+  flex-direction: column;
+  padding: 15px 19.1px 15px 15px;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .frame-1024 {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .frame-1000004335 {
+  margin: 32px 0 781px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1220px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing-2 .container-3 {
+  margin-right: 52.5px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-delete-listing {
+  background: #EDF0F4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1728px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+.uploaded-files-popup-overlay{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3);
+    z-index: 1000;       
+}
+
+.uploaded-files-popup{
+    position: fixed;
+    width: 18.5%;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background: white;
+    border: 1px solid #E5E7EB;
+    border-radius: 8px;
+    font-family: 'Inter';
+    z-index: 999;
+}
+
+.uploaded-files-title{
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: black;
+    padding-left: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    line-height: 2.5;
+}
+
+.uploaded-files-documents{
+    background-color: white;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 2.5;
+    width: 100%;
+    padding-left: 4%;
+    text-align: left;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    border-radius: 0px 0px 8px 8px;
+    cursor: pointer;
+}
+
+.uploaded-files-download-image{
+    float: right;
+    width: 12px;
+    height: 12px;
+    padding-top: 3%;
+    padding-right: 2%;
+}
+
+.uploaded-files-close-button{
+    background-color: white;
+    border: none;
+    float: right;
+    padding-top: 3%;
+    padding-right: 6%;
+    cursor: pointer;
+}
+
+.uploaded-files-close-image{
+    float: right;
+    width: 12px;
+    height: 10px;
+}

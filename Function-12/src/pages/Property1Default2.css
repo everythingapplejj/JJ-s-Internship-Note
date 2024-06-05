@@ -1,0 +1,301 @@
+.property-1-default-2 .pfp {
+  border-radius: 9999px;
+  background: url('assets/images/Pfp.png') 50% / cover no-repeat;
+  width: 40px;
+  height: 40px;
+}
+.property-1-default-2 .applicant-name {
+  margin: 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1;
+  color: #000000;
+}
+.property-1-default-2 .container-2 {
+  margin: 0 14px 34px 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 271.5px;
+  box-sizing: border-box;
+}
+.property-1-default-2 .applied-to {
+  margin: 3px 6.5px 4px 0;
+  width: 329.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 1.2;
+  color: #000000;
+}
+.applied-to {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.333;
+}
+.property-1-default-2 .resume-icon {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.property-1-default-2 .ellipse-25 {
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 20px;
+  height: 20px;
+}
+.property-1-default-2 .resume-button {
+  position: relative;
+  margin-right: 2px;
+  display: flex;
+  padding: 2px;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.property-1-default-2 .view-resume-1 {
+  margin: 4.8px 0 3.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.2;
+  color: #000000;
+}
+.property-1-default-2 .view-resume {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.property-1-default-2 .container {
+  margin: 0 9.5px 3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 9.5px);
+  box-sizing: border-box;
+}
+.relevant-experience-sub26 {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 1.333;
+}
+.relevant-experience {
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.333;
+}
+.property-1-default-2 .relevant-experience {
+  margin-right: 19.5px;
+  width: 303px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 1.2;
+  color: #000000;
+}
+.property-1-default-2 .s {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.property-1-default-2 .table-head-1 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.property-1-default-2 .m {
+  position: absolute;
+  left: 3.2px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.property-1-default-2 .table-head-2 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.property-1-default-2 .t {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.property-1-default-2 .table-head-3 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.property-1-default-2 .w {
+  position: absolute;
+  right: 3.2px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.property-1-default-2 .table-head-4 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.property-1-default-2 .t-1 {
+  position: absolute;
+  right: 4.4px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.property-1-default-2 .table-head-5 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 14px;
+  height: 13px;
+}
+.property-1-default-2 .f {
+  position: absolute;
+  left: 5.1px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.property-1-default-2 .table-head-6 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 15px;
+  height: 13px;
+}
+.property-1-default-2 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 85px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.property-1-default-2 .s-1 {
+  position: absolute;
+  right: 3.9px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.property-1-default-2 .table-head-7 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 13px;
+  height: 13px;
+}
+.property-1-default-2 .table-head {
+  position: relative;
+  margin: 3px 0 23px 0;
+  display: flex;
+  padding-right: 13px;
+  width: 98px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.property-1-default-2 .container-3 {
+  margin-bottom: 27px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.property-1-default-2 .label {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 0.909;
+  color: #FAFAFA;
+}
+.property-1-default-2 .button {
+  border-radius: 6px;
+  background: #3291FF;
+  display: flex;
+  padding: 13.5px 0;
+  width: 164.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.property-1-default-2 .view-profile {
+  border-radius: 6px;
+  display: flex;
+  align-self: center;
+  width: 164.5px;
+  box-sizing: border-box;
+}
+.property-1-default {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 0.1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 9.5px 8px 10px;
+  box-sizing: border-box;
+}

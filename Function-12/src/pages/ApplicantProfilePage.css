@@ -1,0 +1,1057 @@
+
+.applicant-profile-page .text-8 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.applicant-profile-page .bar {
+  background: var(--gray-501, #F9FAFB);
+  margin-bottom: 15px;
+  display: flex;
+  align-self: flex-start;
+  padding: 11.5px 0;
+  width: 1621px;
+  box-sizing: border-box;
+}
+
+.applicant-profile-page .avatar {
+  border-radius: 100px;
+  background: var(--avatar-neil-sims, url('assets/images/Avatar4.jpeg') 50% / cover no-repeat);
+  margin: 3px 15px 0 0;
+  width: 80px;
+  height: 80px;
+}
+.joey-smith-he-him {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.333;
+}
+.applicant-profile-page .joey-smith-he-him {
+  margin-bottom: 15px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1;
+  color: #000000;
+}
+.applicant-profile-page .text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-smfont-semibold-font-weight, 600);
+  font-size: var(--text-smfont-semibold-font-size, 14px);
+  line-height: var(--text-smfont-semibold-line-height, 1.5);
+  color: var(--green-800, #03543F);
+}
+.applicant-profile-page .badge-1 {
+  border-radius: 6px;
+  border: 1px solid #03543F;
+  background: var(--green-100, #DEF7EC);
+  margin-right: 8px;
+  display: flex;
+  padding: 1px 11.1px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .text {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-smfont-semibold-font-weight, 600);
+  font-size: var(--text-smfont-semibold-font-size, 14px);
+  line-height: var(--text-smfont-semibold-line-height, 1.5);
+  color: var(--green-800, #03543F);
+}
+.applicant-profile-page .badge {
+  border-radius: 6px;
+  border: 1px solid #03543F;
+  background: var(--green-100, #DEF7EC);
+  display: flex;
+  padding: 1px 11.3px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .container-2 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .container-3 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicant-profile-page .applicant-deets {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.applicant-profile-page .folder-open {
+  margin-right: 8px;
+  width: 24px;
+  height: 24px;
+}
+.applicant-profile-page .text-9 {
+  overflow-wrap: break-word;
+  font-family: var(--text-basefont-medium-font-family, 'Inter');
+  font-weight: var(--text-basefont-medium-font-weight, 500);
+  font-size: var(--text-basefont-medium-font-size, 16px);
+  line-height: var(--text-basefont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.applicant-profile-page .button {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin: 23px 0 20px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 12.7px 8px 12px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .header {
+  margin-bottom: 45px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1525px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .about-applicant {
+  margin: 0 0.5px 14px 0.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 1;
+  color: #000000;
+}
+.applicant-profile-page .about-body {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 1;
+  color: #000000;
+}
+.applicant-profile-page .about {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .label {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, );
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.6);
+  color: #111928;
+}
+.applicant-profile-page .container {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.applicant-profile-page .input {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  padding: 7px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .input-number {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .label-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.applicant-profile-page .container-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.applicant-profile-page .input-1 {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  padding: 7px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .input-number-1 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .applicant-application {
+  display: flex;
+  flex-direction: column;
+  width: 271px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .label-2 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.applicant-profile-page .container-2 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.applicant-profile-page .input-2 {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  padding: 7px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .input-number-2 {
+  margin-bottom: 11px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .preferred-days {
+  margin-bottom: 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.25;
+  color: #000000;
+}
+.applicant-profile-page .vector-4 {
+  width: 13.5px;
+  height: 13.5px;
+}
+.applicant-profile-page .calendar-month {
+  margin: 2.3px 10.3px 2.3px 0;
+  display: flex;
+  width: 13.5px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .select-period {
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: var(--gray-500, #6B7280);
+}
+.applicant-profile-page .datepicker {
+  border-radius: 8px;
+  border: 1px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0 11px 17.3px;
+  width: 271px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .frame-1000004350 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .preferred-timing {
+  display: flex;
+  flex-direction: column;
+  width: 271px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .label-3 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.applicant-profile-page .vector-5 {
+  width: 10.7px;
+  height: 13.3px;
+}
+.applicant-profile-page .map-pin {
+  margin: 3.8px 12.7px 3.8px 0;
+  display: flex;
+  width: 10.7px;
+  height: 13.3px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .container-3 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.applicant-profile-page .input-3 {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 0 7px 17.7px;
+  width: 271px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .input-number-3 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .label-4 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #111928;
+}
+.applicant-profile-page .container-4 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: #6B7280;
+}
+.applicant-profile-page .input-4 {
+  border-radius: 8px;
+  border: 1px solid #D1D5DB;
+  background: #F9FAFB;
+  padding: 7px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .input-number-4 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .preferred-timing-1 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicant-profile-page .frame-1015 {
+  margin-bottom: 45px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1530px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .relevant-experience {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 1;
+  color: #000000;
+}
+.relevant-experience-sub37 {
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 1.333;
+}
+.relevant-experience-sub55 {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 1.333;
+}
+.relevant-experience {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 1.333;
+  color: #3291FF;
+}
+.applicant-profile-page .suporting-text {
+  margin-right: 25px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-profile-page .vector-6 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-profile-page .expand-outline {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .list-item {
+  margin: 0 17px 8px 15px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .border-t {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 240px;
+  height: 1px;
+}
+.applicant-profile-page .suporting-text-1 {
+  margin-right: 15px;
+  width: 179px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-profile-page .vector-7 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-profile-page .expand-outline-1 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .content-1 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 206px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .list-item-1 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 240px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .border-t-1 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 240px;
+  height: 1px;
+}
+.applicant-profile-page .suporting-text-2 {
+  margin-right: 22.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-profile-page .vector-8 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-profile-page .expand-outline-2 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .content-2 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .list-item-2 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .border-t-2 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 240px;
+  height: 1px;
+}
+.applicant-profile-page .suporting-text-3 {
+  margin-right: 18.4px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-profile-page .vector-9 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-profile-page .expand-outline-3 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .content-3 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .list-item-3 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .border-t-3 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 240px;
+  height: 1px;
+}
+.applicant-profile-page .suporting-text-4 {
+  margin-right: 15px;
+  width: 179px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-profile-page .vector-10 {
+  width: 12px;
+  height: 12px;
+}
+.applicant-profile-page .expand-outline-4 {
+  margin: 9px 0;
+  display: flex;
+  width: 12px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .content-4 {
+  margin: 0 18px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 206px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .list-item-4 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 240px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .border-t-4 {
+  background: var(--gray-2002, #E5E7EB);
+  margin-bottom: 8px;
+  width: 240px;
+  height: 1px;
+}
+.applicant-profile-page .suporting-text-5 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1A56DB;
+}
+.applicant-profile-page .content-5 {
+  margin: 0 16px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.applicant-profile-page .list-item-5 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .list {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--white-4, #FFFFFF);
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7px 0;
+  box-sizing: border-box;
+}
+.applicant-profile-page .experience {
+  border-radius: 8px;
+  position: relative;
+  display: flex;
+  padding-left: 0.9px;
+  height: 322.1px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .skills-1 {
+  margin-bottom: 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 1;
+  color: #000000;
+}
+.applicant-profile-page .text-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-profile-page .badge-2 {
+  border-radius: 6px;
+  border: 1px solid #000000;
+  background: #C3DDFD;
+  display: flex;
+  padding: 2.5px 0;
+  width: 218px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .frame-1000004325 {
+  margin-bottom: 8px;
+  display: flex;
+  width: 218px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .text-3 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-profile-page .badge-3 {
+  border-radius: 6px;
+  border: 1px solid #000000;
+  background: #C3DDFD;
+  display: flex;
+  padding: 2.5px 0;
+  width: 218px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .frame-1000004326 {
+  margin-bottom: 5px;
+  display: flex;
+  width: 218px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .text-4 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-profile-page .badge-4 {
+  border-radius: 6px;
+  border: 1px solid #000000;
+  background: #C3DDFD;
+  display: flex;
+  padding: 2.5px 5.3px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .frame-1000004327 {
+  margin-bottom: 5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.applicant-profile-page .text-5 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-profile-page .badge-5 {
+  border-radius: 6px;
+  border: 1px solid #000000;
+  background: #C3DDFD;
+  margin-bottom: 5px;
+  display: flex;
+  padding: 2.5px 0;
+  width: 218px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .text-6 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.applicant-profile-page .badge-6 {
+  border-radius: 6px;
+  border: 1px solid #000000;
+  background: #C3DDFD;
+  margin-bottom: 5px;
+  display: flex;
+  padding: 2.5px 0;
+  width: 218px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .text-7 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #111928;
+}
+.applicant-profile-page .button-1 {
+  border-radius: 8px;
+  border: 1px solid #000000;
+  background: #76A9FA;
+  display: flex;
+  padding: 2.5px 0.4px 2.5px 0;
+  width: 218px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .frame-1000004324 {
+  margin-left: 0.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .skills {
+  margin: 0px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicant-profile-page .experience-and-skills {
+  margin: 0 235.9px 45px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 1164px;
+  box-sizing: border-box;
+}
+.relevant-experience-1-sub39 {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 1.333;
+}
+.relevant-experience-1 {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 1.333;
+}
+.applicant-profile-page .relevant-experience-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 1;
+  color: #000000;
+}
+.relevant-experience-1-sub40 {
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 1.333;
+}
+.applicant-profile-page .custom {
+  display: flex;
+  box-sizing: border-box;
+}
+.applicant-profile-page .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.applicant-profile-page .text-10 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.applicant-profile-page .button-2 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  position: absolute;
+  left: 569.5px;
+  bottom: 354.1px;
+  display: flex;
+  padding: 14px 0.5px 14px 0;
+  width: 319px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .content {
+  position: relative;
+  margin-left: 48px;
+  display: flex;
+  box-sizing: border-box;
+}
+.applicant-profile-page .frame-1000004341 {
+  margin-left: 123.5px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1931.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .job-ez {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.applicant-profile-page .job-ez-word-mark {
+  background: #000000;
+  position: relative;
+  margin-bottom: 100px;
+  display: flex;
+  padding: 16px 3.3px 16px 3px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .vector-11 {
+  width: 22.5px;
+  height: 22.5px;
+}
+.applicant-profile-page .list-1 {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  padding: 16.3px 17.8px;
+  width: 58px;
+  height: 55px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .frame-1000004346 {
+  margin-bottom: 171.5px;
+  display: flex;
+  width: 58px;
+  height: 55px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .vector-12 {
+  width: 17.5px;
+  height: 17.5px;
+}
+.applicant-profile-page .list-item-6 {
+  margin-bottom: 44.5px;
+  display: flex;
+  width: 17.5px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .vector-13 {
+  width: 20px;
+  height: 17.5px;
+}
+.applicant-profile-page .list-item-7 {
+  margin: 0 2.5px 40.8px 2.5px;
+  display: flex;
+  width: 20px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .vector-14 {
+  width: 25px;
+  height: 25px;
+}
+.applicant-profile-page .list-item-8 {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .list-2 {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30.3px 16.5px 26.5px 16.5px;
+  width: 58px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .frame-1000004347 {
+  margin-bottom: 171.5px;
+  display: flex;
+  width: 58px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .vector-15 {
+  width: 17.5px;
+  height: 25px;
+}
+.applicant-profile-page .list-item-9 {
+  margin: 0 0 31.5px 0px;
+  display: flex;
+  width: 17.5px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .vector-16 {
+  width: 20px;
+  height: 20px;
+}
+.applicant-profile-page .list-item-10 {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .list-3 {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 26.5px 19px 29px 19px;
+  width: 58px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .frame-1000004348 {
+  display: flex;
+  width: 58px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .frame-1000004349 {
+  margin-right: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 58px;
+  box-sizing: border-box;
+}
+.applicant-profile-page .sidebar-free-component {
+  background: #0C2B5A;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 0 100px 0;
+  width: 137px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.applicant-profile-page .sidebar {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  width: 137px;
+  box-sizing: border-box;
+}
+.applicant-profile-page {
+  background: #EDF0F4;
+  display: flex;
+  width: 1728px;
+  box-sizing: border-box;
+}

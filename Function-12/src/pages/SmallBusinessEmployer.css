@@ -1,0 +1,13 @@
+.small-business-employer .wireframes-small-business {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 64px;
+  color: #000000;
+}
+.small-business-employer {
+  border-radius: 0 42px 0 0;
+  background: linear-gradient(180deg, #FF6166, #999999);
+  padding: 352px 41px 518px 41px;
+  box-sizing: border-box;
+}

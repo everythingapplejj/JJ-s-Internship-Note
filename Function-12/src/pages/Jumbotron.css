@@ -1,0 +1,194 @@
+.jumbotron .heading {
+  margin-bottom: 24px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-6-xlfont-extrabold-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-6-xlfont-extrabold-font-weight, 800);
+  font-size: var(--leading-nonetext-6-xlfont-extrabold-font-size, 60px);
+  letter-spacing: var(--leading-nonetext-6-xlfont-extrabold-letter-spacing, -0.6px);
+  line-height: var(--leading-nonetext-6-xlfont-extrabold-line-height, 1);
+  color: var(--gray-900, #111928);
+}
+.jumbotron .supporting-text {
+  margin-bottom: 24px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--text-xlfont-normal-font-family, 'Inter');
+  font-weight: var(--text-xlfont-normal-font-weight, 400);
+  font-size: var(--text-xlfont-normal-font-size, 20px);
+  line-height: var(--text-xlfont-normal-line-height, 1.5);
+  color: var(--gray-500, #6B7280);
+}
+.jumbotron .text {
+  margin-right: 11.9px;
+  overflow-wrap: break-word;
+  font-family: var(--text-basefont-medium-font-family, 'Inter');
+  font-weight: var(--text-basefont-medium-font-weight, 500);
+  font-size: var(--text-basefont-medium-font-size, 16px);
+  line-height: var(--text-basefont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.jumbotron .vector {
+  width: 18px;
+  height: 14px;
+}
+.jumbotron .arrow-right {
+  margin: 5px 0;
+  display: flex;
+  width: 18px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.jumbotron .button {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0 12px 20px;
+  width: 160px;
+  box-sizing: border-box;
+}
+.jumbotron .title-desc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.jumbotron .logo-1 {
+  margin: 2px 12px 2px 0;
+  width: 32px;
+  height: 32px;
+}
+.jumbotron .flowbite {
+  overflow-wrap: break-word;
+  font-family: var(--text-2-xlfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-2-xlfont-semibold-font-weight, 600);
+  font-size: var(--text-2-xlfont-semibold-font-size, 24px);
+  line-height: var(--text-2-xlfont-semibold-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.jumbotron .logo {
+  margin: 0.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.jumbotron .text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-basefont-medium-font-family, 'Inter');
+  font-weight: var(--text-basefont-medium-font-weight, 500);
+  font-size: var(--text-basefont-medium-font-size, 16px);
+  line-height: var(--text-basefont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.jumbotron .link {
+  display: flex;
+  box-sizing: border-box;
+}
+.jumbotron .text-2 {
+  overflow-wrap: break-word;
+  font-family: var(--text-basefont-medium-font-family, 'Inter');
+  font-weight: var(--text-basefont-medium-font-weight, 500);
+  font-size: var(--text-basefont-medium-font-size, 16px);
+  line-height: var(--text-basefont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.jumbotron .link-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.jumbotron .text-3 {
+  overflow-wrap: break-word;
+  font-family: var(--text-basefont-medium-font-family, 'Inter');
+  font-weight: var(--text-basefont-medium-font-weight, 500);
+  font-size: var(--text-basefont-medium-font-size, 16px);
+  line-height: var(--text-basefont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.jumbotron .link-2 {
+  display: flex;
+  box-sizing: border-box;
+}
+.jumbotron .text-4 {
+  overflow-wrap: break-word;
+  font-family: var(--text-basefont-medium-font-family, 'Inter');
+  font-weight: var(--text-basefont-medium-font-weight, 500);
+  font-size: var(--text-basefont-medium-font-size, 16px);
+  line-height: var(--text-basefont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.jumbotron .link-3 {
+  display: flex;
+  box-sizing: border-box;
+}
+.jumbotron .text-5 {
+  overflow-wrap: break-word;
+  font-family: var(--text-basefont-medium-font-family, 'Inter');
+  font-weight: var(--text-basefont-medium-font-weight, 500);
+  font-size: var(--text-basefont-medium-font-size, 16px);
+  line-height: var(--text-basefont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.jumbotron .link-4 {
+  display: flex;
+  box-sizing: border-box;
+}
+.jumbotron .nav-links {
+  margin: 6.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 466.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.jumbotron .text-6 {
+  margin: 8px 16.2px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.jumbotron .text-7 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.jumbotron .button-1 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  display: flex;
+  padding: 8px 12.8px 8px 12px;
+  box-sizing: border-box;
+}
+.jumbotron .cta {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.jumbotron .navbar {
+  background: var(--white-4, #FFFFFF);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 80px;
+  box-sizing: border-box;
+}
+.jumbotron {
+  background: var(--white-4, #FFFFFF);
+  display: flex;
+  padding: 144px 0 96px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}

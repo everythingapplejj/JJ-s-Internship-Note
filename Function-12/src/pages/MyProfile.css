@@ -1,0 +1,1090 @@
+.my-profile .vector {
+  width: 16px;
+  height: 14px;
+}
+.my-profile .bars-outline {
+  margin: 11px 20px 11px 0;
+  display: flex;
+  width: 16px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.my-profile .flowbite {
+  overflow-wrap: break-word;
+  font-family: 'Literata';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #233876;
+}
+.my-profile .logo {
+  display: flex;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004408 {
+  margin: 14.5px 24.4px 14.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile .vector-1 {
+  width: 13.5px;
+  height: 13.5px;
+}
+.my-profile .search-outline {
+  margin: 2.3px 10.3px 2.3px 0;
+  display: flex;
+  width: 13.5px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.my-profile .quick-search-for-anything {
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: var(--gray-500, #6B7280);
+}
+.my-profile .autocomplete-input {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--gray-501, #F9FAFB);
+  display: flex;
+  flex-direction: row;
+  padding: 22.5px 0 22.5px 17.3px;
+  width: 655px;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004409 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile .text {
+  margin-right: 12.3px;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #6B7280;
+}
+.my-profile .vector-2 {
+  width: 11.7px;
+  height: 6.7px;
+}
+.my-profile .chevron-down-2 {
+  margin: 7.2px 0;
+  display: flex;
+  width: 11.7px;
+  height: 6.7px;
+  box-sizing: border-box;
+}
+.my-profile .button-3 {
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #F9FAFB;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0 10px 20px;
+  width: 180px;
+  box-sizing: border-box;
+}
+.my-profile .dropdown-buttons {
+  margin: 12px 0;
+  display: flex;
+  width: 180px;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004410 {
+  border-bottom: 1px solid #E5E7EB;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 28px 40px 27px 44px;
+  width: 1728px;
+  box-sizing: border-box;
+}
+.my-profile .rectangle-2757 {
+  border-radius: 8px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 100px;
+}
+.my-profile .avatar-notification-dot {
+  border-radius: 15px;
+  border: 2px solid var(--white-4, #FFFFFF);
+  background: var(--green-400, #31C48D);
+  width: 20px;
+  height: 20px;
+}
+.my-profile .avatar {
+  border-radius: 100px;
+  background: var(--avatar-jese-leos, url('assets/images/Avatar5.jpeg') 50% / cover no-repeat);
+  margin-right: 24px;
+  display: flex;
+  padding: 0 2px;
+  width: 80px;
+  height: 80px;
+  box-sizing: border-box;
+}
+.my-profile .john-doe {
+  margin: 22px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #111928;
+}
+.my-profile .frame-1000004411 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile .group-1029 {
+  position: relative;
+  margin-bottom: 30px;
+  padding: 39px 14px 0 14px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .vector-7 {
+  width: 20px;
+  height: 14px;
+}
+.my-profile .eye-outline {
+  margin: 5px 14px 5px 0;
+  display: flex;
+  width: 20px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.my-profile .open-to-work-employers-can-find-you {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #046C4E;
+}
+.my-profile .frame-1000004416 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile .vector-8 {
+  width: 9.3px;
+  height: 5.3px;
+}
+.my-profile .chevron-down {
+  margin: 9.3px 0;
+  display: flex;
+  width: 9.3px;
+  height: 5.3px;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004417 {
+  border-radius: 4px;
+  border: 1px solid #DEF7EC;
+  background: #F3FAF7;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 10.3px 5px 9px;
+  width: 441px;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004418 {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .vector-9 {
+  width: 14px;
+  height: 20px;
+}
+.my-profile .user-outline {
+  margin: 5px 17px 5px 0;
+  display: flex;
+  width: 14px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile .my-profile-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1C64F2;
+}
+.my-profile .frame-1000004412 {
+  border-radius: 8px;
+  background: #E1EFFE;
+  margin-bottom: 38px;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 0 8px 13px;
+  width: 441px;
+  box-sizing: border-box;
+}
+.my-profile .vector-10 {
+  width: 16px;
+  height: 20px;
+}
+.my-profile .hourglass-outline {
+  margin: 5px 16px 5px 0;
+  display: flex;
+  width: 16px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile .my-schedule {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1F2A37;
+}
+.my-profile .frame-1000004419 {
+  margin: 0 12px 46px 12px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .vector-11 {
+  width: 20px;
+  height: 20px;
+}
+.my-profile .upload-outline {
+  margin: 5px 14px 5px 0;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile .applied-jobs {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1F2A37;
+}
+.my-profile .frame-1000004415 {
+  margin: 0 10px 46px 10px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .vector-12 {
+  width: 20px;
+  height: 18px;
+}
+.my-profile .heart-outline {
+  margin: 6px 14px 6px 0;
+  display: flex;
+  width: 20px;
+  height: 18px;
+  box-sizing: border-box;
+}
+.my-profile .saved-companies-jobs {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #1F2A37;
+}
+.my-profile .frame-1000004414 {
+  margin: 0 10px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004420 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004421 {
+  margin: 0 100px 432px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.my-profile .my-profile-2 {
+  margin-bottom: 48px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .personal-information {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .label {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.my-profile .john-doe-1 {
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: #111928;
+}
+.my-profile .autocomplete-input-1 {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--gray-501, #F9FAFB);
+  padding: 11px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004380 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .label-1 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.my-profile .johndoeemail-com {
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: #111928;
+}
+.my-profile .autocomplete-input-2 {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--gray-501, #F9FAFB);
+  padding: 11px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004382 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .label-2 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.my-profile .united-states-1 {
+  margin-right: 9px;
+  width: 973.3px;
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: #111928;
+}
+.my-profile .vector-13 {
+  width: 9.3px;
+  height: 5.3px;
+}
+.my-profile .chevron-down-1 {
+  margin: 6.3px 0;
+  display: flex;
+  width: 9.3px;
+  height: 5.3px;
+  box-sizing: border-box;
+}
+.my-profile .autocomplete-input-3 {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--gray-501, #F9FAFB);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 18.3px 11px 15px;
+  width: 1027px;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004384 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .label-3 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.my-profile .container {
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: #111928;
+}
+.my-profile .autocomplete-input-4 {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--gray-501, #F9FAFB);
+  padding: 11px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004383 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .label-4 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.my-profile .johndoeemail-com-1 {
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: #111928;
+}
+.my-profile .autocomplete-input-5 {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--gray-501, #F9FAFB);
+  padding: 11px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .frame-10000043851 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004385 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004422 {
+  border-bottom: 1px solid #E5E7EB;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 29px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .resume {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .vector-14 {
+  width: 16px;
+  height: 20px;
+}
+.my-profile .file-lines-4 {
+  margin: 6.5px 16px 6.5px 0;
+  display: flex;
+  width: 16px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile .john-resume-ny-pdf-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .updated-on-41620242 {
+  margin-right: 14.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.my-profile .frame-10000043644 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.my-profile .frame-10000043712 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile .preview-4 {
+  margin: 7.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .frame-10000043682 {
+  border-radius: 4px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 13.4px 11px 17px;
+  width: 1027px;
+  box-sizing: border-box;
+}
+.my-profile .vector-15 {
+  width: 16px;
+  height: 20px;
+}
+.my-profile .file-lines-5 {
+  margin: 6.5px 16px 6.5px 0;
+  display: flex;
+  width: 16px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile .john-resume-nj-pdf-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .updated-on-31620242 {
+  margin-right: 13.4px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.my-profile .frame-10000043645 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.my-profile .frame-10000043713 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile .preview-5 {
+  margin: 7.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .frame-10000043692 {
+  border-radius: 4px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 13.4px 11px 17px;
+  width: 1027px;
+  box-sizing: border-box;
+}
+.my-profile .frame-10000043691 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1027px;
+  box-sizing: border-box;
+}
+.my-profile .text-2 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: #1C64F2;
+}
+.my-profile .button-1 {
+  border-radius: 8px;
+  border: 1px solid #1C64F2;
+  display: flex;
+  align-self: flex-start;
+  padding: 9px 19.4px 9px 19px;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004423 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004424 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004425 {
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .text-3 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.my-profile .button-2 {
+  border-radius: 8px;
+  background: var(--primary-600, #1C64F2);
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004429 {
+  align-self: flex-end;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004426 {
+  display: flex;
+  flex-direction: column;
+  width: 1027px;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004428 {
+  margin: 0 80px 323px 80px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .default {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #111928;
+}
+.my-profile .vector-3 {
+  width: 16px;
+  height: 20px;
+}
+.my-profile .file-lines {
+  margin: 6.5px 16px 6.5px 0;
+  display: flex;
+  width: 16px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile .john-resume-ny-pdf {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .updated-on-4162024 {
+  margin-right: 14.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.my-profile .frame-1000004364 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004370 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile .preview {
+  margin: 7.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 559.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .default-1 {
+  position: absolute;
+  left: 0px;
+  bottom: 11px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #111928;
+}
+.my-profile .frame-1000004365 {
+  border-radius: 4px;
+  border: 1px solid #1C64F2;
+  background: #E5EDFF;
+  position: relative;
+  margin-bottom: 6px;
+  display: flex;
+  padding: 11px 13.4px 11px 17px;
+  width: 592px;
+  box-sizing: border-box;
+}
+.my-profile .vector-4 {
+  width: 16px;
+  height: 20px;
+}
+.my-profile .file-lines-1 {
+  margin: 6.5px 16px 6.5px 0;
+  display: flex;
+  width: 16px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile .john-resume-nj-pdf {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .updated-on-3162024 {
+  margin-right: 13.4px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.my-profile .frame-10000043641 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004371 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile .preview-1 {
+  margin: 7.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .frame-1000004368 {
+  border-radius: 4px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 13.4px 11px 17px;
+  width: 592px;
+  box-sizing: border-box;
+}
+.my-profile .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 592px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .vector-5 {
+  width: 16px;
+  height: 20px;
+}
+.my-profile .file-lines-2 {
+  margin: 6.5px 16px 6.5px 0;
+  display: flex;
+  width: 16px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile .john-resume-ny-pdf-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .updated-on-41620241 {
+  margin-right: 14.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.my-profile .frame-10000043642 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.my-profile .frame-10000043701 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile .preview-2 {
+  margin: 7.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .frame-10000043651 {
+  border-radius: 4px;
+  border: 1px solid #1C64F2;
+  background: #E5EDFF;
+  position: absolute;
+  left: 50%;
+  bottom: 13px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 13.4px 11px 17px;
+  width: 592px;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004369 {
+  position: relative;
+  display: flex;
+  width: 592px;
+  box-sizing: border-box;
+}
+.my-profile .frame-1000004378 {
+  margin: 0 0 62px 240px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-profile .text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: #1C64F2;
+}
+.my-profile .button {
+  border-radius: 8px;
+  border: 1px solid #1C64F2;
+  margin-right: 225px;
+  display: flex;
+  padding: 9px 19.4px 9px 19px;
+  box-sizing: border-box;
+}
+.my-profile .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.my-profile .vector-6 {
+  width: 16px;
+  height: 20px;
+}
+.my-profile .file-lines-3 {
+  margin: 6.5px 16px 6.5px 0;
+  display: flex;
+  width: 16px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.my-profile .john-resume-nj-pdf-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .updated-on-31620241 {
+  margin-right: 13.4px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.5;
+  color: #9E9E9E;
+}
+.my-profile .frame-10000043643 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.my-profile .frame-10000043711 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.my-profile .preview-3 {
+  margin: 7.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #000000;
+}
+.my-profile .frame-10000043681 {
+  border-radius: 4px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: absolute;
+  right: 448px;
+  bottom: -479px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 13.4px 11px 17px;
+  width: 592px;
+  box-sizing: border-box;
+}
+.my-profile {
+  background: #FFFFFF;
+  display: flex;
+  width: 1728px;
+  box-sizing: border-box;
+}

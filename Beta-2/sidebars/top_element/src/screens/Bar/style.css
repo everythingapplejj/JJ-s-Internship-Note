@@ -1,0 +1,36 @@
+.bar {
+  align-items: center;
+  background-color: #f9fafb;
+  display: flex;
+  gap: var(--spacing-0);
+  height: 71px;
+  padding: var(--spacing-4) var(--spacing-5) var(--spacing-4) var(--spacing-5);
+  position: relative;
+  width: 1621px;
+}
+
+.bar .text {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: var(--spacing-2);
+  justify-content: center;
+  margin-bottom: -4.5px;
+  margin-top: -4.5px;
+  position: relative;
+}
+
+.bar .text-wrapper {
+  color: #6b7280;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}

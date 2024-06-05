@@ -1,0 +1,201 @@
+.sign-in-2 .create-your-free-acc {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-xlfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-xlfont-semibold-font-weight, 600);
+  font-size: var(--text-xlfont-semibold-font-size, 20px);
+  line-height: var(--text-xlfont-semibold-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.sign-in-2 .label {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-500, #6B7280);
+}
+.sign-in-2 .mail {
+  margin: 1px 10px 1px 0;
+  width: 16px;
+  height: 16px;
+}
+.sign-in-2 .input-text {
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: var(--gray-500, #6B7280);
+}
+.sign-in-2 .input {
+  border-radius: 8px;
+  border: 1px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0 11px 15px;
+  width: 352px;
+  box-sizing: border-box;
+}
+.sign-in-2 .input-field {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-in-2 .label-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.sign-in-2 .input-text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-smfont-normal-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-smfont-normal-font-weight, 400);
+  font-size: var(--leading-tighttext-smfont-normal-font-size, 14px);
+  line-height: var(--leading-tighttext-smfont-normal-line-height, 1.25);
+  color: var(--gray-500, #6B7280);
+}
+.sign-in-2 .input-1 {
+  border-radius: 8px;
+  border: 1px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  padding: 11px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-in-2 .input-field-1 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-in-2 .checkbox-1 {
+  border-radius: 4px;
+  border: 0.5px solid var(--gray-3001, #D1D5DB);
+  background: var(--gray-501, #F9FAFB);
+  margin-right: 8px;
+  width: 16px;
+  height: 16px;
+}
+.sign-in-2 .write-label-text-here {
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-smfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-smfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-smfont-medium-font-size, 14px);
+  line-height: var(--leading-nonetext-smfont-medium-line-height, 1);
+  color: var(--gray-900, #111928);
+}
+.sign-in-2 .label-helper-text {
+  margin: 1px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.sign-in-2 .checkbox {
+  margin: 2.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.sign-in-2 .lost-password {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-normal-font-family, 'Inter');
+  font-weight: var(--text-smfont-normal-font-weight, 400);
+  font-size: var(--text-smfont-normal-font-size, 14px);
+  line-height: var(--text-smfont-normal-line-height, 1.5);
+  color: var(--primary-600, #1C64F2);
+}
+.sign-in-2 .remember-me-lost {
+  margin: 0 0.8px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 351.2px;
+  box-sizing: border-box;
+}
+.sign-in-2 .text {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.sign-in-2 .button {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin-bottom: 16px;
+  display: flex;
+  padding: 10px 0.9px 10px 0;
+  width: 352px;
+  box-sizing: border-box;
+}
+.not-registered-create-account-sub6 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.333;
+  color: var(--gray-500, #6B7280);
+}
+.sign-in-2 .not-registered-create-account {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--primary-600, #1C64F2);
+}
+.sign-in-2 .button-helper-text {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-in-2 .modal-body {
+  margin: 35.8px 0.2px 0 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.sign-in-2 .vector {
+  width: 11.7px;
+  height: 11.7px;
+}
+.sign-in-2 .modal-header {
+  margin-bottom: 359.1px;
+  display: flex;
+  width: 11.7px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.sign-in-2 .modal {
+  border-radius: 8px;
+  border: 1px solid var(--gray-2002, #E5E7EB);
+  background: var(--white-4, #FFFFFF);
+  display: flex;
+  flex-direction: row;
+  padding: 19.7px 19.6px 31.5px 31.5px;
+  box-sizing: border-box;
+}
+.sign-in {
+  background: var(--gray-600, #4B5563);
+  display: flex;
+  padding: 212.5px 0 308.5px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}

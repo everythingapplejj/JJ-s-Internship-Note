@@ -1,0 +1,317 @@
+.vercel-listing .vector-9 {
+  width: 20px;
+  height: 19px;
+}
+.vercel-listing .star {
+  margin: 0.5px 0;
+  display: flex;
+  width: 20px;
+  height: 19px;
+  box-sizing: border-box;
+}
+.vercel-listing .listing-title {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.vercel-listing .container-1 {
+  margin: 0 2px 2px 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 208.2px;
+  box-sizing: border-box;
+}
+.vercel-listing .frame {
+  margin-right: 7px;
+  width: 24px;
+  height: 24px;
+}
+.vercel-listing .company {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.vercel-listing .company-info {
+  margin: 0 7.9px 3px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vercel-listing .listing-description {
+  margin-left: 2px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #000000;
+}
+.vercel-listing .container-3 {
+  margin: 10.5px 0 0.5px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.vercel-listing .pay-icon {
+  width: 12px;
+  height: 12px;
+}
+.vercel-listing .pay-rate {
+  margin: 1.5px 0 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1;
+  color: #9E9E9E;
+}
+.vercel-listing .pay-tag {
+  margin: 0 6px 17.5px 6px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.vercel-listing .location-icon {
+  margin-bottom: 5.5px;
+  align-self: center;
+  width: 10px;
+  height: 10px;
+}
+.vercel-listing .s {
+  position: absolute;
+  right: 3.9px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.vercel-listing .table-head-1 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 13px;
+  height: 13px;
+}
+.vercel-listing .m {
+  position: absolute;
+  right: 2.7px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.vercel-listing .table-head-2 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 13px;
+  height: 13px;
+}
+.vercel-listing .t {
+  position: absolute;
+  right: 3.9px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.vercel-listing .table-head-3 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 13px;
+  height: 13px;
+}
+.vercel-listing .w {
+  position: absolute;
+  right: 2.2px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.vercel-listing .table-head-4 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 12px;
+  height: 13px;
+}
+.vercel-listing .t-1 {
+  position: absolute;
+  right: 3.9px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #EAEAEA;
+}
+.vercel-listing .table-head-5 {
+  border-radius: 4px;
+  background: #000000;
+  position: relative;
+  width: 13px;
+  height: 13px;
+}
+.vercel-listing .f {
+  position: absolute;
+  right: 4.1px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.vercel-listing .table-head-6 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 13px;
+  height: 13px;
+}
+.vercel-listing .s-1 {
+  position: absolute;
+  right: 3.9px;
+  bottom: -3.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #A1A1A1;
+}
+.vercel-listing .table-head-7 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  position: relative;
+  width: 13px;
+  height: 13px;
+}
+.vercel-listing .table-head {
+  display: flex;
+  flex-direction: row;
+  width: 90px;
+  box-sizing: border-box;
+}
+.vercel-listing .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.vercel-listing .frame-1 {
+  margin: 5px 2px 6px 0;
+  width: 9px;
+  height: 9px;
+}
+.vercel-listing .hours {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.vercel-listing .hours-tag {
+  position: absolute;
+  top: 11.5px;
+  right: 5.3px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.vercel-listing .location {
+  position: absolute;
+  right: 4.7px;
+  bottom: 18.5px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1;
+  color: #9E9E9E;
+}
+.vercel-listing .container-2 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.vercel-listing .container {
+  margin-bottom: 6.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.vercel-listing .label {
+  overflow-wrap: break-word;
+  font-family: var(--text-14-normal-500-font-family, 'Geist', 'Roboto Condensed');
+  font-weight: var(--text-14-normal-500-font-weight, 500);
+  font-size: var(--text-14-normal-500-font-size, 14px);
+  line-height: var(--text-14-normal-500-line-height, 1.429);
+  color: #FAFAFA;
+}
+.vercel-listing .button {
+  border-radius: 6px;
+  background: #3291FF;
+  display: flex;
+  padding: 5.6px 0;
+  width: 109px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.vercel-listing .apply-button {
+  border-radius: 6px;
+  margin-right: 2px;
+  display: flex;
+  align-self: center;
+  width: 109px;
+  box-sizing: border-box;
+}
+.vercel-listing {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 0.2px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 16.5px 10px 2.9px 12px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,45 @@
+.color-pallete-roma .this-color-pallete-focuses-on-warm-tones-and-secondarys-are-more-calm {
+  margin: 0 95.5px 221px 95.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.color-pallete-roma .amore-vibrant-color-pallete-with-amix-of-professional-blue-and-other-secondary-tones {
+  margin-bottom: 179px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.color-pallete-roma .asimplistic-new-york-times-relatable {
+  margin: 0 402.9px 203px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.color-pallete-roma .tones-alot-that-are-similar-to-alot-of-job-search-platforms-bright-blues {
+  margin: 0 98.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.color-pallete-roma {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 113px 14.8px 141px 0;
+  width: 1280px;
+  box-sizing: border-box;
+}

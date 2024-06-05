@@ -1,0 +1,94 @@
+.email-verified-and-user-clicks-conitnue-to-explore-home-page .flowbite {
+  overflow-wrap: break-word;
+  font-family: 'Literata';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.5;
+  color: var(--gray-900, #111928);
+}
+.email-verified-and-user-clicks-conitnue-to-explore-home-page .navbar {
+  background: var(--white-4, #FFFFFF);
+  margin-bottom: 70px;
+  padding: 24.7px 116px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.email-verified-and-user-clicks-conitnue-to-explore-home-page .vector {
+  width: 33.6px;
+  height: 24px;
+}
+.email-verified-and-user-clicks-conitnue-to-explore-home-page .icon-shapes-1 {
+  border-radius: 8px;
+  background: var(--primary-100, #E1EFFE);
+  margin-bottom: 9px;
+  display: flex;
+  padding: 20px 15.2px;
+  width: 64px;
+  height: 64px;
+  box-sizing: border-box;
+}
+.email-verified-and-user-clicks-conitnue-to-explore-home-page .thank-you {
+  margin: 0 0 3px 0.7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #000000;
+}
+.email-verified-and-user-clicks-conitnue-to-explore-home-page .you-have-verified-your-email {
+  margin: 0 0 4.5px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+}
+.email-verified-and-user-clicks-conitnue-to-explore-home-page .text {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.email-verified-and-user-clicks-conitnue-to-explore-home-page .button {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  margin-bottom: 17.2px;
+  display: flex;
+  padding: 8.6px 0.3px 8.6px 0;
+  width: 418px;
+  box-sizing: border-box;
+}
+.email-verified-and-user-clicks-conitnue-to-explore-home-page .icon-shapes {
+  border-radius: 8px;
+  background: var(--primary-100, #E1EFFE);
+  margin-right: 359px;
+  width: 4px;
+  height: 4px;
+}
+.email-verified-and-user-clicks-conitnue-to-explore-home-page .container {
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  margin-left: 2.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 182.6px 0 240.6px 0;
+  width: 669.9px;
+  box-sizing: border-box;
+}
+.email-verified-and-user-clicks-conitnue-to-explore-home-page {
+  background: #F9FAFB;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 200.4px;
+  width: 1512px;
+  box-sizing: border-box;
+}

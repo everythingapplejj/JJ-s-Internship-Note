@@ -1,0 +1,252 @@
+.post-applicant-action-page-sketch-version-3 .logo {
+  margin-right: 15px;
+  width: 979px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 26px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.post-applicant-action-page-sketch-version-3 .home {
+  margin-right: 10.5px;
+  width: 210.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.post-applicant-action-page-sketch-version-3 .login {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.post-applicant-action-page-sketch-version-3 .links {
+  margin: 4.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 265.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .navbar-desktop {
+  border-bottom: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 17px 90.6px 16px 90px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .whats-next-1 {
+  margin: 0 0 59px 242.9px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.post-applicant-action-page-sketch-version-3 .congrats {
+  margin: 0 1px 70px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.post-applicant-action-page-sketch-version-3 .warning {
+  margin-bottom: 73px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 36px;
+  color: #000000;
+}
+.post-applicant-action-page-sketch-version-3 .in-the-meantime {
+  margin: 0 60.3px 0 1px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.post-applicant-action-page-sketch-version-3 .whats-next {
+  margin-bottom: 56px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .vector {
+  width: 41.3px;
+  height: 41.3px;
+}
+.post-applicant-action-page-sketch-version-3 .frame {
+  display: flex;
+  width: 41.3px;
+  height: 41.3px;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .message-icon {
+  position: relative;
+  display: flex;
+  padding: 13.9px 14.9px 14.9px 13.9px;
+  width: 70px;
+  height: 70px;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .frame-1 {
+  width: 55px;
+  height: 55px;
+}
+.post-applicant-action-page-sketch-version-3 .email-icon {
+  position: relative;
+  display: flex;
+  padding: 7px 8px 8px 7px;
+  width: 70px;
+  height: 70px;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .vector-3 {
+  width: 45.6px;
+  height: 45.7px;
+}
+.post-applicant-action-page-sketch-version-3 .frame-2 {
+  display: flex;
+  width: 45.6px;
+  height: 45.7px;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .phone-icon {
+  position: relative;
+  display: flex;
+  padding: 11.6px 12.6px 12.7px 11.8px;
+  width: 70px;
+  height: 70px;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .frame-19 {
+  position: absolute;
+  left: 0px;
+  bottom: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 410px;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .copy-phone-number-to-clipboard {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.post-applicant-action-page-sketch-version-3 .pop-up-description {
+  border: 1px solid #000000;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 0 47.7px 2px 45.7px;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .copy-email-to-clipboard {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.post-applicant-action-page-sketch-version-3 .container {
+  border: 1px solid #000000;
+  background: #D9D9D9;
+  position: absolute;
+  left: 217px;
+  bottom: 0px;
+  display: flex;
+  padding: 1px 35.7px 1px 34.7px;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .go-to-messages {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.post-applicant-action-page-sketch-version-3 .pop-up-description-1 {
+  border: 1px solid #000000;
+  background: #D9D9D9;
+  position: absolute;
+  left: 41px;
+  top: 54px;
+  display: flex;
+  padding-bottom: 2px;
+  width: 258px;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .contact-applicant {
+  position: absolute;
+  left: 27.4px;
+  top: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 600;
+  font-size: 48px;
+  color: #000000;
+}
+.post-applicant-action-page-sketch-version-3 .contact {
+  position: relative;
+  margin-bottom: 13.2px;
+  display: flex;
+  align-self: flex-end;
+  padding: 54px 0 75px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .label {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 1;
+  color: #FAFAFA;
+}
+.post-applicant-action-page-sketch-version-3 .return-to-listings {
+  border-radius: 6px;
+  background: #3291FF;
+  margin-right: 19px;
+  display: flex;
+  align-self: center;
+  padding: 11.6px 0;
+  width: 280px;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 .body {
+  margin: 0 29px 0 48px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.post-applicant-action-page-sketch-version-3 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 29.7px;
+  width: 1440px;
+  box-sizing: border-box;
+}

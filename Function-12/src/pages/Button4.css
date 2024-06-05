@@ -1,0 +1,14 @@
+.button-4 .text {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.button {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  padding: 8px 20px;
+  box-sizing: border-box;
+}

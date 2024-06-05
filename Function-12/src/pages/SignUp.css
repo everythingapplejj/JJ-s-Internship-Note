@@ -1,0 +1,14 @@
+.sign-up .sign-up-flow {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 128px;
+  line-height: 0.109;
+  color: #FFFFFF;
+}
+.sign-up {
+  background: #32BC42;
+  padding: 84px 12px 93px 12px;
+  width: 1229px;
+  box-sizing: border-box;
+}

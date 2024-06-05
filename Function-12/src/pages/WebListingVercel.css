@@ -1,0 +1,329 @@
+.web-listing-vercel .rectangle-67 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 0.7px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 33px;
+  translate: -50% 0;
+  width: 624px;
+  height: 245px;
+}
+.web-listing-vercel .edit {
+  margin: 59.8px 0 15.5px 0;
+  width: 42.9px;
+  height: 42.9px;
+}
+.web-listing-vercel .listing-title {
+  margin: 70.4px 0 27.9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 0.5;
+  color: #000000;
+}
+.web-listing-vercel .container {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 0.556;
+  color: #FFFFFF;
+}
+.web-listing-vercel .notification {
+  border-radius: 32.5px;
+  background: #FF6F6F;
+  position: relative;
+  margin-bottom: 28.2px;
+  display: flex;
+  align-self: flex-end;
+  padding: 22.5px 0 22.5px 1.8px;
+  width: 65px;
+  box-sizing: border-box;
+}
+.web-listing-vercel .pay-icon {
+  margin-right: 7px;
+  width: 25px;
+  height: 25px;
+}
+.web-listing-vercel .pay-rate {
+  margin: 5.6px 0 3.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1;
+  color: #9E9E9E;
+}
+.web-listing-vercel .pay-tag {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.web-listing-vercel .container-3 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.web-listing-vercel .container-4 {
+  position: relative;
+  margin: 0 0 9.4px 50.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 50.7px);
+  box-sizing: border-box;
+}
+.web-listing-vercel .select-button {
+  border-radius: 3px;
+  border: 0.5px solid #000000;
+  margin: 0 21px 19px 0;
+  width: 30px;
+  height: 30px;
+}
+.web-listing-vercel .listing-description {
+  margin-top: 29px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.web-listing-vercel .container-2 {
+  margin: 13.3px 0 21.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.web-listing-vercel .frame {
+  margin: 0 8.1px 1.7px 0;
+  width: 18.8px;
+  height: 18.8px;
+}
+.web-listing-vercel .hours {
+  margin-top: 0.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #9E9E9E;
+}
+.web-listing-vercel .hours-tag {
+  margin: 0 5.2px 6.7px 5.2px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.web-listing-vercel .location-icon {
+  margin-right: 11.2px;
+  width: 20.9px;
+  height: 20.9px;
+}
+.web-listing-vercel .location {
+  margin: 2.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1;
+  color: #9E9E9E;
+}
+.web-listing-vercel .location-tag {
+  margin: 0 1.1px 12.8px 1.1px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.web-listing-vercel .s {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #A1A1A1;
+}
+.web-listing-vercel .table-head-1 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  display: flex;
+  padding: 0.5px 7.1px;
+  box-sizing: border-box;
+}
+.web-listing-vercel .m {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #A1A1A1;
+}
+.web-listing-vercel .table-head-2 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  display: flex;
+  padding: 0.5px 5.3px;
+  box-sizing: border-box;
+}
+.web-listing-vercel .t {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #EAEAEA;
+}
+.web-listing-vercel .table-head-3 {
+  border-radius: 4px;
+  background: #000000;
+  display: flex;
+  padding: 1.5px 8.1px;
+  box-sizing: border-box;
+}
+.web-listing-vercel .w {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #A1A1A1;
+}
+.web-listing-vercel .table-head-4 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  display: flex;
+  padding: 0.5px 4.8px;
+  box-sizing: border-box;
+}
+.web-listing-vercel .t-1 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #EAEAEA;
+}
+.web-listing-vercel .table-head-5 {
+  border-radius: 4px;
+  background: #000000;
+  display: flex;
+  padding: 1.5px 8.1px;
+  box-sizing: border-box;
+}
+.web-listing-vercel .f {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #A1A1A1;
+}
+.web-listing-vercel .table-head-6 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  display: flex;
+  padding: 0.5px 7.9px;
+  box-sizing: border-box;
+}
+.web-listing-vercel .s-1 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #A1A1A1;
+}
+.web-listing-vercel .table-head-7 {
+  border-radius: 4px;
+  border: 1px solid #A1A1A1;
+  background: #FFFFFF;
+  display: flex;
+  padding: 0.5px 6.6px;
+  box-sizing: border-box;
+}
+.web-listing-vercel .table-head {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.web-listing-vercel .container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.web-listing-vercel .container-1 {
+  position: relative;
+  margin: 0 49px 11.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 49px);
+  box-sizing: border-box;
+}
+.web-listing-vercel .label {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 1.538;
+  color: #FAFAFA;
+}
+.web-listing-vercel .button {
+  border-radius: 6px;
+  background: #FF1A1A;
+  margin-right: 4.5px;
+  display: flex;
+  padding: 13.5px 0;
+  width: 164.5px;
+  box-sizing: border-box;
+}
+.web-listing-vercel .label-1 {
+  overflow-wrap: break-word;
+  font-family: 'Geist', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 1.538;
+  color: #FAFAFA;
+}
+.web-listing-vercel .button-1 {
+  border-radius: 6px;
+  background: #3291FF;
+  display: flex;
+  padding: 13.5px 0;
+  width: 164.5px;
+  box-sizing: border-box;
+}
+.web-listing-vercel .view-applicants-unpublish-button {
+  border-radius: 6px;
+  position: relative;
+  margin-right: 2.5px;
+  display: flex;
+  flex-direction: row;
+  width: 333.5px;
+  box-sizing: border-box;
+}
+.web-listing-vercel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 8px;
+  box-sizing: border-box;
+}

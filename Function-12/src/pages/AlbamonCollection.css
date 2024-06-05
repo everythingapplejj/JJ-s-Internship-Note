@@ -1,0 +1,5100 @@
+.albamon-collection .albamon-competitive-study {
+  margin-left: 3600px;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Noto Sans KR';
+  font-weight: 700;
+  font-size: 400px;
+  line-height: 1.367;
+  color: #FFFFFF;
+}
+.albamon-collection .urgent-listings-page {
+  background: url('assets/images/UrgentListingsPage.png') 50% / cover no-repeat;
+  margin-bottom: 177px;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .job-listing-1 {
+  background: url('assets/images/JobListing1.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .container-40 {
+  margin-right: 89px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 828px;
+  box-sizing: border-box;
+}
+.albamon-collection .apply-button-pressed {
+  background: url('assets/images/ApplyButtonPressed.png') 50% / cover no-repeat;
+  margin-bottom: 177px;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .job-listing-2 {
+  background: url('assets/images/JobListing21.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .container-1 {
+  margin-right: 89px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 828px;
+  box-sizing: border-box;
+}
+.albamon-collection .job-listing-3 {
+  background: url('assets/images/JobListing3.png') 50% / cover no-repeat;
+  margin: 1969px 122px 0 0;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .company-profile {
+  background: url('assets/images/CompanyProfile.png') 50% / cover no-repeat;
+  margin: 1073px 0 896px 0;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .container-49 {
+  margin-bottom: 177px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  width: 3612px;
+  box-sizing: border-box;
+}
+.albamon-collection .location-select-page {
+  background: url('assets/images/LocationSelectPage.png') 50% / cover no-repeat;
+  margin: 0 917px 182px 917px;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .simple-search-page {
+  background: url('assets/images/SimpleSearchPage.png') 50% / cover no-repeat;
+  margin: 0 917px 228px 917px;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .start-up-ad-1 {
+  background: url('assets/images/StartUpAd1.png') 50% / cover no-repeat;
+  margin: 2228px 0 1720px 0;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .start-up-ad-2 {
+  background: url('assets/images/StartUpAd2.png') 50% / cover no-repeat;
+  margin: 2228px 0 1720px 0;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .privacy-notice {
+  background: url('assets/images/PrivacyNotice.png') 50% / cover no-repeat;
+  margin: 2228px 0 1720px 0;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .user-type-selection {
+  background: url('assets/images/UserTypeSelection.png') 50% / cover no-repeat;
+  margin: 2228px 0 1720px 0;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .home-1 {
+  background: url('assets/images/Home1.png') 50% / cover no-repeat;
+  margin-bottom: 842px;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .ad-page-1 {
+  background: url('assets/images/AdPage1.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .container-91 {
+  margin: 896px 0 418px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 828px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .home-2 {
+  background: url('assets/images/Home2.png') 50% / cover no-repeat;
+  margin-bottom: 842px;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .ad-page-2 {
+  background: url('assets/images/AdPage2.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .container-50 {
+  margin: 896px 0 418px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 828px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .home-3 {
+  background: url('assets/images/Home3.png') 50% / cover no-repeat;
+  margin: 896px 0 3052px 0;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .home-4 {
+  background: url('assets/images/Home4.png') 50% / cover no-repeat;
+  margin: 896px 0 3052px 0;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .home-5 {
+  background: url('assets/images/Home5.png') 50% / cover no-repeat;
+  margin: 896px 0 3052px 0;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .advanced-search-page {
+  background: url('assets/images/AdvancedSearchPage.png') 50% / cover no-repeat;
+  margin-bottom: 182px;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .calendar-icon-pagetime-filter-search {
+  background: url('assets/images/CalendarIconPagetimeFilterSearch.png') 50% / cover no-repeat;
+  margin-bottom: 182px;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .left-swipe-menu {
+  background: url('assets/images/LeftSwipeMenu.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .container-89 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 828px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-61 {
+  margin: 0 917px 182px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 91px;
+  width: 9099px;
+  box-sizing: border-box;
+}
+.albamon-collection .login-in-with-notice {
+  background: url('assets/images/LoginInWithNotice.png') 50% / cover no-repeat;
+  margin-right: 89px;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .employer-login {
+  background: url('assets/images/EmployerLogin.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .container-3 {
+  display: flex;
+  flex-direction: row;
+  width: 1745px;
+  box-sizing: border-box;
+}
+.albamon-collection .group-6 {
+  margin-bottom: 254px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  align-self: flex-start;
+  width: 10016px;
+  box-sizing: border-box;
+}
+.albamon-collection .advances-search-1 {
+  background: url('assets/images/AdvancesSearch1.png') 50% / cover no-repeat;
+  margin-right: 89px;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .advanced-search-2 {
+  background: url('assets/images/AdvancedSearch2.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .container-65 {
+  margin-left: 6404px;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: 1745px;
+  box-sizing: border-box;
+}
+.albamon-collection .group-7 {
+  margin-right: 6100px;
+  display: flex;
+  flex-direction: column;
+  width: 11883px;
+  box-sizing: border-box;
+}
+.albamon-collection .albamon-wireframes {
+  margin: 0 3416.7px 279.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Avenir', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 146px;
+  color: #000000;
+}
+.albamon-collection .start-up-ad-12 {
+  background: url('assets/images/StartUpAd1.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .start-up-ad-22 {
+  background: url('assets/images/StartUpAd2.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .privacy-notice-1 {
+  background: url('assets/images/PrivacyNotice.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .user-type-selection-2 {
+  background: url('assets/images/UserTypeSelection.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .home-12 {
+  background: url('assets/images/Home1.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .job-listing-12 {
+  background: url('assets/images/JobListing1.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .job-listing-21 {
+  background: url('assets/images/JobListing2.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .company-profile-2 {
+  background: url('assets/images/CompanyProfile.png') 50% / cover no-repeat;
+  width: 828px;
+  height: 1792px;
+}
+.albamon-collection .reference-images {
+  margin-bottom: 215px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  column-gap: 91px;
+  width: 7261px;
+  box-sizing: border-box;
+}
+.albamon-collection .start-up-ad-4 {
+  background: url('assets/images/StartUpAd1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -1px;
+  bottom: 0px;
+  width: 394px;
+  height: 852px;
+}
+.albamon-collection .albamon-launch-screen {
+  background: #FFFFFF;
+  position: relative;
+  width: 393px;
+  height: 852px;
+}
+.albamon-collection .image {
+  margin: 0 0 166px 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 0.75;
+  color: #000000;
+}
+.albamon-collection .welcome-message {
+  margin-bottom: 32px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .nunc-et-magna-sed-tellus-pellentesque-hendrerit {
+  margin: 0 7.7px 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+}
+.albamon-collection .maecenas-in-placerat-justo-quis-iaculis-mi-integer-tempus-ac-nunc-eget-consequat {
+  margin: 0 5.3px 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .maecenas {
+  margin: 0 35.3px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .praesent-aliquam-dui-vitae-enim-varius-dignissim {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .container-22 {
+  margin: 0 1px 16px 1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .maecenas-1 {
+  margin: 0 35.3px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .praesent-aliquam-dui-vitae-enim-varius-dignissim-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .container-10 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .maecenas-2 {
+  margin: 0 35.3px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .praesent-aliquam-dui-vitae-enim-varius-dignissim-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .container-68 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .container-15 {
+  border-radius: 12px;
+  background: #E2E2E2;
+  position: relative;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 0 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .cta-button {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.albamon-collection .container-2 {
+  border-radius: 10px;
+  background: #FF4F19;
+  position: relative;
+  display: flex;
+  padding: 13px 0 13px 0.5px;
+  width: 361px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-25 {
+  border-radius: 16px 16px 0 0;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 16px 22px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .container-58 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-54 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 187px;
+  translate: -50% 0;
+  width: 329px;
+  height: 478px;
+}
+.albamon-collection .image-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 0.75;
+  color: #FFFFFF;
+}
+.albamon-collection .container-34 {
+  background: #0A1241;
+  position: relative;
+  margin-bottom: 16px;
+  display: flex;
+  padding: 116px 0 116px 0.5px;
+  width: 329px;
+  box-sizing: border-box;
+}
+.albamon-collection .ad-message {
+  position: relative;
+  margin: 0 0 8px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .aliquam-condimentum-consequat-orci-eget-eleifend-lectus-vehicula-non-nunc-eget-erat-dui {
+  position: relative;
+  margin-bottom: 28px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .no {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .container-4 {
+  border-radius: 10px;
+  border: 1px solid #696969;
+  position: relative;
+  margin-right: 7px;
+  display: flex;
+  padding: 13px 0;
+  width: 145px;
+  box-sizing: border-box;
+}
+.albamon-collection .yes {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.albamon-collection .container-67 {
+  border-radius: 10px;
+  background: #FF4F19;
+  position: relative;
+  display: flex;
+  padding: 13px 0;
+  width: 145px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-12 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 297px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-41 {
+  background: rgba(0, 0, 0, 0.64);
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 32px;
+  height: 852px;
+  box-sizing: border-box;
+}
+.albamon-collection .albamon-launch-ad-screen {
+  background: #E2E2E2;
+  position: relative;
+  padding-top: 122px;
+  width: 393px;
+  box-sizing: border-box;
+}
+.albamon-collection .image-2 {
+  margin: 0 0 166px 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 0.75;
+  color: #000000;
+}
+.albamon-collection .welcome-message-1 {
+  margin-bottom: 32px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .nunc-et-magna-sed-tellus-pellentesque-hendrerit-1 {
+  margin: 0 7.7px 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+}
+.albamon-collection .maecenas-in-placerat-justo-quis-iaculis-mi-integer-tempus-ac-nunc-eget-consequat-1 {
+  margin: 0 5.3px 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .maecenas-3 {
+  margin: 0 35.3px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .praesent-aliquam-dui-vitae-enim-varius-dignissim-3 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .container-84 {
+  margin: 0 1px 16px 1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .maecenas-4 {
+  margin: 0 35.3px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .praesent-aliquam-dui-vitae-enim-varius-dignissim-4 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .container-17 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .maecenas-5 {
+  margin: 0 35.3px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .praesent-aliquam-dui-vitae-enim-varius-dignissim-5 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #696969;
+}
+.albamon-collection .container-87 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .container-85 {
+  border-radius: 12px;
+  background: #E2E2E2;
+  position: relative;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 0 16px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .cta-button-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.albamon-collection .container-19 {
+  border-radius: 10px;
+  background: #FF4F19;
+  position: relative;
+  display: flex;
+  padding: 13px 0 13px 0.5px;
+  width: 361px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-6 {
+  border-radius: 16px 16px 0 0;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 16px 22px 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .albamon-terms-of-application-screen {
+  background: #E2E2E2;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  width: 393px;
+  box-sizing: border-box;
+}
+.albamon-collection .welcome-to-job-ez {
+  margin: 0 0 79px 1px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .looking-for-an-employer {
+  margin: 0 56.4px 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.6;
+  color: #000000;
+}
+.albamon-collection .image-3 {
+  margin-top: 43px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 0.75;
+  color: #000000;
+}
+.albamon-collection .container-13 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .individual-member {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 9px;
+  line-height: 1.111;
+  color: #000000;
+}
+.albamon-collection .employee-button {
+  border-radius: 7px;
+  border: 1.5px solid #E8E8E8;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 7.5px 10.2px 8.5px 11px;
+  box-sizing: border-box;
+}
+.albamon-collection .employee-card {
+  border-radius: 15px;
+  border: 1.5px solid #E8E8E8;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 23.5px 13px 24px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .looking-for-an-employee {
+  margin: 0 56.4px 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.6;
+  color: #000000;
+}
+.albamon-collection .image-4 {
+  margin-top: 43px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 0.75;
+  color: #000000;
+}
+.albamon-collection .container-38 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .corporate-member {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 9px;
+  line-height: 1.111;
+  color: #000000;
+}
+.albamon-collection .employer-button {
+  border-radius: 7px;
+  border: 1.5px solid #E8E8E8;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 7.5px 11.4px 8.5px 9px;
+  box-sizing: border-box;
+}
+.albamon-collection .employer-card {
+  border-radius: 15px;
+  border: 1.5px solid #E8E8E8;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 23.5px 13px 24px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .log-in-options {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .just-take-alook {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 9px;
+  text-decoration-line: underline;
+  line-height: 1.111;
+  color: #6A6A6A;
+}
+.albamon-collection .user-type-selection-page-options {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .albamon-user-type-selection-screen {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 34px;
+  box-sizing: border-box;
+}
+.albamon-collection .line-30 {
+  background: #E5E5E5;
+  margin-bottom: 74.6px;
+  width: 393px;
+  height: 1px;
+}
+.albamon-collection .image-scroller {
+  margin: 0 1px 28.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 1.5;
+  color: #000000;
+}
+.albamon-collection .ellipse-8 {
+  border-radius: 2.5px;
+  background: rgba(255, 255, 255, 0.5);
+  width: 5px;
+  height: 5px;
+}
+.albamon-collection .ellipse-9 {
+  border-radius: 2.5px;
+  background: #FFFFFF;
+  width: 5px;
+  height: 5px;
+}
+.albamon-collection .ellipse-10 {
+  border-radius: 2.5px;
+  background: rgba(255, 255, 255, 0.5);
+  width: 5px;
+  height: 5px;
+}
+.albamon-collection .ellipse-11 {
+  border-radius: 2.5px;
+  background: rgba(255, 255, 255, 0.5);
+  width: 5px;
+  height: 5px;
+}
+.albamon-collection .ellipse-12 {
+  border-radius: 2.5px;
+  background: rgba(255, 255, 255, 0.5);
+  width: 5px;
+  height: 5px;
+}
+.albamon-collection .ellipse-13 {
+  border-radius: 2.5px;
+  background: rgba(255, 255, 255, 0.5);
+  width: 5px;
+  height: 5px;
+}
+.albamon-collection .ellipse-14 {
+  border-radius: 2.5px;
+  background: rgba(255, 255, 255, 0.5);
+  width: 5px;
+  height: 5px;
+}
+.albamon-collection .ellipse-15 {
+  border-radius: 2.5px;
+  background: rgba(255, 255, 255, 0.5);
+  width: 5px;
+  height: 5px;
+}
+.albamon-collection .image-scoller-buttons {
+  margin-right: 253px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 2px;
+  width: 54px;
+  box-sizing: border-box;
+}
+.albamon-collection .scroller {
+  background: #FF7300;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0px 49.9px 0;
+  width: 393px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .z {
+  border: 2px solid #000000;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Original Surfer';
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 1;
+  color: #FF5812;
+}
+.albamon-collection .iconsearch {
+  margin: 5.9px 0;
+  width: 12.2px;
+  height: 12.2px;
+}
+.albamon-collection .mingcutelive-location-fill {
+  width: 24px;
+  height: 24px;
+}
+.albamon-collection .solarmap-bold-duotone {
+  width: 24px;
+  height: 24px;
+}
+.albamon-collection .tablercalendar-filled {
+  width: 24px;
+  height: 24px;
+}
+.albamon-collection .container-75 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 210.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .tablerurgent {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 24px;
+  height: 24px;
+}
+.albamon-collection .options-icons {
+  position: relative;
+  display: flex;
+  padding: 6px 11px 0 0;
+  width: 331.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .jet-1 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.albamon-collection .urgent {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.albamon-collection .short-term {
+  position: absolute;
+  right: 54px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.albamon-collection .search {
+  position: absolute;
+  left: 46.9px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.albamon-collection .region {
+  position: absolute;
+  left: 104.9px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.albamon-collection .map-1 {
+  position: absolute;
+  right: 138.9px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.albamon-collection .body-options {
+  position: relative;
+  display: flex;
+  padding: 0 7.1px 14px 1.1px;
+  width: 339.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .container-64 {
+  border-radius: 25px 25px 0 0;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 19px 23.3px 0 30.3px;
+  width: 393px;
+  height: 576px;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-65 {
+  background: #F8F8F8;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 393px;
+  height: 508.7px;
+}
+.albamon-collection .marea-grand {
+  margin-right: 10px;
+  width: 320.7px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.container-sub1 {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.333;
+  color: #FF4F19;
+}
+.albamon-collection .container {
+  margin: 3.5px 0;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .listings-header {
+  position: relative;
+  margin: 0 0 8.2px 9.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 356.7px;
+  box-sizing: border-box;
+}
+.albamon-collection .logo-2 {
+  margin: 0 1.1px 6.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .listing-details {
+  margin: 0 0 20.1px 1.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #000000;
+}
+.albamon-collection .listing-title-2 {
+  margin-bottom: 14.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .company {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.albamon-collection .pay-rate-3 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.albamon-collection .details {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 0 0 16.5px 0.4px;
+  box-sizing: border-box;
+}
+.albamon-collection .listing {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 7.5px 15.3px 7.5px;
+  width: 165px;
+  box-sizing: border-box;
+}
+.albamon-collection .logo-3 {
+  margin: 0 1.1px 6.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .listing-details-1 {
+  margin: 0 0 20.1px 1.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #000000;
+}
+.albamon-collection .listing-title-3 {
+  margin-bottom: 14.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .company-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.albamon-collection .pay-rate-4 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.albamon-collection .details-1 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 0 0 16.5px 0.4px;
+  box-sizing: border-box;
+}
+.albamon-collection .listing-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 7.5px 15.3px 7.5px;
+  width: 165px;
+  box-sizing: border-box;
+}
+.albamon-collection .row {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .logo-4 {
+  margin: 0 1.1px 6.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .listing-details-2 {
+  margin: 0 0 20.1px 1.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #000000;
+}
+.albamon-collection .listing-title-4 {
+  margin-bottom: 14.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .company-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.albamon-collection .pay-rate-5 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.albamon-collection .details-2 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 0 0 16.5px 0.4px;
+  box-sizing: border-box;
+}
+.albamon-collection .listing-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 7.5px 15.3px 7.5px;
+  width: 165px;
+  box-sizing: border-box;
+}
+.albamon-collection .logo-5 {
+  margin: 0 1.1px 6.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .listing-details-3 {
+  margin: 0 0 20.1px 1.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #000000;
+}
+.albamon-collection .listing-title-5 {
+  margin-bottom: 14.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .company-3 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.albamon-collection .pay-rate-6 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.albamon-collection .details-3 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 0 0 16.5px 0.4px;
+  box-sizing: border-box;
+}
+.albamon-collection .listing-3 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 7.5px 15.3px 7.5px;
+  width: 165px;
+  box-sizing: border-box;
+}
+.albamon-collection .row-1 {
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .logo-6 {
+  margin: 0 1.1px 6.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .listing-details-4 {
+  margin: 0 0 20.1px 1.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #000000;
+}
+.albamon-collection .listing-title-6 {
+  margin-bottom: 14.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .company-4 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.albamon-collection .pay-rate-7 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.albamon-collection .details-4 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 0 0 16.5px 0.4px;
+  box-sizing: border-box;
+}
+.albamon-collection .listing-4 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 7.5px 15.3px 7.5px;
+  width: 165px;
+  box-sizing: border-box;
+}
+.albamon-collection .logo-7 {
+  margin: 0 1.1px 6.4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .listing-details-5 {
+  margin: 0 0 20.1px 1.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.333;
+  color: #000000;
+}
+.albamon-collection .listing-title-7 {
+  margin-bottom: 14.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .company-5 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.albamon-collection .pay-rate-8 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 2;
+  color: #9E9E9E;
+}
+.albamon-collection .details-5 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 0 0 16.5px 0.4px;
+  box-sizing: border-box;
+}
+.albamon-collection .listing-5 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 7.5px 15.3px 7.5px;
+  width: 165px;
+  box-sizing: border-box;
+}
+.albamon-collection .row-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .listing-section {
+  position: relative;
+  margin-right: 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .container-31 {
+  position: absolute;
+  left: 0px;
+  right: 1px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 42.8px 10px 0 17px;
+  box-sizing: border-box;
+}
+.albamon-collection .iconpin-alt {
+  margin: 3px 6.1px 2.6px 0;
+  width: 12.2px;
+  height: 14.4px;
+}
+.area-subarea {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+  color: #FF4F19;
+}
+.albamon-collection .area-subarea {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.area-subarea-sub1 {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+  color: #D2D2D2;
+}
+.albamon-collection .container-56 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-3 {
+  width: 13.3px;
+  height: 7.7px;
+}
+.albamon-collection .mingcutedown-line {
+  margin: 6.3px 0 6px 0;
+  display: flex;
+  width: 13.3px;
+  height: 7.7px;
+  box-sizing: border-box;
+}
+.albamon-collection .area-dropdown {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 2px solid #E8E8E8;
+  background: #FFFFFF;
+  position: absolute;
+  left: 28px;
+  top: 82px;
+  right: 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2px 6.4px 1.7px 6px;
+  box-sizing: border-box;
+}
+.albamon-collection .line-29 {
+  background: #E5E5E5;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 1px;
+}
+.albamon-collection .iconhome {
+  margin: 2.9px 0;
+  width: 23px;
+  height: 20.4px;
+}
+.albamon-collection .vector-18 {
+  background: #000000;
+  margin-bottom: 6.9px;
+  width: 23px;
+  height: 2px;
+}
+.albamon-collection .vector-19 {
+  background: #000000;
+  margin-bottom: 6.9px;
+  width: 23px;
+  height: 2px;
+}
+.albamon-collection .vector-20 {
+  background: #000000;
+  width: 23px;
+  height: 2px;
+}
+.albamon-collection .iconmenu {
+  margin: 4.2px 0 2.2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 23px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .iconmessage {
+  width: 23px;
+  height: 22.9px;
+}
+.albamon-collection .group-8 {
+  margin: 1.7px 0;
+  display: flex;
+  width: 23px;
+  height: 22.9px;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-23 {
+  width: 17px;
+  height: 21.9px;
+}
+.albamon-collection .iconbookmark-empty {
+  margin: 2.2px 0;
+  display: flex;
+  width: 17px;
+  height: 21.9px;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-25 {
+  margin: 0 4.9px;
+  width: 13.1px;
+  height: 13.1px;
+}
+.albamon-collection .vector-24 {
+  width: 23px;
+  height: 13.1px;
+}
+.albamon-collection .iconuser {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 23px;
+  box-sizing: border-box;
+}
+.albamon-collection .icons {
+  margin: 0 5.9px 0 5.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 325px;
+  box-sizing: border-box;
+}
+.albamon-collection .home-2 {
+  margin: 0 10px 1px 0;
+  display: inline-block;
+  width: 57px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.albamon-collection .full-menu {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.albamon-collection .ai-help {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.albamon-collection .history {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.albamon-collection .profile-1 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.albamon-collection .text-descriptors {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 336.7px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-78 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 28.1px 39px 28.3px;
+  width: 393px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .footer {
+  position: absolute;
+  right: 0px;
+  bottom: 119.8px;
+  display: flex;
+  width: 393px;
+  box-sizing: border-box;
+}
+.albamon-collection .conent {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  display: flex;
+  padding-left: 1px;
+  width: 394px;
+  height: 695.8px;
+  box-sizing: border-box;
+}
+.albamon-collection .body {
+  position: absolute;
+  left: -1px;
+  bottom: -119.8px;
+  display: flex;
+  padding-left: 1px;
+  width: 394px;
+  height: 868.8px;
+  box-sizing: border-box;
+}
+.albamon-collection .logo {
+  margin-right: 30px;
+  width: 107px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 2;
+  color: #000000;
+}
+.albamon-collection .what-kind-of-part-time-job-are-you-looking-for {
+  margin: 1.3px 5px 0.9px 0;
+  display: inline-block;
+  width: 164px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 1.429;
+  color: #AFAFAF;
+}
+.albamon-collection .iconsearch-1 {
+  width: 12.2px;
+  height: 12.2px;
+}
+.albamon-collection .search-bar {
+  border-radius: 30px;
+  background: #F4F4F4;
+  position: relative;
+  margin: 10.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12.5px 13.8px 14.3px 8px;
+  width: 203px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 340px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .albamon-home-screentop {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 46px 28px 0 25px;
+  width: 393px;
+  height: 852px;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-35 {
+  width: 16.9px;
+  height: 9.5px;
+}
+.albamon-collection .gravity-uiarrow-left {
+  margin: 5.3px 12.9px 5.2px 0;
+  display: flex;
+  width: 16.9px;
+  height: 9.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .job-info {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .return-button {
+  margin-bottom: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.albamon-collection .arcticonsscreenshottile {
+  margin-right: 17.2px;
+  width: 20px;
+  height: 20px;
+}
+.albamon-collection .vector-38 {
+  width: 17.5px;
+  height: 16.9px;
+}
+.albamon-collection .phstar {
+  margin: 1.3px 19.8px 1.9px 0;
+  display: flex;
+  width: 17.5px;
+  height: 16.9px;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-39 {
+  width: 15px;
+  height: 16.7px;
+}
+.albamon-collection .material-symbolsshare-outline {
+  margin: 1.7px 0;
+  display: flex;
+  width: 15px;
+  height: 16.7px;
+  box-sizing: border-box;
+}
+.albamon-collection .icon-menu {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  width: 89.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .container-14 {
+  margin: 0 32.5px 29px 21.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 338.9px;
+  box-sizing: border-box;
+}
+.albamon-collection .line-301 {
+  background: #E5E5E5;
+  width: 393px;
+  height: 1px;
+}
+.albamon-collection .header {
+  margin: 0 0px 69px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 393px;
+  box-sizing: border-box;
+}
+.albamon-collection .image-5 {
+  margin: 0 10px 70px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .date-time {
+  margin: 0 0.2px 16px 0.2px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1;
+  color: #9E9E9E;
+}
+.albamon-collection .req-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1;
+  color: #BDA3E3;
+}
+.albamon-collection .requirement {
+  border-radius: 5px;
+  border: 1px solid #BDA3E3;
+  background: rgba(189, 163, 227, 0.2);
+  position: relative;
+  display: flex;
+  padding: 5px 0 6px 0;
+  width: 90px;
+  box-sizing: border-box;
+}
+.albamon-collection .req-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1;
+  color: #79D7D3;
+}
+.albamon-collection .requirement-1 {
+  border-radius: 5px;
+  border: 1px solid #79D7D3;
+  background: rgba(121, 215, 211, 0.2);
+  position: relative;
+  display: flex;
+  padding: 5px 1.2px 6px 0;
+  width: 100px;
+  box-sizing: border-box;
+}
+.albamon-collection .req-21 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1;
+  color: #FF4F19;
+}
+.albamon-collection .requirement-2 {
+  border-radius: 5px;
+  border: 1px solid #FF4F19;
+  background: rgba(255, 79, 25, 0.2);
+  position: relative;
+  display: flex;
+  padding: 5px 1.2px 6px 0;
+  width: 100px;
+  box-sizing: border-box;
+}
+.albamon-collection .requirements {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  width: 310px;
+  box-sizing: border-box;
+}
+.albamon-collection .listing-title {
+  margin: 0 0.4px 15px 0.4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .circle {
+  border-radius: 1.5px;
+  background: #B3B3B3;
+  margin: 0 4px 0 7px;
+  width: 3px;
+  height: 3px;
+}
+.albamon-collection .union {
+  width: 14px;
+  height: 5.5px;
+}
+.albamon-collection .image-6 {
+  border-radius: 1px;
+  border: 2px solid #B3B3B3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1.5px;
+  width: 16px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .icon {
+  display: flex;
+  width: 16px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .logo-icon {
+  border-radius: 5px;
+  border: 1px solid #E8E8E8;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 16.1px;
+  display: flex;
+  padding: 12px 14px;
+  width: 44px;
+  box-sizing: border-box;
+}
+.albamon-collection .company-name {
+  margin: 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .company-tag {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .sub-menu-1-content {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .line-31 {
+  background: #F4F4F4;
+  width: 352px;
+  height: 1px;
+}
+.albamon-collection .sub-menu-1 {
+  margin: 0 28px 26px 13px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-77 {
+  border-radius: 4px;
+  border: 1px solid #E8E8E8;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 171.5px;
+  height: 53px;
+}
+.albamon-collection .vector {
+  width: 17.5px;
+  height: 17.5px;
+}
+.albamon-collection .ant-designdollar-outlined {
+  display: flex;
+  width: 17.5px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-69 {
+  border-radius: 15px;
+  background: #F8F8F8;
+  position: relative;
+  margin-right: 6.1px;
+  display: flex;
+  padding: 6.3px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.albamon-collection .pay-rate {
+  margin: 0 14px 4px 0px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .number {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .container-79 {
+  position: relative;
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-771 {
+  border-radius: 7px;
+  position: relative;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0 11px 15px;
+  width: 171.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-772 {
+  border-radius: 4px;
+  border: 1px solid #E8E8E8;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 171.5px;
+  height: 53px;
+}
+.albamon-collection .formkitdatetime {
+  width: 17.5px;
+  height: 17.5px;
+}
+.albamon-collection .container-66 {
+  border-radius: 15px;
+  background: #F8F8F8;
+  position: relative;
+  margin-right: 6.5px;
+  display: flex;
+  padding: 6px 6px 6.5px 6.5px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.albamon-collection .listing-length {
+  margin: 0 0px 5px 0px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .amount-of-time {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .container-33 {
+  position: relative;
+  margin: 3px 0 2px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-79 {
+  border-radius: 7px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0 11px 15px;
+  width: 171.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .row-1 {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-774 {
+  border-radius: 4px;
+  border: 1px solid #E8E8E8;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 171.5px;
+  height: 53px;
+}
+.albamon-collection .group-2 {
+  width: 14.1px;
+  height: 13.5px;
+}
+.albamon-collection .lucidecalendar {
+  display: flex;
+  width: 14.1px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-28 {
+  border-radius: 15px;
+  background: #F8F8F8;
+  position: relative;
+  margin-right: 6px;
+  display: flex;
+  padding: 7.5px 7.8px 9px 8.2px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.albamon-collection .days-of-the-week {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .days {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .container-51 {
+  position: relative;
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-773 {
+  border-radius: 7px;
+  position: relative;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0 11px 15px;
+  width: 171.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-775 {
+  border-radius: 4px;
+  border: 1px solid #E8E8E8;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 171.5px;
+  height: 53px;
+}
+.albamon-collection .vector-34 {
+  width: 15.5px;
+  height: 15.5px;
+}
+.albamon-collection .radix-iconsclock {
+  display: flex;
+  width: 15.5px;
+  height: 15.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-48 {
+  border-radius: 15px;
+  background: #F8F8F8;
+  position: relative;
+  margin-right: 6px;
+  display: flex;
+  padding: 7px 7px 7.5px 7.5px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.albamon-collection .pay-rate-1 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .number-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .container-90 {
+  position: relative;
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-791 {
+  border-radius: 7px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0 11px 15px;
+  width: 171.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .row-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .listing-features {
+  margin: 0 20px 31px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .job-requirements {
+  margin: 1px 5px 0 0;
+  display: inline-block;
+  width: 145px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .job-details-2 {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .company-details {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .details-divider-sections {
+  margin: 0 19.1px 16.5px 18.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 355.7px;
+  box-sizing: border-box;
+}
+.albamon-collection .details-divider-lines {
+  width: 393px;
+  height: 0.5px;
+}
+.albamon-collection .details-divider {
+  margin-bottom: 34px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 393px;
+  box-sizing: border-box;
+}
+.albamon-collection .line-291 {
+  background: #E5E5E5;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 393px;
+  height: 1px;
+}
+.albamon-collection .call {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .call-button {
+  border-radius: 10px;
+  border: 1px solid #D8D8D8;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 8px;
+  display: flex;
+  padding: 13px 0 12px 1px;
+  width: 117px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .apply {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.albamon-collection .apply-button {
+  border-radius: 10px;
+  background: #FF4F19;
+  position: relative;
+  display: flex;
+  padding: 13px 0 12px 0;
+  width: 228px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .container-83 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 20px 37px 20px;
+  width: 393px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .footer-1 {
+  position: relative;
+  margin-right: 0px;
+  display: flex;
+  width: 393px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-53 {
+  border-radius: 25px 25px 0 0;
+  border-top: 2px solid #F4F4F4;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .body-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .albamon-listing-screentop {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 53.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-47 {
+  width: 16.9px;
+  height: 9.5px;
+}
+.albamon-collection .gravity-uiarrow-left-1 {
+  margin: 5.3px 12.9px 5.2px 0;
+  display: flex;
+  width: 16.9px;
+  height: 9.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .job-info-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .return-button-1 {
+  margin-bottom: 0.5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.albamon-collection .arcticonsscreenshottile-1 {
+  margin-right: 17.2px;
+  width: 20px;
+  height: 20px;
+}
+.albamon-collection .vector-50 {
+  width: 17.5px;
+  height: 16.9px;
+}
+.albamon-collection .phstar-1 {
+  margin: 1.3px 19.8px 1.9px 0;
+  display: flex;
+  width: 17.5px;
+  height: 16.9px;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-51 {
+  width: 15px;
+  height: 16.7px;
+}
+.albamon-collection .material-symbolsshare-outline-1 {
+  margin: 1.7px 0;
+  display: flex;
+  width: 15px;
+  height: 16.7px;
+  box-sizing: border-box;
+}
+.albamon-collection .icon-menu-1 {
+  margin-top: 0.5px;
+  display: flex;
+  flex-direction: row;
+  width: 89.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .container-77 {
+  margin: 0 32.5px 29px 21.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 338.9px;
+  box-sizing: border-box;
+}
+.albamon-collection .line-302 {
+  background: #E5E5E5;
+  margin: 0 0px 15px 0;
+  width: 393px;
+  height: 1px;
+}
+.albamon-collection .date-time-1 {
+  margin: 0 0.2px 16px 0.2px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1;
+  color: #9E9E9E;
+}
+.albamon-collection .req-11 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1;
+  color: #BDA3E3;
+}
+.albamon-collection .requirement-3 {
+  border-radius: 5px;
+  border: 1px solid #BDA3E3;
+  background: rgba(189, 163, 227, 0.2);
+  position: relative;
+  display: flex;
+  padding: 5px 0 6px 0;
+  width: 90px;
+  box-sizing: border-box;
+}
+.albamon-collection .req-22 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1;
+  color: #79D7D3;
+}
+.albamon-collection .requirement-4 {
+  border-radius: 5px;
+  border: 1px solid #79D7D3;
+  background: rgba(121, 215, 211, 0.2);
+  position: relative;
+  display: flex;
+  padding: 5px 1.2px 6px 0;
+  width: 100px;
+  box-sizing: border-box;
+}
+.albamon-collection .req-23 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1;
+  color: #FF4F19;
+}
+.albamon-collection .requirement-5 {
+  border-radius: 5px;
+  border: 1px solid #FF4F19;
+  background: rgba(255, 79, 25, 0.2);
+  position: relative;
+  display: flex;
+  padding: 5px 1.2px 6px 0;
+  width: 100px;
+  box-sizing: border-box;
+}
+.albamon-collection .requirements-2 {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  width: 310px;
+  box-sizing: border-box;
+}
+.albamon-collection .listing-title-1 {
+  margin: 0 0.4px 15px 0.4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .circle-1 {
+  border-radius: 1.5px;
+  background: #B3B3B3;
+  margin: 0 4px 0 7px;
+  width: 3px;
+  height: 3px;
+}
+.albamon-collection .union-1 {
+  width: 14px;
+  height: 5.5px;
+}
+.albamon-collection .image-7 {
+  border-radius: 1px;
+  border: 2px solid #B3B3B3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1.5px;
+  width: 16px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .icon-1 {
+  display: flex;
+  width: 16px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .logo-icon-1 {
+  border-radius: 5px;
+  border: 1px solid #E8E8E8;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 16.1px;
+  display: flex;
+  padding: 12px 14px;
+  width: 44px;
+  box-sizing: border-box;
+}
+.albamon-collection .company-name-1 {
+  margin: 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .company-tag-1 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .sub-menu-1-content-1 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .line-311 {
+  background: #F4F4F4;
+  width: 352px;
+  height: 1px;
+}
+.albamon-collection .sub-menu-11 {
+  margin: 0 28px 26px 13px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-7711 {
+  border-radius: 4px;
+  border: 1px solid #E8E8E8;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 171.5px;
+  height: 53px;
+}
+.albamon-collection .vector-61 {
+  width: 17.5px;
+  height: 17.5px;
+}
+.albamon-collection .ant-designdollar-outlined-1 {
+  display: flex;
+  width: 17.5px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-42 {
+  border-radius: 15px;
+  background: #F8F8F8;
+  position: relative;
+  margin-right: 6.1px;
+  display: flex;
+  padding: 6.3px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.albamon-collection .pay-rate-9 {
+  margin: 0 14px 4px 0px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .number-3 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .container-59 {
+  position: relative;
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-776 {
+  border-radius: 7px;
+  position: relative;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0 11px 15px;
+  width: 171.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-777 {
+  border-radius: 4px;
+  border: 1px solid #E8E8E8;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 171.5px;
+  height: 53px;
+}
+.albamon-collection .formkitdatetime-1 {
+  width: 17.5px;
+  height: 17.5px;
+}
+.albamon-collection .container-92 {
+  border-radius: 15px;
+  background: #F8F8F8;
+  position: relative;
+  margin-right: 6.5px;
+  display: flex;
+  padding: 6px 6px 6.5px 6.5px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.albamon-collection .listing-length-1 {
+  margin: 0 0px 5px 0px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .amount-of-time-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .container-23 {
+  position: relative;
+  margin: 3px 0 2px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-792 {
+  border-radius: 7px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0 11px 15px;
+  width: 171.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .row-11 {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-779 {
+  border-radius: 4px;
+  border: 1px solid #E8E8E8;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 171.5px;
+  height: 53px;
+}
+.albamon-collection .group-3 {
+  width: 14.1px;
+  height: 13.5px;
+}
+.albamon-collection .lucidecalendar-1 {
+  display: flex;
+  width: 14.1px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-82 {
+  border-radius: 15px;
+  background: #F8F8F8;
+  position: relative;
+  margin-right: 6px;
+  display: flex;
+  padding: 7.5px 7.8px 9px 8.2px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.albamon-collection .days-of-the-week-1 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .days-1 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .container-46 {
+  position: relative;
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-778 {
+  border-radius: 7px;
+  position: relative;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0 11px 15px;
+  width: 171.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-7710 {
+  border-radius: 4px;
+  border: 1px solid #E8E8E8;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 171.5px;
+  height: 53px;
+}
+.albamon-collection .vector-46 {
+  width: 15.5px;
+  height: 15.5px;
+}
+.albamon-collection .radix-iconsclock-1 {
+  display: flex;
+  width: 15.5px;
+  height: 15.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-8 {
+  border-radius: 15px;
+  background: #F8F8F8;
+  position: relative;
+  margin-right: 6px;
+  display: flex;
+  padding: 7px 7px 7.5px 7.5px;
+  width: 30px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.albamon-collection .pay-rate-2 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .number-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .container-29 {
+  position: relative;
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-793 {
+  border-radius: 7px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 0 11px 15px;
+  width: 171.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .row-21 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .listing-features-1 {
+  margin: 0 20px 31px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .job-requirements-2 {
+  margin: 1px 5px 0 0;
+  display: inline-block;
+  width: 145px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .job-details-3 {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .company-details-1 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .details-divider-sections-1 {
+  margin: 0 19.1px 16.5px 18.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 355.7px;
+  box-sizing: border-box;
+}
+.albamon-collection .details-divider-lines-1 {
+  width: 393px;
+  height: 0.5px;
+}
+.albamon-collection .details-divider-1 {
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 393px;
+  box-sizing: border-box;
+}
+.albamon-collection .job-requirements-1 {
+  margin: 0 3px 31px 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 0.625;
+  color: #000000;
+}
+.albamon-collection .application-deadline {
+  margin-bottom: 23px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #6A6A6A;
+}
+.albamon-collection .already-hired {
+  margin-bottom: 23px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #6A6A6A;
+}
+.albamon-collection .gender {
+  margin-bottom: 23px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #6A6A6A;
+}
+.albamon-collection .age {
+  margin-bottom: 23px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #6A6A6A;
+}
+.albamon-collection .education {
+  margin-bottom: 23px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #6A6A6A;
+}
+.albamon-collection .application-deadline-1 {
+  margin-bottom: 23px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #6A6A6A;
+}
+.albamon-collection .application-deadline-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #6A6A6A;
+}
+.albamon-collection .requirements-categories {
+  margin-right: 19.3px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .deadline-type {
+  margin-bottom: 23px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .number-already-hired {
+  margin: 0 14.7px 23px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .gender-requiredif-any {
+  margin: 0 5.4px 23px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .age-range-required {
+  margin-bottom: 23px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .education-level-required {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 0.833;
+  color: #000000;
+}
+.albamon-collection .requirement-details-1 {
+  margin-bottom: 66px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .requirements-1 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .requirement-details {
+  margin: 0 9px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .container-57 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .line-292 {
+  background: #E5E5E5;
+  position: absolute;
+  left: 0px;
+  bottom: 97px;
+  width: 393px;
+  height: 1px;
+}
+.albamon-collection .call-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .call-button-1 {
+  border-radius: 10px;
+  border: 1px solid #D8D8D8;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 8px;
+  display: flex;
+  padding: 13px 0 12px 1px;
+  width: 117px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .apply-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #FFFFFF;
+}
+.albamon-collection .apply-button-1 {
+  border-radius: 10px;
+  background: #FF4F19;
+  position: relative;
+  display: flex;
+  padding: 13px 0 12px 0;
+  width: 228px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .container-52 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 20px 37px 20px;
+  box-sizing: border-box;
+}
+.albamon-collection .body-2 {
+  border-radius: 25px 25px 0 0;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding-bottom: 56px;
+  box-sizing: border-box;
+}
+.albamon-collection .albamon-listing-screen-no-company-banner {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 53.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-60 {
+  width: 16.9px;
+  height: 9.5px;
+}
+.albamon-collection .gravity-uiarrow-left-2 {
+  margin: 5.3px 12.6px 5.2px 0;
+  display: flex;
+  width: 16.9px;
+  height: 9.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .company-info-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .return-button-2 {
+  margin: 0 21.6px 29.5px 21.6px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .line-303 {
+  background: #E5E5E5;
+  margin: 0 0px 31px 0;
+  width: 393px;
+  height: 1px;
+}
+.albamon-collection .circle-2 {
+  border-radius: 1.5px;
+  background: #B3B3B3;
+  margin: 0 4px 0 7px;
+  width: 3px;
+  height: 3px;
+}
+.albamon-collection .union-2 {
+  width: 14px;
+  height: 5.5px;
+}
+.albamon-collection .image-8 {
+  border-radius: 1px;
+  border: 2px solid #B3B3B3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1.5px;
+  width: 16px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .icon-2 {
+  display: flex;
+  width: 16px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .logo-icon-2 {
+  border-radius: 5px;
+  border: 1px solid #E8E8E8;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 16px;
+  display: flex;
+  padding: 12px 14px;
+  width: 44px;
+  box-sizing: border-box;
+}
+.albamon-collection .logo-1 {
+  margin: 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .company-tag-2 {
+  margin-bottom: 34px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .line-312 {
+  background: #F4F4F4;
+  width: 352px;
+  height: 1px;
+}
+.albamon-collection .sub-menu-12 {
+  margin: 0 28px 26px 13px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .company-name-2 {
+  margin: 3px 21.7px 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .vector-52 {
+  width: 7.5px;
+  height: 6.9px;
+}
+.albamon-collection .ionheart-outline {
+  margin: 4.6px 3.2px 3.6px 0;
+  display: flex;
+  width: 7.5px;
+  height: 6.9px;
+  box-sizing: border-box;
+}
+.albamon-collection .follows {
+  margin-right: 3.7px;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 1.875;
+  color: #000000;
+}
+.albamon-collection .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 1.875;
+  color: #000000;
+}
+.albamon-collection .follow-button {
+  border-radius: 5px;
+  border: 1px solid #000000;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 3px 4.6px 4px 4.3px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-5 {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .benefit-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 1.667;
+  color: #BDA3E3;
+}
+.albamon-collection .requirement-6 {
+  border-radius: 5px;
+  background: rgba(189, 163, 227, 0.2);
+  position: relative;
+  margin-right: 10px;
+  display: flex;
+  padding: 2.5px 1.7px;
+  box-sizing: border-box;
+}
+.albamon-collection .benefit-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 1.667;
+  color: #BDA3E3;
+}
+.albamon-collection .requirement-7 {
+  border-radius: 5px;
+  background: rgba(121, 215, 211, 0.2);
+  position: relative;
+  margin-right: 10px;
+  display: flex;
+  padding: 2.5px 2.7px 2.5px 3.7px;
+  box-sizing: border-box;
+}
+.albamon-collection .req-24 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 1.667;
+  color: #FF4F19;
+}
+.albamon-collection .requirement-8 {
+  border-radius: 5px;
+  background: rgba(255, 79, 25, 0.2);
+  position: relative;
+  margin-right: 10px;
+  display: flex;
+  padding: 2.5px 4.2px 2.5px 3.2px;
+  box-sizing: border-box;
+}
+.albamon-collection .req-25 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 1.667;
+  color: #EA3323;
+}
+.albamon-collection .requirement-9 {
+  border-radius: 5px;
+  background: rgba(234, 51, 35, 0.2);
+  position: relative;
+  margin-right: 11.6px;
+  display: flex;
+  padding: 2.5px 4.2px 2.5px 3.2px;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-53 {
+  width: 15.8px;
+  height: 15.8px;
+}
+.albamon-collection .material-symbolshelp {
+  margin: 0.5px 0 3.7px 0;
+  display: flex;
+  width: 15.8px;
+  height: 15.8px;
+  box-sizing: border-box;
+}
+.albamon-collection .requirements-3 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .section-content {
+  margin: 0 13px 27px 13px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .rectangle-81 {
+  background: #F8F8F8;
+  width: 393px;
+  height: 10px;
+}
+.albamon-collection .sub-menu-2 {
+  margin-bottom: 27px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .basic-information {
+  margin: 0 13px 27px 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 0.75;
+  color: #000000;
+}
+.albamon-collection .rectangle-82 {
+  border-radius: 7px;
+  border: 1px solid #E8E8E8;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 367px;
+  height: 119px;
+}
+.albamon-collection .line-34 {
+  background: #F4F4F4;
+  position: absolute;
+  left: 122px;
+  bottom: 20px;
+  width: 1px;
+  height: 78px;
+}
+.albamon-collection .line-35 {
+  background: #F4F4F4;
+  position: absolute;
+  right: 125px;
+  bottom: 20px;
+  width: 1px;
+  height: 78px;
+}
+.albamon-collection .vector-54 {
+  width: 24px;
+  height: 24px;
+}
+.albamon-collection .mingcutecake-line {
+  margin: 0 0 5px 0.2px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.albamon-collection .xyears-old {
+  margin: 0 0.7px 5px 0.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 0.8;
+  color: #000000;
+}
+.albamon-collection .xmonth-xyear {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .frame-10 {
+  margin: 2px 22.6px 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.albamon-collection .group-4 {
+  width: 23.4px;
+  height: 19.2px;
+}
+.albamon-collection .pepicons-pencilpeople {
+  margin: 0 19.7px 7.8px 19.1px;
+  display: flex;
+  width: 23.4px;
+  height: 19.2px;
+  box-sizing: border-box;
+}
+.albamon-collection .xpeople {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 0.8;
+  color: #000000;
+}
+.albamon-collection .frame-11 {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .number-of-employees {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .container-7 {
+  margin: 4px 1.3px 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-59 {
+  width: 18px;
+  height: 24px;
+}
+.albamon-collection .pajamasbuilding {
+  margin-bottom: 34px;
+  display: flex;
+  width: 18px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.albamon-collection .company-type {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  color: #000000;
+}
+.albamon-collection .frame-12 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.albamon-collection .xsized-companysize-description {
+  position: absolute;
+  left: 50%;
+  bottom: 17px;
+  translate: -50% 0;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 0.8;
+  color: #000000;
+}
+.albamon-collection .container-55 {
+  position: relative;
+  display: flex;
+  width: 127.1px;
+  box-sizing: border-box;
+}
+.albamon-collection .container-72 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.albamon-collection .container-81 {
+  position: relative;
+  margin-bottom: 22px;
+  display: flex;
+  padding: 25px 0 24px 17px;
+  box-sizing: border-box;
+}
+.albamon-collection .representative {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #6A6A6A;
+}
+.albamon-collection .date-established {
+  margin: 0 18.9px 21px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #6A6A6A;
+}
+.albamon-collection .employee-number {
+  margin: 0 12.1px 21px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #6A6A6A;
+}
+.albamon-collection .business-information {
+  margin-bottom: 21px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #6A6A6A;
+}
+.albamon-collection .industry {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #6A6A6A;
+}
+.albamon-collection .corporation-type {
+  margin: 0 16.3px 21px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #6A6A6A;
+}
+.albamon-collection .location {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #6A6A6A;
+}
+.albamon-collection .wesbite {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #6A6A6A;
+}
+.albamon-collection .listed-or-not {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #6A6A6A;
+}
+.albamon-collection .income {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #6A6A6A;
+}
+.albamon-collection .frame-14 {
+  margin-right: 65.4px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .name {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.albamon-collection .specific-date {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.albamon-collection .number-of-employees-1 {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.albamon-collection .details-on-what-the-business-does {
+  margin-bottom: 21px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.albamon-collection .industry-1 {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.albamon-collection .type-small-medium-large {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.albamon-collection .address {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.albamon-collection .wesbite-address {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.albamon-collection .listed-unlisted {
+  margin-bottom: 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.albamon-collection .income-1 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.albamon-collection .frame-15 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .container-88 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .basic-information-highlight-box {
+  margin: 0 10px 0 13px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .body-3 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .albamon-company-profile-page {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-top: 53.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .frame-5 {
+  margin: 0 276px 2841px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 189px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-228 {
+  transform: rotate(119.822deg);
+  position: absolute;
+  left: 26px;
+  top: 3457px;
+  width: 451.5px;
+  height: 524.4px;
+}
+.albamon-collection .vector-227 {
+  transform: rotate(-38.957deg);
+  position: absolute;
+  left: -15px;
+  top: 1798px;
+  width: 517.4px;
+  height: 488.1px;
+}
+.albamon-collection .goal-create-our-own-product-strategydirection-understand-your-market-position-and-share-develop-aux-strategy-and-prioritize-the-design-process-discover-how-competitors-solve-similar-usability-issues-learn-about-failures-and-how-to-avoid-them-determine-competition-strengths-and-weaknesses-learn-about-trends-and-innovation-support-user-and-market-research {
+  margin-bottom: 106px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.goal-create-our-own-product-strategydirection-understand-your-market-position-and-share-develop-aux-strategy-and-prioritize-the-design-process-discover-how-competitors-solve-similar-usability-issues-learn-about-failures-and-how-to-avoid-them-determine-competition-strengths-and-weaknesses-learn-about-trends-and-innovation-support-user-and-market-research {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.333;
+}
+.albamon-collection .onboarding {
+  margin: 0 55px 29px 55px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .start-up-ad-11 {
+  border: 1px solid #000000;
+  background: url('assets/images/StartUpAd1.png') 50% / cover no-repeat;
+  margin: 0 74px 0.4px 0;
+  width: 254px;
+  height: 549.6px;
+}
+.albamon-collection .start-up-ad-21 {
+  border: 1px solid #000000;
+  background: url('assets/images/StartUpAd2.png') 50% / cover no-repeat;
+  margin: 0 74.2px 0.4px 0;
+  width: 254px;
+  height: 549.6px;
+}
+.albamon-collection .img-7094 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7094.png') 50% / cover no-repeat;
+  margin-right: 74px;
+  width: 254px;
+  height: 550px;
+}
+.albamon-collection .user-type-selection-1 {
+  border: 1px solid #000000;
+  background: url('assets/images/UserTypeSelection.png') 50% / cover no-repeat;
+  margin: 0 74.5px 0.4px 0;
+  width: 254px;
+  height: 549.6px;
+}
+.albamon-collection .img-7097 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7097.png') 50% / cover no-repeat;
+  margin-right: 74px;
+  width: 254px;
+  height: 550px;
+}
+.albamon-collection .img-7099 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7099.png') 50% / cover no-repeat;
+  margin-right: 74px;
+  width: 255.1px;
+  height: 550px;
+}
+.albamon-collection .img-7100 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7100.png') 50% / cover no-repeat;
+  width: 254.1px;
+  height: 550px;
+}
+.albamon-collection .container-44 {
+  margin: 0 55px 16px 55px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 2223.7px;
+  box-sizing: border-box;
+}
+.albamon-collection .event-banner-anice-festive-touch-not-as-applicable-in-us-job-market-shouldnt-pop-up-until-the-user-reaches-the-home-page {
+  margin: 0 85.2px 51px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .privacy-policy-lots-of-text-can-condense-toaccept-privacy-policy-checkbox-in-the-us {
+  margin: 0 109.1px 68px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .user-types-clear-distinction-inability-to-transfer-from-one-to-the-other {
+  margin: 0 97.6px 68px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .create-profile-gender-age-location-should-also-include-resume-available-hours-expected-pay-etc-would-save-application-time-simplify-application-flow-not-having-this-info-ready-could-block-users-from-onboarding {
+  margin-right: 82.4px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .location-input-kinda-awful-to-look-at-should-just-implement-text-input-autofilldropdown-instead-of-awhole-page-for-this {
+  margin: 0 87.7px 51px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .go-to-homepage-vs-tailored-jobs-list-shouldnt-homepage-have-tailored-jobs-list-less-choices-less-mental-load-for-user-should-maybe-just-prompt-tocomplete-profile-setup {
+  margin-bottom: 34px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .container-39 {
+  margin: 0 170.6px 93px 0;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .jet {
+  margin-right: 22px;
+  width: 306px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .custom-search {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .location-search {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .map {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .date-search {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .emergency-search {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .container-37 {
+  margin: 0 157.9px 23px 55px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2616.1px;
+  box-sizing: border-box;
+}
+.albamon-collection .jet-feature-tool-to-make-search-fastereasier-feature-feels-redundant {
+  margin-bottom: 669px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .top-nav {
+  transform: rotate(-71.708deg);
+  margin-right: 20.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .container-16 {
+  margin: 0 95.7px 151.2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.albamon-collection .img-7108 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7108.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 3.4px 17px 0;
+  width: 254.5px;
+  height: 550px;
+}
+.albamon-collection .back-arrow-really-hard-to-see-strange-placement-filter-nice-and-upfront-sort-recent-distance-hourly-wage-education-weekly-pay-monthly-salary-annual-salary-alphabetically {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .container-70 {
+  margin: 0 75.1px 137.2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.albamon-collection .adding-custom-search-up-to-three-at-atime-basically-create-anew-profile-age-gender-workplace-education-etc-strange-feature-best-use-case-is-to-find-jobs-for-multiple-people {
+  margin: 0 19.3px 23px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .filter-more-like-an-edit-profile-page-can-change-your-key-information-here-feels-like-filter-should-be-more-for-details-of-the-job-than-your-qualifications-pay-entry-level-senior-level-etc-distance-etc-qualificationseducation-years-of-experience-etc-should-be-part-of-profile {
+  margin: 0 24.4px 23px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .img-7132 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7132.png') 50% / cover no-repeat;
+  margin-left: 1px;
+  width: 253px;
+  height: 547.2px;
+}
+.albamon-collection .container-21 {
+  margin: 9px 69px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.albamon-collection .img-7133 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7133.png') 50% / cover no-repeat;
+  margin: 0 1.9px 22px 0;
+  width: 251px;
+  height: 545px;
+}
+.albamon-collection .location-picking-dont-think-this-is-important-enough-to-have-its-own-page-location-be-part-of-custom-search {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .container-36 {
+  margin: 0 74.1px 324.2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.albamon-collection .img-7135 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7135.png') 50% / cover no-repeat;
+  margin: 0 0 37px 1px;
+  width: 252px;
+  height: 544px;
+}
+.albamon-collection .asks-for-permission-for-app-to-use-current-location {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .container-60 {
+  margin: 0 81px 344.2px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .img-7136 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7136.png') 50% / cover no-repeat;
+  margin: 0 80px 415.2px 0;
+  width: 251px;
+  height: 544px;
+}
+.albamon-collection .img-7137 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7137.png') 50% / cover no-repeat;
+  margin: 1px 74px 414.2px 0;
+  width: 251px;
+  height: 544px;
+}
+.albamon-collection .img-7138 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7138.png') 50% / cover no-repeat;
+  margin-bottom: 414.2px;
+  width: 252px;
+  height: 545px;
+}
+.albamon-collection .container-26 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-224 {
+  position: absolute;
+  left: 570px;
+  top: 35px;
+  width: 75px;
+  height: 42.5px;
+}
+.albamon-collection .vector-225 {
+  transform: rotate(46.363deg);
+  position: absolute;
+  left: 567px;
+  top: 111px;
+  width: 82.5px;
+  height: 83.6px;
+}
+.albamon-collection .container-76 {
+  position: relative;
+  margin: 0 221px 147.8px 55px;
+  display: flex;
+  box-sizing: border-box;
+}
+.albamon-collection .home {
+  margin-right: 22px;
+  width: 306.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .job-listing {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .job-listingfull {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .application-flow {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .container-62 {
+  margin: 0 55px 29px 55px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1810.6px;
+  box-sizing: border-box;
+}
+.albamon-collection .home-11 {
+  border: 1px solid #000000;
+  background: url('assets/images/Home1.png') 50% / cover no-repeat;
+  margin-right: 74px;
+  width: 254px;
+  height: 549.6px;
+}
+.albamon-collection .job-listing-11 {
+  border: 1px solid #000000;
+  background: url('assets/images/JobListing1.png') 50% / cover no-repeat;
+  width: 254px;
+  height: 549.6px;
+}
+.albamon-collection .container-24 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 582px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-226 {
+  position: absolute;
+  left: 236px;
+  top: 50%;
+  translate: 0 -50%;
+  width: 75px;
+  height: 42.5px;
+}
+.albamon-collection .container-9 {
+  position: relative;
+  margin-bottom: 17.4px;
+  display: flex;
+  width: 582px;
+  box-sizing: border-box;
+}
+.albamon-collection .cute-logo-animation-and-loading-spinner-use-of-cartoonsanimations-in-korean-systems-friendliness-approachability-iconsider-this-astrength-of-korean-products-but-this-kind-of-branding-may-be-considered-unprofessional-in-us-market-home-layout-banner-is-distracting-to-mescrolls-too-fast-doesnt-loop-features-menu-is-interesting-perhaps-too-much-going-on-between-bottom-nav-and-top-nav-search-bar-really-high-also-thought-location-select-was-the-search-bar-location-select-not-as-important-to-have-its-own-massive-dropdown-for {
+  margin-bottom: 311px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .bottom-nav {
+  transform: rotate(-3.345deg);
+  margin: 0 0 433px 36.5px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .ai-feature {
+  margin-right: 22px;
+  width: 306px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .saved-jobs {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .container-74 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 514.5px;
+  box-sizing: border-box;
+}
+.albamon-collection .img-7139 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7139.png') 50% / cover no-repeat;
+  margin-right: 75px;
+  width: 253px;
+  height: 547px;
+}
+.albamon-collection .img-7140 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7140.png') 50% / cover no-repeat;
+  margin-bottom: 2.2px;
+  width: 253px;
+  height: 544.8px;
+}
+.albamon-collection .container-73 {
+  margin: 0 1px 21px 0;
+  display: flex;
+  flex-direction: row;
+  width: 581px;
+  box-sizing: border-box;
+}
+.albamon-collection .ai-usage-nice-to-have-custom-recommendations-but-how-is-this-different-from-their-jet-feature-seems-like-every-app-is-just-desperate-to-incorporate-ai-probably-just-enough-to-have-ageneral-recommendations-feature {
+  margin: 3px 78.2px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .tabs-all-applied-done-also-shows-recently-viewed-and-how-recentlynot-necessary-starring-is-agood-feature-ilike-how-visible-it-is-on-each-job-listing-block-most-important-information-of-job-up-front-recommendations-again-at-the-bottom {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .container-71 {
+  margin-right: 6px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .container-20 {
+  margin-right: 74px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .profile {
+  margin-bottom: 32px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .img-7141 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7141.png') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 253px;
+  height: 547px;
+}
+.albamon-collection .user-info-recommended-jobs-ai-timelinerecommendations {
+  margin-right: 8.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .container-80 {
+  margin: 1729px 1.1px 119px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .qualifications {
+  margin-bottom: 180px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  text-decoration-line: underline;
+  color: #000000;
+}
+.albamon-collection .location-directions {
+  margin-bottom: 187px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.albamon-collection .job-details-1 {
+  margin-bottom: 93px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.albamon-collection .application {
+  margin-bottom: 373px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  text-decoration-line: underline;
+  color: #000000;
+}
+.albamon-collection .how-to-apply {
+  margin-bottom: 198px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.albamon-collection .contact-info {
+  margin-bottom: 108px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.albamon-collection .applicant-demographics {
+  margin-bottom: 218px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.albamon-collection .company-info {
+  margin-bottom: 346px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  text-decoration-line: underline;
+  color: #000000;
+}
+.albamon-collection .similar-jobs {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.albamon-collection .container-45 {
+  margin: 329px 14px 236px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.albamon-collection .img-7109 {
+  background: url('assets/images/Img7109.png') 50% / cover no-repeat;
+  position: relative;
+  width: 253px;
+  height: 549.3px;
+}
+.albamon-collection .img-7110 {
+  background: url('assets/images/Img7110.png');
+  position: absolute;
+  left: 50%;
+  top: 479px;
+  translate: -50% 0;
+  width: 253px;
+  height: 458.4px;
+}
+.albamon-collection .img-7111 {
+  background: url('assets/images/Img7111.png');
+  position: absolute;
+  left: 50%;
+  top: 875px;
+  translate: -50% 0;
+  width: 253px;
+  height: 457px;
+}
+.albamon-collection .img-7112 {
+  background: url('assets/images/Img7112.png');
+  position: absolute;
+  left: 50%;
+  bottom: 761.1px;
+  translate: -50% 0;
+  width: 253px;
+  height: 456.4px;
+}
+.albamon-collection .img-7113 {
+  background: url('assets/images/Img7113.png');
+  position: absolute;
+  left: 50%;
+  bottom: 397px;
+  translate: -50% 0;
+  width: 253px;
+  height: 457.4px;
+}
+.albamon-collection .img-7114 {
+  background: url('assets/images/Img7114.png');
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 253px;
+  height: 459.4px;
+}
+.albamon-collection .job-details {
+  border: 1px solid #000000;
+  position: relative;
+  margin: 0 85px 38.6px 0;
+  display: flex;
+  width: 253px;
+  height: 2490.4px;
+  box-sizing: border-box;
+}
+.albamon-collection .img-7117 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7117.png') 50% / cover no-repeat;
+  margin: 0 21.9px 17.7px 0;
+  width: 253px;
+  height: 549.3px;
+}
+.albamon-collection .application-flow-choose-amethod-to-apply-need-to-have-resume-on-profile-send-to-profile-pageyou-need-to-add-more-info-before-applying-edit-info-again-how-much-to-include-in-onboarding-vs-afterwards-perhaps-onboarding-should-redirect-to-profile-so-user-knows-they-need-to-add-more-info-before-applying {
+  margin: 0 17.3px 741px 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .company-page {
+  margin: 0 0 30px 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .company-profile-1 {
+  border: 1px solid #000000;
+  background: url('assets/images/CompanyProfile.png') 50% / cover no-repeat;
+  margin: 0 2.9px 0 18px;
+  width: 254px;
+  height: 549.6px;
+}
+.albamon-collection .container-43 {
+  margin: 0 53.1px 393.4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.albamon-collection .img-7118 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7118.png') 50% / cover no-repeat;
+  margin: 0 75px 1979.7px 0;
+  width: 253px;
+  height: 549.3px;
+}
+.albamon-collection .img-7119 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7119.png') 50% / cover no-repeat;
+  margin: 0 75px 1982.2px 0;
+  width: 253px;
+  height: 546.8px;
+}
+.albamon-collection .img-7120 {
+  border: 1px solid #000000;
+  background: url('assets/images/Img7120.png') 50% / cover no-repeat;
+  margin-bottom: 1982.2px;
+  width: 253px;
+  height: 546.8px;
+}
+.albamon-collection .container-30 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.albamon-collection .vector-222 {
+  position: absolute;
+  right: 1267px;
+  bottom: 625.5px;
+  width: 75px;
+  height: 42.5px;
+}
+.albamon-collection .container-54 {
+  position: relative;
+  margin-left: 55px;
+  display: flex;
+  box-sizing: border-box;
+}
+.albamon-collection .container-18 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.albamon-collection .ciels-albamon-audit {
+  background: #FFFFFF;
+  position: relative;
+  margin: 61px 169px 0 0;
+  display: flex;
+  padding: 26px 51px 186px 31px;
+  box-sizing: border-box;
+}
+.albamon-collection .home-1 {
+  margin-bottom: 28px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .image-8 {
+  border: 1px solid #000000;
+  background: url('assets/images/Image81.png') 50% / cover no-repeat;
+  margin-right: 25px;
+  width: 321px;
+  height: 694px;
+}
+.albamon-collection .home-top-nav-bossmon-jet-your-job-postings-list-view-iassume-you-can-also-view-applicants-here-also-can-access-from-the-bottom-navredundant-corporatecompany-verification-to-prevent-scams-must-input-business-registration-and-other-infodo-we-need-to-do-this-talent-search-interesting-feature-can-browse-through-all-app-users-who-are-currently-looking-for-jobshow-does-this-work-on-the-user-side {
+  margin: 223px 0 182px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .container-47 {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .home-strange-how-employers-are-still-shown-job-listings-feels-like-home-screen-should-default-to-your-jobs-and-applicantstalent {
+  margin: 5px 10.3px 111.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .vector-2281 {
+  transform: rotate(96.022deg);
+  width: 127.8px;
+  height: 201.2px;
+}
+.albamon-collection .container-27 {
+  margin-bottom: 66.8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .bottom-nav-text-menu-ai-suggestions-recommends-talent-instead-of-job-listings-your-job-postingsagain-profile {
+  margin-bottom: 63px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.albamon-collection .text-menu {
+  margin-right: 22px;
+  width: 416px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .ai-suggestions {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .your-job-postings {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .your-profile {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.albamon-collection .container-11 {
+  margin: 0 4px 25px 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1494.3px;
+  box-sizing: border-box;
+}
+.albamon-collection .image-9 {
+  border: 1px solid #000000;
+  background: url('assets/images/Image9.png') 50% / cover no-repeat;
+  margin: 3px 122.5px 0 0;
+  width: 320.5px;
+  height: 694px;
+}
+.albamon-collection .image-10 {
+  border: 1px solid #000000;
+  background: url('assets/images/Image10.png') 50% / cover no-repeat;
+  margin: 3px 121.8px 0 0;
+  width: 320.2px;
+  height: 694px;
+}
+.albamon-collection .image-11 {
+  border: 1px solid #000000;
+  background: url('assets/images/Image11.png') 50% / cover no-repeat;
+  margin: 3px 98.4px 0 0;
+  width: 320.6px;
+  height: 694px;
+}
+.albamon-collection .image-12 {
+  border: 1px solid #000000;
+  background: url('assets/images/Image121.png') 50% / cover no-repeat;
+  width: 322px;
+  height: 697px;
+}
+.albamon-collection .container-32 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 1626px;
+  box-sizing: border-box;
+}
+.albamon-collection .albamon-employer-side {
+  background: #FFFFFF;
+  margin: 0 180px 2480px 0;
+  display: flex;
+  flex-direction: column;
+  padding: 128px 0 588px 179px;
+  width: 3110px;
+  box-sizing: border-box;
+}
+.albamon-collection .albamon-comp-study-summary {
+  background: #FFFFFF;
+  margin-bottom: 1615px;
+  width: 3110px;
+  height: 3573px;
+}
+.albamon-collection .container-63 {
+  margin-right: 323px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection .container-86 {
+  margin: 113.5px 0 6240px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.albamon-collection .container-35 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.albamon-collection {
+  background: #000000;
+  display: flex;
+  flex-direction: column;
+  padding: 2166px 0 1729px 1941px;
+  width: 36075px;
+  box-sizing: border-box;
+}

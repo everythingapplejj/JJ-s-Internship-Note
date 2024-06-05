@@ -1,0 +1,600 @@
+.employer-my-listings-review-listing-minimized .close-btn {
+  border-radius: 8.1px;
+  background: #FC615C;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-my-listings-review-listing-minimized .restore-btn {
+  border-radius: 8.1px;
+  background: #FDBE40;
+  margin-right: 10.8px;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-my-listings-review-listing-minimized .minimize-btn {
+  border-radius: 8.1px;
+  background: #34CA49;
+  width: 16.2px;
+  height: 16.2px;
+}
+.employer-my-listings-review-listing-minimized .action-bttn {
+  margin: 5.4px 17.5px 8.1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 70.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .arrow {
+  width: 6.8px;
+  height: 13.5px;
+}
+.employer-my-listings-review-listing-minimized .prev-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 2.7px;
+  display: flex;
+  padding: 8.1px 13.5px 8.1px 12.2px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .arrow-1 {
+  width: 6.8px;
+  height: 13.5px;
+}
+.employer-my-listings-review-listing-minimized .prev-btn-2 {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 14.9px;
+  display: flex;
+  padding: 8.1px 12.1px 8.1px 13.5px;
+  width: 32.4px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .option-btn {
+  width: 50px;
+  height: 29.7px;
+}
+.employer-my-listings-review-listing-minimized .container {
+  margin-bottom: 9.4px;
+  display: flex;
+  flex-direction: row;
+  width: 220px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .safaribrowser {
+  margin: 3px 7px 0 0;
+  display: inline-block;
+  width: 583px;
+  overflow-wrap: break-word;
+  font-family: 'SF Compact Display', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.employer-my-listings-review-listing-minimized .refresh {
+  margin-bottom: 5px;
+  width: 10px;
+  height: 12px;
+}
+.employer-my-listings-review-listing-minimized .address-bar {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 7px 0 0;
+  width: 1143px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .share {
+  width: 13.5px;
+  height: 18.9px;
+}
+.employer-my-listings-review-listing-minimized .share-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 10.8px 9.4px 0;
+  display: flex;
+  padding: 4.7px 18.2px 6.1px 18.2px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .view {
+  width: 14.9px;
+  height: 14.9px;
+}
+.employer-my-listings-review-listing-minimized .view-search-btn {
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 3px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 17.5px 9.4px 0;
+  display: flex;
+  padding: 7.4px 17.6px 7.4px 17.5px;
+  width: 50px;
+  height: 29.7px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .add-btn {
+  margin-top: 6.7px;
+  width: 32.4px;
+  height: 32.4px;
+}
+.employer-my-listings-review-listing-minimized .container-2 {
+  display: flex;
+  flex-direction: row;
+  width: 160.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .browser-bar {
+  box-shadow: 0px 1px 0px 0px #B5B4B5;
+  border-radius: 5px 5px 0 0;
+  background: linear-gradient(180deg, #EBEAEB, #D7D6D7);
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 42.8px 0px 0.1px 17.6px;
+  width: 1728px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .job-ez {
+  overflow-wrap: break-word;
+  font-family: 'Kanit';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.employer-my-listings-review-listing-minimized .job-ez-word-mark {
+  background: #000000;
+  position: relative;
+  margin-bottom: 100px;
+  display: flex;
+  padding: 16px 3.3px 16px 3px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .vector-5 {
+  width: 22.5px;
+  height: 22.5px;
+}
+.employer-my-listings-review-listing-minimized .list {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  padding: 16.3px 17.8px;
+  width: 58px;
+  height: 55px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .frame-1000004346 {
+  margin-bottom: 171.5px;
+  display: flex;
+  width: 58px;
+  height: 55px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .vector-6 {
+  width: 17.5px;
+  height: 17.5px;
+}
+.employer-my-listings-review-listing-minimized .list-item {
+  margin-bottom: 44.5px;
+  display: flex;
+  width: 17.5px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .vector-7 {
+  width: 20px;
+  height: 17.5px;
+}
+.employer-my-listings-review-listing-minimized .list-item-1 {
+  margin: 0 2.5px 40.8px 2.5px;
+  display: flex;
+  width: 20px;
+  height: 17.5px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .vector-8 {
+  width: 25px;
+  height: 25px;
+}
+.employer-my-listings-review-listing-minimized .list-item-2 {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .list-1 {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30.3px 16.5px 26.5px 16.5px;
+  width: 58px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .frame-1000004347 {
+  margin-bottom: 171.5px;
+  display: flex;
+  width: 58px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .vector-9 {
+  width: 17.5px;
+  height: 25px;
+}
+.employer-my-listings-review-listing-minimized .list-item-3 {
+  margin: 0 0 31.5px 0px;
+  display: flex;
+  width: 17.5px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .vector-10 {
+  width: 20px;
+  height: 20px;
+}
+.employer-my-listings-review-listing-minimized .list-item-4 {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .list-2 {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 26.5px 19px 29px 19px;
+  width: 58px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .frame-1000004348 {
+  display: flex;
+  width: 58px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .frame-1000004349 {
+  margin-right: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 58px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .sidebar-free-component {
+  background: #0C2B5A;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 0 100px 0;
+  width: 137px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .sidebar {
+  margin-right: 180.5px;
+  display: flex;
+  width: 137px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .review-listing {
+  overflow-wrap: break-word;
+  font-family: var(--text-2-xlfont-semibold-font-family, 'Inter');
+  font-weight: var(--text-2-xlfont-semibold-font-weight, 600);
+  font-size: var(--text-2-xlfont-semibold-font-size, 24px);
+  line-height: var(--text-2-xlfont-semibold-line-height, 1.5);
+  color: var(--gray-900, #111928);
+}
+.employer-my-listings-review-listing-minimized .logo {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .text {
+  margin-right: 10.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--white-4, #FFFFFF);
+}
+.employer-my-listings-review-listing-minimized .vector-2 {
+  width: 12px;
+  height: 13.3px;
+}
+.employer-my-listings-review-listing-minimized .trash-outline {
+  margin: 4.8px 0;
+  display: flex;
+  width: 12px;
+  height: 13.3px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .button {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  position: absolute;
+  top: 50%;
+  right: 14px;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 14px 8px 12px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .navbar {
+  border-radius: 8px;
+  background: var(--white-4, #FFFFFF);
+  position: relative;
+  margin-bottom: 46.5px;
+  padding: 24.3px 68px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .ph {
+  overflow-wrap: break-word;
+  font-family: var(--leading-nonetext-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--leading-nonetext-xsfont-medium-font-weight, 500);
+  font-size: var(--leading-nonetext-xsfont-medium-font-size, 12px);
+  line-height: var(--leading-nonetext-xsfont-medium-line-height, 1);
+  color: var(--gray-900, #111928);
+}
+.employer-my-listings-review-listing-minimized .avatar {
+  border-radius: 999px;
+  background: var(--gray-100, #F3F4F6);
+  margin: 0 12px 32px 0;
+  display: flex;
+  padding: 9px 6.7px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .heading-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--leading-tighttext-2-xlfont-bold-font-family, 'Inter');
+  font-weight: var(--leading-tighttext-2-xlfont-bold-font-weight, 700);
+  font-size: var(--leading-tighttext-2-xlfont-bold-font-size, 24px);
+  line-height: var(--leading-tighttext-2-xlfont-bold-line-height, 1.25);
+  color: var(--gray-900, #111928);
+}
+.employer-my-listings-review-listing-minimized .text-4 {
+  margin-right: 3.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-my-listings-review-listing-minimized .heading-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .main-info {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .text-5 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: #1A56DB;
+}
+.employer-my-listings-review-listing-minimized .button-1 {
+  border-radius: 8px;
+  border: 1px solid #1A56DB;
+  margin-right: 21px;
+  display: flex;
+  padding: 9px 19.8px 9px 19px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .text-7 {
+  overflow-wrap: break-word;
+  font-family: var(--text-smfont-medium-font-family, 'Inter');
+  font-weight: var(--text-smfont-medium-font-weight, 500);
+  font-size: var(--text-smfont-medium-font-size, 14px);
+  line-height: var(--text-smfont-medium-line-height, 1.5);
+  color: var(--white-4, #FFFFFF);
+}
+.employer-my-listings-review-listing-minimized .button-2 {
+  border-radius: 8px;
+  background: var(--primary-700, #1A56DB);
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .indicator-examples {
+  width: 127px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .buttons {
+  margin: 6px 0 15px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .heading {
+  margin: 0 11px 15px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 950px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .heading-2 {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.25;
+  color: var(--gray-900, #111928);
+}
+.employer-my-listings-review-listing-minimized .text-6 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--gray-500, #6B7280);
+}
+.employer-my-listings-review-listing-minimized .frame-1000004317 {
+  display: flex;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .frame-1030 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-my-listings-review-listing-minimized .badge {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  margin-bottom: 2.5px;
+  display: flex;
+  padding: 2px 10.1px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .vector-3 {
+  width: 5.8px;
+  height: 11.7px;
+}
+.employer-my-listings-review-listing-minimized .dollar {
+  margin: 3.2px 8.4px 3.2px 0;
+  display: flex;
+  width: 5.8px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .text-2 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-my-listings-review-listing-minimized .badge-1 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  margin: 0 0 2.5px 16px;
+  display: flex;
+  flex-direction: row;
+  padding: 2px 10.3px 2px 14.1px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .vector-4 {
+  width: 9.3px;
+  height: 11.7px;
+}
+.employer-my-listings-review-listing-minimized .pin {
+  margin: 3.2px 6.5px 3.2px 0;
+  display: flex;
+  width: 9.3px;
+  height: 11.7px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .text-3 {
+  overflow-wrap: break-word;
+  font-family: var(--text-xsfont-medium-font-family, 'Inter');
+  font-weight: var(--text-xsfont-medium-font-weight, 500);
+  font-size: var(--text-xsfont-medium-font-size, 12px);
+  line-height: var(--text-xsfont-medium-line-height, 1.5);
+  color: var(--primary-800, #1E429F);
+}
+.employer-my-listings-review-listing-minimized .badge-2 {
+  border-radius: 6px;
+  background: var(--primary-100, #E1EFFE);
+  display: flex;
+  flex-direction: row;
+  padding: 2px 10.2px 2px 12.3px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .job-tags {
+  margin-bottom: 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .text-info {
+  margin-left: 42px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 919px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .listing-card-web {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  border: 1px solid #E5E7EB;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 115px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12.5px 15px 10.5px 24px;
+  width: 1000px;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .frame-1000004357 {
+  margin: 31px 0 682px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized .container-1 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.employer-my-listings-review-listing-minimized {
+  background: #EDF0F4;
+  display: flex;
+  flex-direction: column;
+  width: 1728px;
+  box-sizing: border-box;
+}
