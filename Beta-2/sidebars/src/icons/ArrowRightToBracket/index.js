@@ -1,1 +1,0 @@
-export { ArrowRightToBracket } from "./ArrowRightToBracket";
