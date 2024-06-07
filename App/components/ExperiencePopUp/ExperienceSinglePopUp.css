@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+.experience-single-overlay {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.experience-single-modal {
+  width: 390px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+}
+
+.experience-single-modal-content {
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.experience-single-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 8px;
+}
+
+.experience-single-modal-header h4 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+  flex-grow: 1;
+  text-align: left;
+}
+
+.experience-single-exit-button, .experience-single-back-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.experience-single-modal-body {
+  margin-top: 16px;
+  color: #6B7280;
+  padding-left: 11px;
+  padding-right: 11px;
+}
+
+.experience-single-detail {
+  margin-top: 16px;
+  color: #6B7280;
+}
+
+.experience-single-detail p {
+  margin: 0 0 8px 0;
+  word-wrap: break-word;
+}
+
+.experience-single-detail p.job-description-header {
+  margin-top: 16px;
+}
+
+.experience-single-date {
+  display: flex;
+  align-items: center;
+  padding: 12px 16px;
+  color: #6B7280;
+  background-color: #F9FAFB;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  margin-top: 8px;
+}
+
+.experience-single-calendar-icon {
+  margin-right: 8px;
+  width: 16px;
+  height: 16px;
+}
+
+.experience-single-modal-body p,
+.experience-single-detail p,
+.experience-single-date span {
+  color: #6B7280;
+}
+
+.experience-single-modal-body p {
+  line-height: 1.6;
+}
